@@ -1,0 +1,1 @@
+callback({"markets":[{"id":346756,"name":"bickerdike","country":"ca","lat":53.55,"lon":-116.633333},{"id":349237,"name":"marlboro","country":"ca","lat":53.55,"lon":-116.766667},{"id":349789,"name":"obed","country":"ca","lat":53.55,"lon":-117.216667},{"id":349328,"name":"medicine lodge","country":"ca","lat":53.533333,"lon":-117.016667}]});

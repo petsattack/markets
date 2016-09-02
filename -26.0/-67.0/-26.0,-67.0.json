@@ -1,0 +1,1 @@
+callback({"markets":[{"id":128564,"name":"cara cienaga","country":"ar","lat":-25.85,"lon":-67.35},{"id":127768,"name":"antofagasta de la sierra","country":"ar","lat":-26.059403,"lon":-67.406362}]});

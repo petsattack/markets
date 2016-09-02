@@ -1,0 +1,1 @@
+callback({"markets":[{"id":2079909,"name":"puerto varadero","country":"pe","lat":-10.6666667,"lon":-72.4333333},{"id":2079958,"name":"puesto varadero","country":"pe","lat":-10.6833333,"lon":-72.45},{"id":2060746,"name":"aleria","country":"pe","lat":-10.75,"lon":-71.8166667}]});

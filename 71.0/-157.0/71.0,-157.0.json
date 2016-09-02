@@ -1,0 +1,1 @@
+callback({"markets":[{"id":2912047,"name":"browerville","country":"us","lat":71.2980556,"lon":-156.77},{"id":2912021,"name":"barrow","country":"us","lat":71.2905556,"lon":-156.7886111}]});

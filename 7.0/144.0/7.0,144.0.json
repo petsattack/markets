@@ -1,0 +1,1 @@
+callback({"markets":[{"id":2969911,"name":"falarik","country":"us","lat":7.2580556,"lon":144.4480556},{"id":2970330,"name":"rauau","country":"us","lat":7.2513889,"lon":144.4508333},{"id":2969953,"name":"iauru","country":"us","lat":7.2444444,"lon":144.4522222},{"id":2969955,"name":"ievang","country":"us","lat":7.2475,"lon":144.4522222}]});

@@ -1,0 +1,1 @@
+callback({"markets":[{"id":2540808,"name":"tukzin-kurt","country":"ru","lat":62.134722,"lon":64.12},{"id":2426754,"name":"kommunisticheskiy","country":"ru","lat":61.678889,"lon":64.481944},{"id":2419659,"name":"khongorurt","country":"ru","lat":61.964444,"lon":64.242778},{"id":2517128,"name":"shukhtungort","country":"ru","lat":62.378611,"lon":64.098056}]});

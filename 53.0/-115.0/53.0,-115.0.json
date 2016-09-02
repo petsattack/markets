@@ -1,0 +1,1 @@
+callback({"markets":[{"id":347643,"name":"drayton valley","country":"ca","lat":53.216667,"lon":-114.983333}]});

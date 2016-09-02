@@ -1,0 +1,1 @@
+callback({"markets":[{"id":132330,"name":"los monos","country":"ar","lat":-46.02933,"lon":-69.592473},{"id":134227,"name":"rio mayo","country":"ar","lat":-45.685734,"lon":-70.257974},{"id":129979,"name":"el pluma","country":"ar","lat":-46.470977,"lon":-70.043638}]});

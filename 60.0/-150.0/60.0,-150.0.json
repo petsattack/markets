@@ -1,0 +1,1 @@
+callback({"markets":[{"id":2912546,"name":"snug harbor","country":"us","lat":60.4891667,"lon":-149.7841667},{"id":2912103,"name":"cooper landing","country":"us","lat":60.49,"lon":-149.8341667}]});

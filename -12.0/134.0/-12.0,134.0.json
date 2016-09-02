@@ -1,0 +1,1 @@
+callback({"markets":[{"id":156737,"name":"maningrida","country":"au","lat":-12.05111,"lon":134.22258}]});

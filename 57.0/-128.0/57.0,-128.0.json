@@ -1,0 +1,1 @@
+callback({"markets":[{"id":347103,"name":"caribou hide","country":"ca","lat":57.433333,"lon":-127.55}]});

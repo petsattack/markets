@@ -1,0 +1,1 @@
+callback({"markets":[{"id":348634,"name":"juniper station","country":"ca","lat":46.533333,"lon":-67.166667},{"id":350035,"name":"plaster rock","country":"ca","lat":46.9,"lon":-67.383333}]});

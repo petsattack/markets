@@ -1,0 +1,1 @@
+callback({"markets":[{"id":347166,"name":"centreville","country":"ca","lat":59.266667,"lon":-129.416667},{"id":349291,"name":"mcdames creek","country":"ca","lat":59.183333,"lon":-129.233333}]});

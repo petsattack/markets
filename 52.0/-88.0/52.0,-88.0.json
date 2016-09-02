@@ -1,0 +1,1 @@
+callback({"markets":[{"id":347971,"name":"fort hope","country":"ca","lat":51.55,"lon":-87.983333},{"id":348894,"name":"lansdowne house","country":"ca","lat":52.216667,"lon":-87.883333}]});

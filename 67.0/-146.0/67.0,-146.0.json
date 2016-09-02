@@ -1,0 +1,1 @@
+callback({"markets":[{"id":2912623,"name":"venetie landing","country":"us","lat":66.6105556,"lon":-145.9922222},{"id":2912622,"name":"venetie","country":"us","lat":67.0138889,"lon":-146.4186111}]});

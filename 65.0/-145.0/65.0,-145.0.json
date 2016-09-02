@@ -1,0 +1,1 @@
+callback({"markets":[{"id":2912091,"name":"circle hot springs station","country":"us","lat":65.4702778,"lon":-144.6891667},{"id":2912090,"name":"circle hot springs","country":"us","lat":65.4833333,"lon":-144.6341667}]});

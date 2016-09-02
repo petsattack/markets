@@ -1,0 +1,1 @@
+callback({"markets":[{"id":286275,"name":"agua clara","country":"br","lat":-20.45,"lon":-52.866667},{"id":311302,"name":"pontal","country":"br","lat":-19.683333,"lon":-52.816667},{"id":298127,"name":"fazenda cangalha","country":"br","lat":-19.55,"lon":-52.8},{"id":298559,"name":"fazenda mutum","country":"br","lat":-20.483333,"lon":-53.266667}]});

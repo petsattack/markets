@@ -1,0 +1,1 @@
+callback({"markets":[{"id":305628,"name":"maraa","country":"br","lat":-1.833333,"lon":-65.366667},{"id":302380,"name":"jacitara","country":"br","lat":-2.016667,"lon":-65.15},{"id":310747,"name":"piranhas","country":"br","lat":-2.416667,"lon":-65.466667},{"id":326824,"name":"tocaia","country":"br","lat":-1.9,"lon":-65.483333}]});

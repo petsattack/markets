@@ -1,0 +1,1 @@
+callback({"markets":[{"id":2055941,"name":"el trapiche","country":"pa","lat":7.4877778,"lon":-81.7358333},{"id":2056786,"name":"la galera","country":"pa","lat":7.4911111,"lon":-81.7438889}]});

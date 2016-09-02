@@ -1,0 +1,1 @@
+callback({"markets":[{"id":351037,"name":"silcox","country":"ca","lat":57.2,"lon":-94.166667},{"id":351689,"name":"weir river","country":"ca","lat":56.816667,"lon":-94.083333}]});

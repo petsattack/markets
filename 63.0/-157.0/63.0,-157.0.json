@@ -1,0 +1,1 @@
+callback({"markets":[{"id":2912369,"name":"moore creek","country":"us","lat":62.6005556,"lon":-157.1419444},{"id":2912443,"name":"ophir","country":"us","lat":63.1447222,"lon":-156.5194444}]});

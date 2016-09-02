@@ -1,0 +1,1 @@
+callback({"markets":[{"id":349207,"name":"manouane","country":"ca","lat":47.216667,"lon":-74.366667},{"id":350782,"name":"saint-michel-des-saints","country":"ca","lat":46.666667,"lon":-73.916667},{"id":350703,"name":"saint-hippolyte-de-kilkenny","country":"ca","lat":46.933333,"lon":-74.016667}]});

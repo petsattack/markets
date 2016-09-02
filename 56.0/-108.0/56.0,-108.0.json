@@ -1,0 +1,1 @@
+callback({"markets":[{"id":346958,"name":"buffalo narrows","country":"ca","lat":55.854167,"lon":-108.484167}]});

@@ -1,0 +1,1 @@
+callback({"markets":[{"id":1565647,"name":"napari","country":"ki","lat":3.9,"lon":-159.3833333}]});

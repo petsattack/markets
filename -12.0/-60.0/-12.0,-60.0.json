@@ -1,0 +1,1 @@
+callback({"markets":[{"id":303311,"name":"jose bonifacio","country":"br","lat":-12.166667,"lon":-60.083333},{"id":312100,"name":"porto tenente marques","country":"br","lat":-12.35,"lon":-59.966667},{"id":308053,"name":"novo brasil","country":"br","lat":-12.202778,"lon":-60.083333}]});

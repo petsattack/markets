@@ -1,0 +1,1 @@
+callback({"markets":[{"id":1871538,"name":"el copudo","country":"mx","lat":25.166667,"lon":-97.35},{"id":1878250,"name":"guajardo","country":"mx","lat":25.366667,"lon":-97.4}]});

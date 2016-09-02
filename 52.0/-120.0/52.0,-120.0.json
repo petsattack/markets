@@ -1,0 +1,1 @@
+callback({"markets":[{"id":346806,"name":"black pool","country":"ca","lat":51.583333,"lon":-120.116667},{"id":349311,"name":"mcmurphy","country":"ca","lat":51.666667,"lon":-119.516667},{"id":347290,"name":"clearwater","country":"ca","lat":51.65,"lon":-120.033333},{"id":347291,"name":"clearwater station","country":"ca","lat":51.633333,"lon":-120.033333}]});

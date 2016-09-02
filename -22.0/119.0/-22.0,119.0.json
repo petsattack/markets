@@ -1,0 +1,1 @@
+callback({"markets":[{"id":153142,"name":"cooglegong","country":"au","lat":-21.5,"lon":119.4},{"id":159557,"name":"soansville","country":"au","lat":-21.516667,"lon":119.15},{"id":161096,"name":"western shaw mining centre","country":"au","lat":-21.816667,"lon":119.2}]});

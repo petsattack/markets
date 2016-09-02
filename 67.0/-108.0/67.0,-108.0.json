@@ -1,0 +1,1 @@
+callback({"markets":[{"id":346622,"name":"bathurst inlet","country":"ca","lat":66.833333,"lon":-108.033333}]});

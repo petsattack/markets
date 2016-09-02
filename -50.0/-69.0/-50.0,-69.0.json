@@ -1,0 +1,1 @@
+callback({"markets":[{"id":130292,"name":"estancia monte leon","country":"ar","lat":-50.214254,"lon":-68.937436},{"id":128634,"name":"casa de piedra","country":"ar","lat":-49.985133,"lon":-68.914673},{"id":134207,"name":"rio chico","country":"ar","lat":-49.8,"lon":-68.616667},{"id":133927,"name":"puerto santa cruz","country":"ar","lat":-50.019104,"lon":-68.52321}]});

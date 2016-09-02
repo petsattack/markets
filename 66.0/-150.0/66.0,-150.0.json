@@ -1,0 +1,1 @@
+callback({"markets":[{"id":2912501,"name":"rampart","country":"us","lat":65.505,"lon":-150.17}]});

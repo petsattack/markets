@@ -1,0 +1,1 @@
+callback({"markets":[{"id":281195,"name":"palacito","country":"bo","lat":-16.35,"lon":-64.3666667},{"id":270571,"name":"aparajos","country":"bo","lat":-15.7833333,"lon":-64.4666667},{"id":274248,"name":"el combate","country":"bo","lat":-15.9666667,"lon":-64.35},{"id":279923,"name":"los limos","country":"bo","lat":-16.3,"lon":-63.8333333}]});

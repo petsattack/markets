@@ -1,0 +1,1 @@
+callback({"markets":[{"id":350685,"name":"saint george\u0027s hill","country":"ca","lat":55.882222,"lon":-108.951667},{"id":349375,"name":"michel","country":"ca","lat":55.988056,"lon":-109.095556},{"id":350095,"name":"portage la roche","country":"ca","lat":56.483333,"lon":-109.433333},{"id":346957,"name":"buffalo","country":"ca","lat":55.9275,"lon":-108.938889}]});

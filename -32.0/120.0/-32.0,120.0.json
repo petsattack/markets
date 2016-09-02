@@ -1,0 +1,1 @@
+callback({"markets":[{"id":157951,"name":"nevoria","country":"au","lat":-31.5,"lon":119.583333},{"id":158478,"name":"parkers range","country":"au","lat":-31.633333,"lon":119.583333},{"id":152417,"name":"burbidge","country":"au","lat":-31.55,"lon":119.566667},{"id":152859,"name":"cheritons find","country":"au","lat":-31.816667,"lon":119.633333}]});

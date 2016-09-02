@@ -1,0 +1,1 @@
+callback({"markets":[{"id":1028352,"name":"prins christians sund","country":"gl","lat":60.05,"lon":-43.1666667}]});

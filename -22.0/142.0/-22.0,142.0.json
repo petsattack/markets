@@ -1,0 +1,1 @@
+callback({"markets":[{"id":153691,"name":"dicks creek","country":"au","lat":-21.916667,"lon":142.4},{"id":156147,"name":"kynuna","country":"au","lat":-21.583333,"lon":141.9},{"id":157037,"name":"middletown","country":"au","lat":-22.351351,"lon":141.551697}]});

@@ -1,0 +1,1 @@
+callback({"markets":[{"id":1954749,"name":"liva","country":"mz","lat":-14.0333333,"lon":4.0166667}]});

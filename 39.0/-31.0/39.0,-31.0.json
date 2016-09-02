@@ -1,0 +1,1 @@
+callback({"markets":[{"id":2301969,"name":"lajens das flores","country":"pt","lat":39.383333,"lon":-31.166667},{"id":2307115,"name":"santa cruz das flores","country":"pt","lat":39.45,"lon":-31.116667}]});

@@ -1,0 +1,1 @@
+callback({"markets":[{"id":1843500,"name":"buyantu goliin khure","country":"mn","lat":46.3,"lon":93.3333333}]});

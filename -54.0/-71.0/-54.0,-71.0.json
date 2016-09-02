@@ -1,0 +1,1 @@
+callback({"markets":[{"id":408547,"name":"punta carrera","country":"cl","lat":-53.583333,"lon":-70.933333},{"id":408940,"name":"san juan","country":"cl","lat":-53.65,"lon":-70.933333}]});

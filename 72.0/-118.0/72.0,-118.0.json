@@ -1,0 +1,1 @@
+callback({"markets":[{"id":347953,"name":"fort collinson","country":"ca","lat":71.616667,"lon":-117.95}]});

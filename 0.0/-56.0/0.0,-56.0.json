@@ -1,0 +1,1 @@
+callback({"markets":[{"id":314248,"name":"rufino","country":"br","lat":-0.233333,"lon":-56.016667},{"id":314701,"name":"santa anna","country":"br","lat":-0.316667,"lon":-56.016667}]});

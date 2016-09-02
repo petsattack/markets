@@ -1,0 +1,1 @@
+callback({"markets":[{"id":291392,"name":"bras","country":"br","lat":-2.083333,"lon":-58.166667},{"id":286513,"name":"albano","country":"br","lat":-2.45,"lon":-57.55},{"id":328397,"name":"vila amanari","country":"br","lat":-2.481111,"lon":-57.7}]});

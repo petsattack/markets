@@ -1,0 +1,1 @@
+callback({"markets":[{"id":290386,"name":"belo horizonte","country":"br","lat":-10.483333,"lon":-49.516667},{"id":305839,"name":"marianopolis do tocantins","country":"br","lat":-9.742778,"lon":-49.566944},{"id":294810,"name":"chico roberto","country":"br","lat":-10.316667,"lon":-50.466667}]});

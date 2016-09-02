@@ -1,0 +1,1 @@
+callback({"markets":[{"id":1850622,"name":"rgueiba-thila","country":"mr","lat":19.4166667,"lon":-16.4666667},{"id":1850609,"name":"portendick","country":"mr","lat":18.5833333,"lon":-16.1166667},{"id":1850708,"name":"tanit","country":"mr","lat":18.6,"lon":-16.1},{"id":1850383,"name":"lemhaisrat","country":"mr","lat":19.0333333,"lon":-16.2333333}]});

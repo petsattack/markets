@@ -1,0 +1,1 @@
+callback({"markets":[{"id":1548060,"name":"kipini","country":"ke","lat":-2.5227778,"lon":40.5388889}]});

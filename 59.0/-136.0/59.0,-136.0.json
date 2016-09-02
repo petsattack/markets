@@ -1,0 +1,1 @@
+callback({"markets":[{"id":2912109,"name":"covenant life","country":"us","lat":59.4172222,"lon":-136.025},{"id":2912292,"name":"klukwan","country":"us","lat":59.3991667,"lon":-135.8938889},{"id":2912341,"name":"lutak","country":"us","lat":59.3411111,"lon":-135.5655556},{"id":2912629,"name":"wells","country":"us","lat":59.4166667,"lon":-135.9330556}]});

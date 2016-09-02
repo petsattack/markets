@@ -1,0 +1,1 @@
+callback({"markets":[{"id":293318,"name":"canta-galo","country":"br","lat":-8.35,"lon":-58.783333}]});

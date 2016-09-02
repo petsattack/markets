@@ -1,0 +1,1 @@
+callback({"markets":[{"id":2912478,"name":"port armstrong","country":"us","lat":56.2969444,"lon":-134.6616667}]});

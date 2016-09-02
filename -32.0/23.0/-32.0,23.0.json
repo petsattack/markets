@@ -1,0 +1,1 @@
+callback({"markets":[{"id":3124305,"name":"beaufort-wes","country":"za","lat":-32.356708,"lon":22.582947},{"id":3127729,"name":"hutchinson","country":"za","lat":-31.5,"lon":23.183333},{"id":3132081,"name":"nelspoort","country":"za","lat":-32.114209,"lon":23.002969},{"id":3133578,"name":"restvale","country":"za","lat":-32.089948,"lon":23.009363}]});

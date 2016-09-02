@@ -1,0 +1,1 @@
+callback({"markets":[{"id":1371585,"name":"makhfar umm al hashw","country":"iq","lat":31.8641667,"lon":40.6247222},{"id":1371570,"name":"makhfar al abyad","country":"iq","lat":31.7894444,"lon":40.7288889}]});

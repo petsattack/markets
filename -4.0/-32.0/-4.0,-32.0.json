@@ -1,0 +1,1 @@
+callback({"markets":[{"id":328502,"name":"vila dos remedios","country":"br","lat":-3.85,"lon":-32.4}]});

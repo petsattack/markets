@@ -1,0 +1,1 @@
+callback({"markets":[{"id":132145,"name":"lihuel-calel","country":"ar","lat":-38.014185,"lon":-65.584653},{"id":129513,"name":"curaco","country":"ar","lat":-38.145624,"lon":-65.914258},{"id":131785,"name":"la reforma","country":"ar","lat":-37.551133,"lon":-66.227067},{"id":130351,"name":"euscadi","country":"ar","lat":-37.6,"lon":-66.35}]});

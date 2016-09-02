@@ -1,0 +1,1 @@
+callback({"markets":[{"id":1515680,"name":"oppido mamertina","country":"it","lat":38.283333,"lon":18.983333}]});

@@ -1,0 +1,1 @@
+callback({"markets":[{"id":153036,"name":"coffin bay","country":"au","lat":-34.622921,"lon":135.474564},{"id":160825,"name":"wangary","country":"au","lat":-34.55,"lon":135.483333}]});

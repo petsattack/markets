@@ -1,0 +1,1 @@
+callback({"markets":[{"id":156769,"name":"maralinga","country":"au","lat":-29.75,"lon":131.583333}]});

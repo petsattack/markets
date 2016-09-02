@@ -1,0 +1,1 @@
+callback({"markets":[{"id":1757878,"name":"sidi bou lanouar","country":"ma","lat":29.18,"lon":-7.46}]});

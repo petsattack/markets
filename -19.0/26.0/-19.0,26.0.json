@@ -1,0 +1,1 @@
+callback({"markets":[{"id":3173750,"name":"sinamatila camp","country":"zw","lat":-18.5833333,"lon":26.3166667},{"id":330374,"name":"sebutu","country":"bw","lat":-18.7166667,"lon":25.7},{"id":330372,"name":"sebe","country":"bw","lat":-18.8,"lon":25.5166667},{"id":330005,"name":"geruf","country":"bw","lat":-19.2,"lon":25.95}]});

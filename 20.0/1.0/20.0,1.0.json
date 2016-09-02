@@ -1,0 +1,1 @@
+callback({"markets":[{"id":1807067,"name":"tesalit","country":"ml","lat":20.2013889,"lon":1.0088889}]});

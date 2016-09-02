@@ -1,0 +1,1 @@
+callback({"markets":[{"id":349752,"name":"norway house","country":"ca","lat":53.966667,"lon":-97.833333},{"id":351642,"name":"warren landing","country":"ca","lat":53.7,"lon":-97.883333}]});

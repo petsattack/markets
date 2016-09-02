@@ -1,0 +1,1 @@
+callback({"markets":[{"id":347145,"name":"casummit lake","country":"ca","lat":51.466667,"lon":-92.35}]});

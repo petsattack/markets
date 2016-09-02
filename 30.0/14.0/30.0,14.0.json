@@ -1,0 +1,1 @@
+callback({"markets":[{"id":1735348,"name":"sciuref","country":"ly","lat":29.9833333,"lon":14.2666667},{"id":1734468,"name":"el gheriat esc scerghia","country":"ly","lat":30.4,"lon":13.6}]});

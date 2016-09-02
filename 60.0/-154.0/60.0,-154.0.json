@@ -1,0 +1,1 @@
+callback({"markets":[{"id":2912462,"name":"pile bay village","country":"us","lat":59.7788889,"lon":-153.8819444},{"id":2912477,"name":"port alsworth","country":"us","lat":60.2025,"lon":-154.3127778},{"id":2912453,"name":"pedro bay","country":"us","lat":59.7872222,"lon":-154.1061111}]});

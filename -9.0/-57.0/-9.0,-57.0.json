@@ -1,0 +1,1 @@
+callback({"markets":[{"id":289485,"name":"barracao floresta","country":"br","lat":-8.95,"lon":-57.266667},{"id":299132,"name":"fetoria","country":"br","lat":-9.233333,"lon":-57.05},{"id":316242,"name":"sao joao do parana","country":"br","lat":-9.016667,"lon":-57.133333},{"id":289490,"name":"barracao sao jose","country":"br","lat":-9.2,"lon":-57.066667}]});
