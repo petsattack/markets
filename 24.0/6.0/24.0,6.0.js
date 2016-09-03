@@ -1,1 +1,1 @@
-callback({"markets":[{"id":816941,"name":"i-n-tifar","country":"dz","lat":23.5,"lon":6.3},{"id":812885,"name":"arrem ideles","country":"dz","lat":23.8219444,"lon":5.9344444},{"id":816836,"name":"hirafok","country":"dz","lat":23.6541667,"lon":5.7611111}]});
+[{"id":816941,"name":"i-n-tifar","country":"dz","lat":23.5,"lon":6.3},{"id":812885,"name":"arrem ideles","country":"dz","lat":23.8219444,"lon":5.9344444},{"id":816836,"name":"hirafok","country":"dz","lat":23.6541667,"lon":5.7611111}]

@@ -1,1 +1,1 @@
-callback({"markets":[{"id":2693801,"name":"port-aux-francais","country":"tf","lat":-49.35,"lon":70.2166667}]});
+[{"id":2693801,"name":"port-aux-francais","country":"tf","lat":-49.35,"lon":70.2166667}]

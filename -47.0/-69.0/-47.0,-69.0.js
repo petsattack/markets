@@ -1,1 +1,1 @@
-callback({"markets":[{"id":133503,"name":"piedra clavada","country":"ar","lat":-46.6,"lon":-68.533333},{"id":130748,"name":"gobernador moyano","country":"ar","lat":-47.25,"lon":-68.6},{"id":131901,"name":"las heras","country":"ar","lat":-46.541862,"lon":-68.935928}]});
+[{"id":133503,"name":"piedra clavada","country":"ar","lat":-46.6,"lon":-68.533333},{"id":130748,"name":"gobernador moyano","country":"ar","lat":-47.25,"lon":-68.6},{"id":131901,"name":"las heras","country":"ar","lat":-46.541862,"lon":-68.935928}]

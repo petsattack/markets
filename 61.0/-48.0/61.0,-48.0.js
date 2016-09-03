@@ -1,1 +1,1 @@
-callback({"markets":[{"id":1028010,"name":"arsuk","country":"gl","lat":61.1666667,"lon":-48.45},{"id":1028065,"name":"gronnedal","country":"gl","lat":61.2333333,"lon":-48.1},{"id":1028144,"name":"ivittuut","country":"gl","lat":61.2,"lon":-48.1666667}]});
+[{"id":1028010,"name":"arsuk","country":"gl","lat":61.1666667,"lon":-48.45},{"id":1028065,"name":"gronnedal","country":"gl","lat":61.2333333,"lon":-48.1},{"id":1028144,"name":"ivittuut","country":"gl","lat":61.2,"lon":-48.1666667}]

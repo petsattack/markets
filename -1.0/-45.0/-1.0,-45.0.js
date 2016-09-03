@@ -1,1 +1,1 @@
-callback({"markets":[{"id":310299,"name":"peru","country":"br","lat":-1.483333,"lon":-44.783333},{"id":290143,"name":"bate-vento","country":"br","lat":-1.3,"lon":-44.9},{"id":327818,"name":"valha-me deus","country":"br","lat":-1.433333,"lon":-44.85}]});
+[{"id":310299,"name":"peru","country":"br","lat":-1.483333,"lon":-44.783333},{"id":290143,"name":"bate-vento","country":"br","lat":-1.3,"lon":-44.9},{"id":327818,"name":"valha-me deus","country":"br","lat":-1.433333,"lon":-44.85}]

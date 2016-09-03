@@ -1,1 +1,1 @@
-callback({"markets":[{"id":1502895,"name":"bergssta�ir","country":"is","lat":65.433333,"lon":-19.7},{"id":1503388,"name":"undirfell","country":"is","lat":65.383333,"lon":-20.283333}]});
+[{"id":1502895,"name":"bergssta�ir","country":"is","lat":65.433333,"lon":-19.7},{"id":1503388,"name":"undirfell","country":"is","lat":65.383333,"lon":-20.283333}]

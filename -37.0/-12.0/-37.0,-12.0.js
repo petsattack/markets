@@ -1,1 +1,1 @@
-callback({"markets":[{"id":2622756,"name":"tristan island settlement","country":"sh","lat":-37.05,"lon":-12.3}]});
+[{"id":2622756,"name":"tristan island settlement","country":"sh","lat":-37.05,"lon":-12.3}]

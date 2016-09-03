@@ -1,1 +1,1 @@
-callback({"markets":[{"id":1968965,"name":"wlotzkasbaken","country":"na","lat":-22.4166667,"lon":14.45},{"id":1967125,"name":"hentiesbaai","country":"na","lat":-22.1166667,"lon":14.2833333},{"id":1966819,"name":"cape cross","country":"na","lat":-21.7666667,"lon":13.9666667}]});
+[{"id":1968965,"name":"wlotzkasbaken","country":"na","lat":-22.4166667,"lon":14.45},{"id":1967125,"name":"hentiesbaai","country":"na","lat":-22.1166667,"lon":14.2833333},{"id":1966819,"name":"cape cross","country":"na","lat":-21.7666667,"lon":13.9666667}]

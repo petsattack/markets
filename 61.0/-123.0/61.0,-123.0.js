@@ -1,1 +1,1 @@
-callback({"markets":[{"id":349581,"name":"nahanni butte","country":"ca","lat":61.05,"lon":-123.366667}]});
+[{"id":349581,"name":"nahanni butte","country":"ca","lat":61.05,"lon":-123.366667}]

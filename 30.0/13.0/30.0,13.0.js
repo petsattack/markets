@@ -1,1 +1,1 @@
-callback({"markets":[{"id":1734684,"name":"gheria el garbia","country":"ly","lat":30.4166667,"lon":13.4166667},{"id":1734578,"name":"et-tobga","country":"ly","lat":30.4333333,"lon":13.3166667}]});
+[{"id":1734684,"name":"gheria el garbia","country":"ly","lat":30.4166667,"lon":13.4166667},{"id":1734578,"name":"et-tobga","country":"ly","lat":30.4333333,"lon":13.3166667}]

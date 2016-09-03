@@ -1,1 +1,1 @@
-callback({"markets":[{"id":1977895,"name":"toumbelaga","country":"ne","lat":15.75,"lon":7.8666667},{"id":1969733,"name":"aderbissinat","country":"ne","lat":15.6266667,"lon":7.8913889}]});
+[{"id":1977895,"name":"toumbelaga","country":"ne","lat":15.75,"lon":7.8666667},{"id":1969733,"name":"aderbissinat","country":"ne","lat":15.6266667,"lon":7.8913889}]

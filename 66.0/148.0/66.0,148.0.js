@@ -1,1 +1,1 @@
-callback({"markets":[{"id":2388814,"name":"dalekaya","country":"ru","lat":65.616667,"lon":147.916667}]});
+[{"id":2388814,"name":"dalekaya","country":"ru","lat":65.616667,"lon":147.916667}]

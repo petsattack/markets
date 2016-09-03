@@ -1,1 +1,1 @@
-callback({"markets":[{"id":159228,"name":"roxby downs","country":"au","lat":-30.55521,"lon":136.893616},{"id":158652,"name":"pimba","country":"au","lat":-31.25,"lon":136.783333},{"id":161463,"name":"woomera","country":"au","lat":-31.19981,"lon":136.832581}]});
+[{"id":159228,"name":"roxby downs","country":"au","lat":-30.55521,"lon":136.893616},{"id":158652,"name":"pimba","country":"au","lat":-31.25,"lon":136.783333},{"id":161463,"name":"woomera","country":"au","lat":-31.19981,"lon":136.832581}]

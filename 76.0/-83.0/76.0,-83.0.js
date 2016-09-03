@@ -1,1 +1,1 @@
-callback({"markets":[{"id":348278,"name":"grise fiord","country":"ca","lat":76.416667,"lon":-82.95}]});
+[{"id":348278,"name":"grise fiord","country":"ca","lat":76.416667,"lon":-82.95}]

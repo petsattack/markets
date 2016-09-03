@@ -1,1 +1,1 @@
-callback({"markets":[{"id":347989,"name":"fort rae","country":"ca","lat":62.833333,"lon":-116.05},{"id":347742,"name":"edzo","country":"ca","lat":62.783333,"lon":-116.033333}]});
+[{"id":347989,"name":"fort rae","country":"ca","lat":62.833333,"lon":-116.05},{"id":347742,"name":"edzo","country":"ca","lat":62.783333,"lon":-116.033333}]

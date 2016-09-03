@@ -1,1 +1,1 @@
-callback({"markets":[{"id":2087108,"name":"rotoava","country":"pf","lat":-16.05,"lon":-145.6166667},{"id":2087184,"name":"tupana","country":"pf","lat":-16.1333333,"lon":-146.3333333},{"id":2087012,"name":"niutahi","country":"pf","lat":-15.5666667,"lon":-146.4}]});
+[{"id":2087108,"name":"rotoava","country":"pf","lat":-16.05,"lon":-145.6166667},{"id":2087184,"name":"tupana","country":"pf","lat":-16.1333333,"lon":-146.3333333},{"id":2087012,"name":"niutahi","country":"pf","lat":-15.5666667,"lon":-146.4}]

@@ -1,1 +1,1 @@
-callback({"markets":[{"id":351609,"name":"wadhope","country":"ca","lat":50.9,"lon":-95.333333},{"id":346734,"name":"beresford lake","country":"ca","lat":50.866667,"lon":-95.25}]});
+[{"id":351609,"name":"wadhope","country":"ca","lat":50.9,"lon":-95.333333},{"id":346734,"name":"beresford lake","country":"ca","lat":50.866667,"lon":-95.25}]

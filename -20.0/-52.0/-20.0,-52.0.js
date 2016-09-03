@@ -1,1 +1,1 @@
-callback({"markets":[{"id":301443,"name":"inocencia","country":"br","lat":-19.783333,"lon":-51.8},{"id":311591,"name":"porto caleano","country":"br","lat":-20.033333,"lon":-52.133333},{"id":297612,"name":"estiva","country":"br","lat":-19.516667,"lon":-51.85}]});
+[{"id":301443,"name":"inocencia","country":"br","lat":-19.783333,"lon":-51.8},{"id":311591,"name":"porto caleano","country":"br","lat":-20.033333,"lon":-52.133333},{"id":297612,"name":"estiva","country":"br","lat":-19.516667,"lon":-51.85}]

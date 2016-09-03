@@ -1,1 +1,1 @@
-callback({"markets":[{"id":408529,"name":"puerto yartou","country":"cl","lat":-53.883333,"lon":-70.15}]});
+[{"id":408529,"name":"puerto yartou","country":"cl","lat":-53.883333,"lon":-70.15}]

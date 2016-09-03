@@ -1,1 +1,1 @@
-callback({"markets":[{"id":2912213,"name":"harding lake","country":"us","lat":64.4216667,"lon":-146.8508333},{"id":2912018,"name":"aurora lodge","country":"us","lat":64.4705556,"lon":-146.9386111}]});
+[{"id":2912213,"name":"harding lake","country":"us","lat":64.4216667,"lon":-146.8508333},{"id":2912018,"name":"aurora lodge","country":"us","lat":64.4705556,"lon":-146.9386111}]

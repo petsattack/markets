@@ -1,1 +1,1 @@
-callback({"markets":[{"id":300103,"name":"gleba rio ferro","country":"br","lat":-12.466667,"lon":-54.8}]});
+[{"id":300103,"name":"gleba rio ferro","country":"br","lat":-12.466667,"lon":-54.8}]

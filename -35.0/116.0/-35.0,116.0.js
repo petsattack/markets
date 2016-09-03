@@ -1,1 +1,1 @@
-callback({"markets":[{"id":158100,"name":"northcliffe","country":"au","lat":-34.632889,"lon":116.12236},{"id":161282,"name":"windy harbour","country":"au","lat":-34.833333,"lon":116.033333}]});
+[{"id":158100,"name":"northcliffe","country":"au","lat":-34.632889,"lon":116.12236},{"id":161282,"name":"windy harbour","country":"au","lat":-34.833333,"lon":116.033333}]

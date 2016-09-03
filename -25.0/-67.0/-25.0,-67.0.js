@@ -1,1 +1,1 @@
-callback({"markets":[{"id":131029,"name":"incahuasi","country":"ar","lat":-25.435344,"lon":-67.205537},{"id":135317,"name":"tolar grande","country":"ar","lat":-24.589317,"lon":-67.393552}]});
+[{"id":131029,"name":"incahuasi","country":"ar","lat":-25.435344,"lon":-67.205537},{"id":135317,"name":"tolar grande","country":"ar","lat":-24.589317,"lon":-67.393552}]

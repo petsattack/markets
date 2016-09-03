@@ -1,1 +1,1 @@
-callback({"markets":[{"id":349632,"name":"netashquan","country":"ca","lat":50.183333,"lon":-61.816667},{"id":346367,"name":"aguanish","country":"ca","lat":50.216667,"lon":-62.083333}]});
+[{"id":349632,"name":"netashquan","country":"ca","lat":50.183333,"lon":-61.816667},{"id":346367,"name":"aguanish","country":"ca","lat":50.216667,"lon":-62.083333}]

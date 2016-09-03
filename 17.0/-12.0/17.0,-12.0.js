@@ -1,1 +1,1 @@
-callback({"markets":[{"id":1850302,"name":"kamor","country":"mr","lat":17.0833333,"lon":-12.05},{"id":1849842,"name":"barkeol el akhdar","country":"mr","lat":16.6,"lon":-12.4333333},{"id":1850745,"name":"tichilit el kountaoui","country":"mr","lat":16.7333333,"lon":-11.9333333}]});
+[{"id":1850302,"name":"kamor","country":"mr","lat":17.0833333,"lon":-12.05},{"id":1849842,"name":"barkeol el akhdar","country":"mr","lat":16.6,"lon":-12.4333333},{"id":1850745,"name":"tichilit el kountaoui","country":"mr","lat":16.7333333,"lon":-11.9333333}]

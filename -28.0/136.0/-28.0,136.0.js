@@ -1,1 +1,1 @@
-callback({"markets":[{"id":161364,"name":"wondillina","country":"au","lat":-27.816667,"lon":135.65},{"id":157468,"name":"mount dutton","country":"au","lat":-27.833333,"lon":135.716667},{"id":158322,"name":"old umbum station","country":"au","lat":-28.466667,"lon":136.4}]});
+[{"id":161364,"name":"wondillina","country":"au","lat":-27.816667,"lon":135.65},{"id":157468,"name":"mount dutton","country":"au","lat":-27.833333,"lon":135.716667},{"id":158322,"name":"old umbum station","country":"au","lat":-28.466667,"lon":136.4}]

@@ -1,1 +1,1 @@
-callback({"markets":[{"id":1761288,"name":"tendrara","country":"ma","lat":33.051889,"lon":-1.999752},{"id":1742299,"name":"buarfa","country":"ma","lat":32.533868,"lon":-1.961829}]});
+[{"id":1761288,"name":"tendrara","country":"ma","lat":33.051889,"lon":-1.999752},{"id":1742299,"name":"buarfa","country":"ma","lat":32.533868,"lon":-1.961829}]

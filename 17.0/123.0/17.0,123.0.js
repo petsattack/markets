@@ -1,1 +1,1 @@
-callback({"markets":[{"id":2117598,"name":"dicocotan","country":"ph","lat":17.137435,"lon":122.507043},{"id":2117848,"name":"dipaguiden","country":"ph","lat":17.102137,"lon":122.521743},{"id":2117734,"name":"dimatog","country":"ph","lat":17.130935,"lon":122.502043}]});
+[{"id":2117598,"name":"dicocotan","country":"ph","lat":17.137435,"lon":122.507043},{"id":2117848,"name":"dipaguiden","country":"ph","lat":17.102137,"lon":122.521743},{"id":2117734,"name":"dimatog","country":"ph","lat":17.130935,"lon":122.502043}]

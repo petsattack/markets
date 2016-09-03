@@ -1,1 +1,1 @@
-callback({"markets":[{"id":1541409,"name":"same","country":"jp","lat":40.533611,"lon":141.554167},{"id":1537405,"name":"minato","country":"jp","lat":40.521667,"lon":141.509722},{"id":1543925,"name":"tanesashi","country":"jp","lat":40.5,"lon":141.616667}]});
+[{"id":1541409,"name":"same","country":"jp","lat":40.533611,"lon":141.554167},{"id":1537405,"name":"minato","country":"jp","lat":40.521667,"lon":141.509722},{"id":1543925,"name":"tanesashi","country":"jp","lat":40.5,"lon":141.616667}]

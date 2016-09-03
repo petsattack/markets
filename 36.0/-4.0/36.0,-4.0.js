@@ -1,1 +1,1 @@
-callback({"markets":[{"id":865136,"name":"cortijo de los puertas","country":"es","lat":36.416667,"lon":-3.733333}]});
+[{"id":865136,"name":"cortijo de los puertas","country":"es","lat":36.416667,"lon":-3.733333}]

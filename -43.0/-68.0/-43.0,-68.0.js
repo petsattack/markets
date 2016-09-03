@@ -1,1 +1,1 @@
-callback({"markets":[{"id":130552,"name":"gan gan","country":"ar","lat":-42.522425,"lon":-68.285074},{"id":129907,"name":"el mirasol","country":"ar","lat":-43.2665,"lon":-67.75935}]});
+[{"id":130552,"name":"gan gan","country":"ar","lat":-42.522425,"lon":-68.285074},{"id":129907,"name":"el mirasol","country":"ar","lat":-43.2665,"lon":-67.75935}]

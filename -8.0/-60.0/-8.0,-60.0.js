@@ -1,1 +1,1 @@
-callback({"markets":[{"id":288131,"name":"aruana","country":"br","lat":-7.616667,"lon":-60.316667},{"id":325752,"name":"sumauna","country":"br","lat":-7.833333,"lon":-60.033333},{"id":328883,"name":"vista alegro","country":"br","lat":-7.633333,"lon":-60.433333}]});
+[{"id":288131,"name":"aruana","country":"br","lat":-7.616667,"lon":-60.316667},{"id":325752,"name":"sumauna","country":"br","lat":-7.833333,"lon":-60.033333},{"id":328883,"name":"vista alegro","country":"br","lat":-7.633333,"lon":-60.433333}]

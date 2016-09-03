@@ -1,1 +1,1 @@
-callback({"markets":[{"id":132287,"name":"los erizos","country":"ar","lat":-31.693611,"lon":-70.298056},{"id":132268,"name":"los chacayes","country":"ar","lat":-32.307604,"lon":-69.84806}]});
+[{"id":132287,"name":"los erizos","country":"ar","lat":-31.693611,"lon":-70.298056},{"id":132268,"name":"los chacayes","country":"ar","lat":-32.307604,"lon":-69.84806}]

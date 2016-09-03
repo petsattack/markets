@@ -1,1 +1,1 @@
-callback({"markets":[{"id":2407460,"name":"imeni mariny raskovoy","country":"ru","lat":62.166667,"lon":146.483333},{"id":2417160,"name":"khachalycha","country":"ru","lat":62.133333,"lon":145.8}]});
+[{"id":2407460,"name":"imeni mariny raskovoy","country":"ru","lat":62.166667,"lon":146.483333},{"id":2417160,"name":"khachalycha","country":"ru","lat":62.133333,"lon":145.8}]

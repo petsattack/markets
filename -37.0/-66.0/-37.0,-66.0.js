@@ -1,1 +1,1 @@
-callback({"markets":[{"id":128766,"name":"chacharramendi","country":"ar","lat":-37.331331,"lon":-65.651342},{"id":129933,"name":"el odre","country":"ar","lat":-36.960097,"lon":-66.182557}]});
+[{"id":128766,"name":"chacharramendi","country":"ar","lat":-37.331331,"lon":-65.651342},{"id":129933,"name":"el odre","country":"ar","lat":-36.960097,"lon":-66.182557}]

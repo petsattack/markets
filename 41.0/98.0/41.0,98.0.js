@@ -1,1 +1,1 @@
-callback({"markets":[{"id":484613,"name":"hongliugou","country":"cn","lat":41.466667,"lon":97.966667},{"id":532571,"name":"luotuojing","country":"cn","lat":41.2,"lon":97.533333},{"id":543804,"name":"nanchuan","country":"cn","lat":40.916667,"lon":98.35}]});
+[{"id":484613,"name":"hongliugou","country":"cn","lat":41.466667,"lon":97.966667},{"id":532571,"name":"luotuojing","country":"cn","lat":41.2,"lon":97.533333},{"id":543804,"name":"nanchuan","country":"cn","lat":40.916667,"lon":98.35}]

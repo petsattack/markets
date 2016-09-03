@@ -1,1 +1,1 @@
-callback({"markets":[{"id":286564,"name":"aldeia bacaeri","country":"br","lat":-13.1,"lon":-54.1},{"id":311806,"name":"porto do sul","country":"br","lat":-13.283333,"lon":-53.533333}]});
+[{"id":286564,"name":"aldeia bacaeri","country":"br","lat":-13.1,"lon":-54.1},{"id":311806,"name":"porto do sul","country":"br","lat":-13.283333,"lon":-53.533333}]

@@ -1,1 +1,1 @@
-callback({"markets":[{"id":1749410,"name":"haoui en naam","country":"ma","lat":27.68,"lon":-12.2},{"id":1757049,"name":"puerto cansado","country":"ma","lat":28.02,"lon":-12.38}]});
+[{"id":1749410,"name":"haoui en naam","country":"ma","lat":27.68,"lon":-12.2},{"id":1757049,"name":"puerto cansado","country":"ma","lat":28.02,"lon":-12.38}]

@@ -1,1 +1,1 @@
-callback({"markets":[{"id":843565,"name":"el hamra","country":"eg","lat":29.35,"lon":25.3833333},{"id":845299,"name":"`ezbet mishandid el-kebira","country":"eg","lat":29.2166667,"lon":25.4}]});
+[{"id":843565,"name":"el hamra","country":"eg","lat":29.35,"lon":25.3833333},{"id":845299,"name":"`ezbet mishandid el-kebira","country":"eg","lat":29.2166667,"lon":25.4}]

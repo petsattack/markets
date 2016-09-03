@@ -1,1 +1,1 @@
-callback({"markets":[{"id":2647988,"name":"ndiongarane","country":"sn","lat":14.7475,"lon":-17.5183333},{"id":2646197,"name":"les almadies","country":"sn","lat":14.7422222,"lon":-17.5208333},{"id":2648372,"name":"ngor","country":"sn","lat":14.7513889,"lon":-17.5163889}]});
+[{"id":2647988,"name":"ndiongarane","country":"sn","lat":14.7475,"lon":-17.5183333},{"id":2646197,"name":"les almadies","country":"sn","lat":14.7422222,"lon":-17.5208333},{"id":2648372,"name":"ngor","country":"sn","lat":14.7513889,"lon":-17.5163889}]

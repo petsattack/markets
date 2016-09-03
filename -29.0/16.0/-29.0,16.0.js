@@ -1,1 +1,1 @@
-callback({"markets":[{"id":1968306,"name":"orange mouth","country":"na","lat":-28.55,"lon":16.4333333},{"id":3123956,"name":"alexander bay","country":"za","lat":-28.596078,"lon":16.485355},{"id":3127167,"name":"green island","country":"za","lat":-28.616667,"lon":16.483333}]});
+[{"id":1968306,"name":"orange mouth","country":"na","lat":-28.55,"lon":16.4333333},{"id":3123956,"name":"alexander bay","country":"za","lat":-28.596078,"lon":16.485355},{"id":3127167,"name":"green island","country":"za","lat":-28.616667,"lon":16.483333}]

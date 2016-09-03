@@ -1,1 +1,1 @@
-callback({"markets":[{"id":151228,"name":"badu","country":"au","lat":-10.15,"lon":142.166667},{"id":159303,"name":"saint pauls","country":"au","lat":-10.18339,"lon":142.336044},{"id":158716,"name":"poid","country":"au","lat":-10.166667,"lon":142.183333}]});
+[{"id":151228,"name":"badu","country":"au","lat":-10.15,"lon":142.166667},{"id":159303,"name":"saint pauls","country":"au","lat":-10.18339,"lon":142.336044},{"id":158716,"name":"poid","country":"au","lat":-10.166667,"lon":142.183333}]

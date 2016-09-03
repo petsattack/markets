@@ -1,1 +1,1 @@
-callback({"markets":[{"id":2912348,"name":"may creek","country":"us","lat":61.3486111,"lon":-142.6933333},{"id":2912349,"name":"mccarthy","country":"us","lat":61.4333333,"lon":-142.9216667},{"id":2912277,"name":"kennicott","country":"us","lat":61.4863889,"lon":-142.8863889}]});
+[{"id":2912348,"name":"may creek","country":"us","lat":61.3486111,"lon":-142.6933333},{"id":2912349,"name":"mccarthy","country":"us","lat":61.4333333,"lon":-142.9216667},{"id":2912277,"name":"kennicott","country":"us","lat":61.4863889,"lon":-142.8863889}]

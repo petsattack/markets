@@ -1,1 +1,1 @@
-callback({"markets":[{"id":135320,"name":"tolhuin","country":"ar","lat":-54.533333,"lon":-67.2},{"id":133854,"name":"puerto harberton","country":"ar","lat":-54.866667,"lon":-67.316667},{"id":132777,"name":"mision fagnano","country":"ar","lat":-54.533333,"lon":-67.283333}]});
+[{"id":135320,"name":"tolhuin","country":"ar","lat":-54.533333,"lon":-67.2},{"id":133854,"name":"puerto harberton","country":"ar","lat":-54.866667,"lon":-67.316667},{"id":132777,"name":"mision fagnano","country":"ar","lat":-54.533333,"lon":-67.283333}]

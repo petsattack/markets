@@ -1,1 +1,1 @@
-callback({"markets":[{"id":2583528,"name":"anse volbert village","country":"sc","lat":-4.3166667,"lon":55.7333333},{"id":2583537,"name":"la reunion","country":"sc","lat":-4.35,"lon":55.8333333}]});
+[{"id":2583528,"name":"anse volbert village","country":"sc","lat":-4.3166667,"lon":55.7333333},{"id":2583537,"name":"la reunion","country":"sc","lat":-4.35,"lon":55.8333333}]

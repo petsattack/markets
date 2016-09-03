@@ -1,1 +1,1 @@
-callback({"markets":[{"id":854831,"name":"saatta","country":"er","lat":16.5166667,"lon":37.3666667},{"id":854801,"name":"per tokar","country":"er","lat":16.9833333,"lon":37.4666667},{"id":2587094,"name":"er rissai","country":"sd","lat":16.6333333,"lon":36.6}]});
+[{"id":854831,"name":"saatta","country":"er","lat":16.5166667,"lon":37.3666667},{"id":854801,"name":"per tokar","country":"er","lat":16.9833333,"lon":37.4666667},{"id":2587094,"name":"er rissai","country":"sd","lat":16.6333333,"lon":36.6}]

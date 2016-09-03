@@ -1,1 +1,1 @@
-callback({"markets":[{"id":1909193,"name":"san rafael","country":"mx","lat":28.583333,"lon":-113.166667},{"id":1890103,"name":"los paredones","country":"mx","lat":28.6,"lon":-113.4},{"id":1884716,"name":"la mona","country":"mx","lat":28.883333,"lon":-113.466667}]});
+[{"id":1909193,"name":"san rafael","country":"mx","lat":28.583333,"lon":-113.166667},{"id":1890103,"name":"los paredones","country":"mx","lat":28.6,"lon":-113.4},{"id":1884716,"name":"la mona","country":"mx","lat":28.883333,"lon":-113.466667}]

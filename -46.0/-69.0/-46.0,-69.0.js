@@ -1,1 +1,1 @@
-callback({"markets":[{"id":129016,"name":"colhue huapi","country":"ar","lat":-45.716667,"lon":-68.933333},{"id":134927,"name":"sarmiento","country":"ar","lat":-45.588148,"lon":-69.069957},{"id":131339,"name":"kilometro 162","country":"ar","lat":-45.783333,"lon":-68.75}]});
+[{"id":129016,"name":"colhue huapi","country":"ar","lat":-45.716667,"lon":-68.933333},{"id":134927,"name":"sarmiento","country":"ar","lat":-45.588148,"lon":-69.069957},{"id":131339,"name":"kilometro 162","country":"ar","lat":-45.783333,"lon":-68.75}]

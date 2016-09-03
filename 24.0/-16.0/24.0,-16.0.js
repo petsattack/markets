@@ -1,1 +1,1 @@
-callback({"markets":[{"id":853749,"name":"fondeadero del aaiun","country":"eh","lat":23.6166667,"lon":-15.8666667},{"id":853748,"name":"factoria villa cisneros","country":"eh","lat":23.7,"lon":-15.9333333}]});
+[{"id":853749,"name":"fondeadero del aaiun","country":"eh","lat":23.6166667,"lon":-15.8666667},{"id":853748,"name":"factoria villa cisneros","country":"eh","lat":23.7,"lon":-15.9333333}]

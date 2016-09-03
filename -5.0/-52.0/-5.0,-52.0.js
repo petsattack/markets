@@ -1,1 +1,1 @@
-callback({"markets":[{"id":311636,"name":"porto da barca","country":"br","lat":-5.033333,"lon":-52.133333},{"id":311654,"name":"porto da lontra","country":"br","lat":-4.8,"lon":-52.316667},{"id":311861,"name":"porto fundo","country":"br","lat":-4.933333,"lon":-52.216667}]});
+[{"id":311636,"name":"porto da barca","country":"br","lat":-5.033333,"lon":-52.133333},{"id":311654,"name":"porto da lontra","country":"br","lat":-4.8,"lon":-52.316667},{"id":311861,"name":"porto fundo","country":"br","lat":-4.933333,"lon":-52.216667}]

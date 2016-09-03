@@ -1,1 +1,1 @@
-callback({"markets":[{"id":429975,"name":"bongza","country":"cn","lat":33.8,"lon":90.6},{"id":429043,"name":"bengza","country":"cn","lat":33.801,"lon":90.601},{"id":478333,"name":"gyiri","country":"cn","lat":33.9,"lon":91.2}]});
+[{"id":429975,"name":"bongza","country":"cn","lat":33.8,"lon":90.6},{"id":429043,"name":"bengza","country":"cn","lat":33.801,"lon":90.601},{"id":478333,"name":"gyiri","country":"cn","lat":33.9,"lon":91.2}]

@@ -1,1 +1,1 @@
-callback({"markets":[{"id":351504,"name":"upper hay river","country":"ca","lat":59.033333,"lon":-117.683333}]});
+[{"id":351504,"name":"upper hay river","country":"ca","lat":59.033333,"lon":-117.683333}]

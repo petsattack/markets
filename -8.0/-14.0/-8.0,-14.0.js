@@ -1,1 +1,1 @@
-callback({"markets":[{"id":2622758,"name":"two boats village","country":"sh","lat":-7.9883333,"lon":-14.3661111},{"id":2622746,"name":"georgetown","country":"sh","lat":-7.9333333,"lon":-14.4166667}]});
+[{"id":2622758,"name":"two boats village","country":"sh","lat":-7.9883333,"lon":-14.3661111},{"id":2622746,"name":"georgetown","country":"sh","lat":-7.9333333,"lon":-14.4166667}]

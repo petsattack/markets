@@ -1,1 +1,1 @@
-callback({"markets":[{"id":159698,"name":"state of western australia","country":"au","lat":-25.0,"lon":122.0}]});
+[{"id":159698,"name":"state of western australia","country":"au","lat":-25.0,"lon":122.0}]

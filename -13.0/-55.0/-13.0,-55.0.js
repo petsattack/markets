@@ -1,1 +1,1 @@
-callback({"markets":[{"id":313786,"name":"rio da prata","country":"br","lat":-13.216667,"lon":-55.25}]});
+[{"id":313786,"name":"rio da prata","country":"br","lat":-13.216667,"lon":-55.25}]

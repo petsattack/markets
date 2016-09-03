@@ -1,1 +1,1 @@
-callback({"markets":[{"id":351366,"name":"the two rivers","country":"ca","lat":55.75,"lon":-103.166667},{"id":351110,"name":"southend","country":"ca","lat":56.333333,"lon":-103.233333}]});
+[{"id":351366,"name":"the two rivers","country":"ca","lat":55.75,"lon":-103.166667},{"id":351110,"name":"southend","country":"ca","lat":56.333333,"lon":-103.233333}]

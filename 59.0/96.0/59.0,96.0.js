@@ -1,1 +1,1 @@
-callback({"markets":[{"id":2516295,"name":"shivera rybalnaya kamenka","country":"ru","lat":58.548889,"lon":95.846944}]});
+[{"id":2516295,"name":"shivera rybalnaya kamenka","country":"ru","lat":58.548889,"lon":95.846944}]

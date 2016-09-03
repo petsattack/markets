@@ -1,1 +1,1 @@
-callback({"markets":[{"id":1734416,"name":"elbarcat","country":"ly","lat":24.8722222,"lon":10.1794444},{"id":821706,"name":"tin alkoum","country":"dz","lat":24.6191667,"lon":10.2125},{"id":1735312,"name":"rhat","country":"ly","lat":24.9647222,"lon":10.1727778}]});
+[{"id":1734416,"name":"elbarcat","country":"ly","lat":24.8722222,"lon":10.1794444},{"id":821706,"name":"tin alkoum","country":"dz","lat":24.6191667,"lon":10.2125},{"id":1735312,"name":"rhat","country":"ly","lat":24.9647222,"lon":10.1727778}]

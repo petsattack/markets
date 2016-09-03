@@ -1,1 +1,1 @@
-callback({"markets":[{"id":348614,"name":"jean marie river","country":"ca","lat":61.516667,"lon":-120.633333},{"id":347999,"name":"fort simpson","country":"ca","lat":61.85,"lon":-121.333333}]});
+[{"id":348614,"name":"jean marie river","country":"ca","lat":61.516667,"lon":-120.633333},{"id":347999,"name":"fort simpson","country":"ca","lat":61.85,"lon":-121.333333}]

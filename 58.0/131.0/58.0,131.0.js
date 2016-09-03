@@ -1,1 +1,1 @@
-callback({"markets":[{"id":2369031,"name":"baza soyuzzoloto","country":"ru","lat":57.816667,"lon":131.05},{"id":2534031,"name":"tatarka","country":"ru","lat":57.7,"lon":130.566667},{"id":2396029,"name":"faktoriya gynymskaya","country":"ru","lat":57.75,"lon":130.666667}]});
+[{"id":2369031,"name":"baza soyuzzoloto","country":"ru","lat":57.816667,"lon":131.05},{"id":2534031,"name":"tatarka","country":"ru","lat":57.7,"lon":130.566667},{"id":2396029,"name":"faktoriya gynymskaya","country":"ru","lat":57.75,"lon":130.666667}]

@@ -1,1 +1,1 @@
-callback({"markets":[{"id":347850,"name":"falls creek","country":"ca","lat":50.066667,"lon":-121.55},{"id":349140,"name":"lytton","country":"ca","lat":50.233333,"lon":-121.566667}]});
+[{"id":347850,"name":"falls creek","country":"ca","lat":50.066667,"lon":-121.55},{"id":349140,"name":"lytton","country":"ca","lat":50.233333,"lon":-121.566667}]

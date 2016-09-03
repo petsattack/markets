@@ -1,1 +1,1 @@
-callback({"markets":[{"id":2583526,"name":"anse royal","country":"sc","lat":-4.7333333,"lon":55.5166667},{"id":2583544,"name":"takamaka","country":"sc","lat":-4.7666667,"lon":55.5},{"id":2583532,"name":"cascade","country":"sc","lat":-4.6666667,"lon":55.5}]});
+[{"id":2583526,"name":"anse royal","country":"sc","lat":-4.7333333,"lon":55.5166667},{"id":2583544,"name":"takamaka","country":"sc","lat":-4.7666667,"lon":55.5},{"id":2583532,"name":"cascade","country":"sc","lat":-4.6666667,"lon":55.5}]

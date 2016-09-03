@@ -1,1 +1,1 @@
-callback({"markets":[{"id":312158,"name":"posto alto manissaua","country":"br","lat":-11.3,"lon":-54.7}]});
+[{"id":312158,"name":"posto alto manissaua","country":"br","lat":-11.3,"lon":-54.7}]

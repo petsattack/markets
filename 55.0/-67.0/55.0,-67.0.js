@@ -1,1 +1,1 @@
-callback({"markets":[{"id":346980,"name":"burnt creek","country":"ca","lat":54.816667,"lon":-66.883333},{"id":350965,"name":"shafferville","country":"ca","lat":54.8,"lon":-66.816667}]});
+[{"id":346980,"name":"burnt creek","country":"ca","lat":54.816667,"lon":-66.883333},{"id":350965,"name":"shafferville","country":"ca","lat":54.8,"lon":-66.816667}]

@@ -1,1 +1,1 @@
-callback({"markets":[{"id":1502908,"name":"borgarhofn","country":"is","lat":64.183333,"lon":-15.816667},{"id":1503125,"name":"kalfafellssta�ur","country":"is","lat":64.183333,"lon":-15.883333}]});
+[{"id":1502908,"name":"borgarhofn","country":"is","lat":64.183333,"lon":-15.816667},{"id":1503125,"name":"kalfafellssta�ur","country":"is","lat":64.183333,"lon":-15.883333}]

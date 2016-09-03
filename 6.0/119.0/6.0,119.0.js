@@ -1,1 +1,1 @@
-callback({"markets":[{"id":1924106,"name":"kampong kertam","country":"my","lat":5.528611,"lon":118.516111},{"id":1945357,"name":"tundunbuangin","country":"my","lat":5.627778,"lon":118.605556},{"id":1930293,"name":"kampong tundunbuangin","country":"my","lat":5.603053,"lon":118.589191}]});
+[{"id":1924106,"name":"kampong kertam","country":"my","lat":5.528611,"lon":118.516111},{"id":1945357,"name":"tundunbuangin","country":"my","lat":5.627778,"lon":118.605556},{"id":1930293,"name":"kampong tundunbuangin","country":"my","lat":5.603053,"lon":118.589191}]

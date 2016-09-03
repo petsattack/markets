@@ -1,1 +1,1 @@
-callback({"markets":[{"id":2912374,"name":"moses point fishing village","country":"us","lat":64.6977778,"lon":-162.0280556},{"id":2912154,"name":"elim","country":"us","lat":64.6175,"lon":-162.2605556},{"id":2912373,"name":"moses point","country":"us","lat":64.7,"lon":-162.0333333}]});
+[{"id":2912374,"name":"moses point fishing village","country":"us","lat":64.6977778,"lon":-162.0280556},{"id":2912154,"name":"elim","country":"us","lat":64.6175,"lon":-162.2605556},{"id":2912373,"name":"moses point","country":"us","lat":64.7,"lon":-162.0333333}]

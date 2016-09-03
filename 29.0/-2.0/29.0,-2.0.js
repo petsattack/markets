@@ -1,1 +1,1 @@
-callback({"markets":[{"id":821974,"name":"zaouia el kebira","country":"dz","lat":29.4833333,"lon":-1.5}]});
+[{"id":821974,"name":"zaouia el kebira","country":"dz","lat":29.4833333,"lon":-1.5}]

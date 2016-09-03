@@ -1,1 +1,1 @@
-callback({"markets":[{"id":1185006,"name":"heba","country":"id","lat":-10.483333,"lon":121.833333},{"id":1306410,"name":"wawarei","country":"id","lat":-10.45,"lon":121.866667},{"id":1152974,"name":"bolauw","country":"id","lat":-10.466667,"lon":121.983333}]});
+[{"id":1185006,"name":"heba","country":"id","lat":-10.483333,"lon":121.833333},{"id":1306410,"name":"wawarei","country":"id","lat":-10.45,"lon":121.866667},{"id":1152974,"name":"bolauw","country":"id","lat":-10.466667,"lon":121.983333}]

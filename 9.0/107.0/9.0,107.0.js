@@ -1,1 +1,1 @@
-callback({"markets":[{"id":3092508,"name":"ko ong","country":"vn","lat":8.733333,"lon":106.633333},{"id":3101520,"name":"pulo condore","country":"vn","lat":8.683333,"lon":106.616667},{"id":3087978,"name":"dinh dien bau sen","country":"vn","lat":8.916667,"lon":107.216667}]});
+[{"id":3092508,"name":"ko ong","country":"vn","lat":8.733333,"lon":106.633333},{"id":3101520,"name":"pulo condore","country":"vn","lat":8.683333,"lon":106.616667},{"id":3087978,"name":"dinh dien bau sen","country":"vn","lat":8.916667,"lon":107.216667}]

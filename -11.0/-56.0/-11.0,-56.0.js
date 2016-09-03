@@ -1,1 +1,1 @@
-callback({"markets":[{"id":312916,"name":"rancho de caca dos tapaiuna","country":"br","lat":-10.8,"lon":-55.95},{"id":311589,"name":"porto cajueiro","country":"br","lat":-11.05,"lon":-55.883333},{"id":305345,"name":"malocas caiabi","country":"br","lat":-11.366667,"lon":-55.533333}]});
+[{"id":312916,"name":"rancho de caca dos tapaiuna","country":"br","lat":-10.8,"lon":-55.95},{"id":311589,"name":"porto cajueiro","country":"br","lat":-11.05,"lon":-55.883333},{"id":305345,"name":"malocas caiabi","country":"br","lat":-11.366667,"lon":-55.533333}]

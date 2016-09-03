@@ -1,1 +1,1 @@
-callback({"markets":[{"id":3076559,"name":"tuchaua domingos","country":"ve","lat":1.3166667,"lon":-64.8833333}]});
+[{"id":3076559,"name":"tuchaua domingos","country":"ve","lat":1.3166667,"lon":-64.8833333}]

@@ -1,1 +1,1 @@
-callback({"markets":[{"id":157498,"name":"mount ida","country":"au","lat":-29.05,"lon":120.5},{"id":156354,"name":"leonora","country":"au","lat":-28.88509,"lon":121.330742},{"id":155988,"name":"kookynie","country":"au","lat":-29.333333,"lon":121.483333}]});
+[{"id":157498,"name":"mount ida","country":"au","lat":-29.05,"lon":120.5},{"id":156354,"name":"leonora","country":"au","lat":-28.88509,"lon":121.330742},{"id":155988,"name":"kookynie","country":"au","lat":-29.333333,"lon":121.483333}]

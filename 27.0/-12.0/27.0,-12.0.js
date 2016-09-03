@@ -1,1 +1,1 @@
-callback({"markets":[{"id":853772,"name":"samlat el hafad","country":"eh","lat":27.4333333,"lon":-12.4},{"id":853747,"name":"esmara","country":"eh","lat":26.7333333,"lon":-11.6833333},{"id":853769,"name":"piedra del kaisser","country":"eh","lat":27.2333333,"lon":-11.7833333}]});
+[{"id":853772,"name":"samlat el hafad","country":"eh","lat":27.4333333,"lon":-12.4},{"id":853747,"name":"esmara","country":"eh","lat":26.7333333,"lon":-11.6833333},{"id":853769,"name":"piedra del kaisser","country":"eh","lat":27.2333333,"lon":-11.7833333}]

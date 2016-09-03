@@ -1,1 +1,1 @@
-callback({"markets":[{"id":158526,"name":"peak hill","country":"au","lat":-25.633333,"lon":118.716667},{"id":155263,"name":"holdens find","country":"au","lat":-25.916667,"lon":118.566667}]});
+[{"id":158526,"name":"peak hill","country":"au","lat":-25.633333,"lon":118.716667},{"id":155263,"name":"holdens find","country":"au","lat":-25.916667,"lon":118.566667}]

@@ -1,1 +1,1 @@
-callback({"markets":[{"id":129611,"name":"dique florentino ameghino","country":"ar","lat":-43.666667,"lon":-66.416667},{"id":132708,"name":"merayo","country":"ar","lat":-43.8,"lon":-65.75},{"id":135517,"name":"uzcudum","country":"ar","lat":-44.266746,"lon":-66.166802}]});
+[{"id":129611,"name":"dique florentino ameghino","country":"ar","lat":-43.666667,"lon":-66.416667},{"id":132708,"name":"merayo","country":"ar","lat":-43.8,"lon":-65.75},{"id":135517,"name":"uzcudum","country":"ar","lat":-44.266746,"lon":-66.166802}]

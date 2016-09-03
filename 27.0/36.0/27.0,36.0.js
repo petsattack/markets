@@ -1,1 +1,1 @@
-callback({"markets":[{"id":2579252,"name":"salma","country":"sa","lat":27.15,"lon":35.783333},{"id":2579568,"name":"taraf shaqq al `abd","country":"sa","lat":26.766667,"lon":36.066667},{"id":2577595,"name":"dhaba","country":"sa","lat":27.351336,"lon":35.690136}]});
+[{"id":2579252,"name":"salma","country":"sa","lat":27.15,"lon":35.783333},{"id":2579568,"name":"taraf shaqq al `abd","country":"sa","lat":26.766667,"lon":36.066667},{"id":2577595,"name":"dhaba","country":"sa","lat":27.351336,"lon":35.690136}]

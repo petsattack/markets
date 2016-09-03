@@ -1,1 +1,1 @@
-callback({"markets":[{"id":346445,"name":"anderson river","country":"ca","lat":69.733333,"lon":-128.95},{"id":351186,"name":"stanton","country":"ca","lat":69.75,"lon":-128.866667}]});
+[{"id":346445,"name":"anderson river","country":"ca","lat":69.733333,"lon":-128.95},{"id":351186,"name":"stanton","country":"ca","lat":69.75,"lon":-128.866667}]

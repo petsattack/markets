@@ -1,1 +1,1 @@
-callback({"markets":[{"id":813054,"name":"bel bachir","country":"dz","lat":30.6166667,"lon":2.8833333},{"id":815876,"name":"el golea","country":"dz","lat":30.5666667,"lon":2.8833333}]});
+[{"id":813054,"name":"bel bachir","country":"dz","lat":30.6166667,"lon":2.8833333},{"id":815876,"name":"el golea","country":"dz","lat":30.5666667,"lon":2.8833333}]

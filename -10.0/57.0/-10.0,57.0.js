@@ -1,1 +1,1 @@
-callback({"markets":[{"id":1852003,"name":"porte sainte rita","country":"mu","lat":-10.4833333,"lon":56.7}]});
+[{"id":1852003,"name":"porte sainte rita","country":"mu","lat":-10.4833333,"lon":56.7}]

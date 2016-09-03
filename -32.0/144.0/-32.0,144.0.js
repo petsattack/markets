@@ -1,1 +1,1 @@
-callback({"markets":[{"id":159529,"name":"slamannon","country":"au","lat":-32.066667,"lon":143.666667},{"id":156711,"name":"manara","country":"au","lat":-32.483333,"lon":143.933333},{"id":153801,"name":"dromore","country":"au","lat":-32.3,"lon":143.85}]});
+[{"id":159529,"name":"slamannon","country":"au","lat":-32.066667,"lon":143.666667},{"id":156711,"name":"manara","country":"au","lat":-32.483333,"lon":143.933333},{"id":153801,"name":"dromore","country":"au","lat":-32.3,"lon":143.85}]

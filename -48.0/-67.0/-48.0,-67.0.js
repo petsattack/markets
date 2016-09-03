@@ -1,1 +1,1 @@
-callback({"markets":[{"id":133367,"name":"paso gregores","country":"ar","lat":-47.8,"lon":-66.583333},{"id":133365,"name":"paso gobernador gregores","country":"ar","lat":-47.827385,"lon":-66.5908},{"id":130262,"name":"estancia florida negra","country":"ar","lat":-48.421834,"lon":-67.353693}]});
+[{"id":133367,"name":"paso gregores","country":"ar","lat":-47.8,"lon":-66.583333},{"id":133365,"name":"paso gobernador gregores","country":"ar","lat":-47.827385,"lon":-66.5908},{"id":130262,"name":"estancia florida negra","country":"ar","lat":-48.421834,"lon":-67.353693}]

@@ -1,1 +1,1 @@
-callback({"markets":[{"id":299349,"name":"fonte termal agua quente","country":"br","lat":-13.833333,"lon":-58.8}]});
+[{"id":299349,"name":"fonte termal agua quente","country":"br","lat":-13.833333,"lon":-58.8}]

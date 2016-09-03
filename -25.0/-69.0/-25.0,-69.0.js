@@ -1,1 +1,1 @@
-callback({"markets":[{"id":408820,"name":"rio frio","country":"cl","lat":-25.066667,"lon":-69.083333}]});
+[{"id":408820,"name":"rio frio","country":"cl","lat":-25.066667,"lon":-69.083333}]

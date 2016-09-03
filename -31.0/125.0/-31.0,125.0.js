@@ -1,1 +1,1 @@
-callback({"markets":[{"id":157830,"name":"naretha","country":"au","lat":-31.0,"lon":124.833333},{"id":158986,"name":"rawlinna","country":"au","lat":-31.016667,"lon":125.333333}]});
+[{"id":157830,"name":"naretha","country":"au","lat":-31.0,"lon":124.833333},{"id":158986,"name":"rawlinna","country":"au","lat":-31.016667,"lon":125.333333}]

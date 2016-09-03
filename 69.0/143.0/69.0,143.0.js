@@ -1,1 +1,1 @@
-callback({"markets":[{"id":2457096,"name":"megurdakh","country":"ru","lat":68.766667,"lon":143.216667},{"id":2366615,"name":"baky","country":"ru","lat":68.816667,"lon":143.0},{"id":2480543,"name":"ordonoakhtaakh","country":"ru","lat":68.933333,"lon":143.3}]});
+[{"id":2457096,"name":"megurdakh","country":"ru","lat":68.766667,"lon":143.216667},{"id":2366615,"name":"baky","country":"ru","lat":68.816667,"lon":143.0},{"id":2480543,"name":"ordonoakhtaakh","country":"ru","lat":68.933333,"lon":143.3}]

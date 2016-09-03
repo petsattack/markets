@@ -1,1 +1,1 @@
-callback({"markets":[{"id":130319,"name":"estancia tapi aike","country":"ar","lat":-51.057278,"lon":-71.791545},{"id":128486,"name":"cancha carrera","country":"ar","lat":-51.25,"lon":-72.233333}]});
+[{"id":130319,"name":"estancia tapi aike","country":"ar","lat":-51.057278,"lon":-71.791545},{"id":128486,"name":"cancha carrera","country":"ar","lat":-51.25,"lon":-72.233333}]

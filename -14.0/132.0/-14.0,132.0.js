@@ -1,1 +1,1 @@
-callback({"markets":[{"id":158664,"name":"pine creek","country":"au","lat":-13.82077,"lon":131.832947},{"id":155734,"name":"katherine","country":"au","lat":-14.46517,"lon":132.263474}]});
+[{"id":158664,"name":"pine creek","country":"au","lat":-13.82077,"lon":131.832947},{"id":155734,"name":"katherine","country":"au","lat":-14.46517,"lon":132.263474}]

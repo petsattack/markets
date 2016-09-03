@@ -1,1 +1,1 @@
-callback({"markets":[{"id":157401,"name":"mosquito creek mining centre","country":"au","lat":-21.816667,"lon":120.5},{"id":153938,"name":"eastern creek","country":"au","lat":-21.683333,"lon":120.616667}]});
+[{"id":157401,"name":"mosquito creek mining centre","country":"au","lat":-21.816667,"lon":120.5},{"id":153938,"name":"eastern creek","country":"au","lat":-21.683333,"lon":120.616667}]

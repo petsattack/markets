@@ -1,1 +1,1 @@
-callback({"markets":[{"id":290576,"name":"binga","country":"br","lat":-7.7,"lon":-65.05},{"id":305200,"name":"majuria","country":"br","lat":-7.5,"lon":-64.916667},{"id":303630,"name":"juricia labrea","country":"br","lat":-7.8,"lon":-65.1}]});
+[{"id":290576,"name":"binga","country":"br","lat":-7.7,"lon":-65.05},{"id":305200,"name":"majuria","country":"br","lat":-7.5,"lon":-64.916667},{"id":303630,"name":"juricia labrea","country":"br","lat":-7.8,"lon":-65.1}]

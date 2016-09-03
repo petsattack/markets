@@ -1,1 +1,1 @@
-callback({"markets":[{"id":128636,"name":"casa folch","country":"ar","lat":-47.445207,"lon":-70.927162},{"id":129866,"name":"el glo","country":"ar","lat":-47.28802,"lon":-71.467374},{"id":134219,"name":"rio fenix","country":"ar","lat":-46.589945,"lon":-70.929747}]});
+[{"id":128636,"name":"casa folch","country":"ar","lat":-47.445207,"lon":-70.927162},{"id":129866,"name":"el glo","country":"ar","lat":-47.28802,"lon":-71.467374},{"id":134219,"name":"rio fenix","country":"ar","lat":-46.589945,"lon":-70.929747}]

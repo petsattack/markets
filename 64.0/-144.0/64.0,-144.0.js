@@ -1,1 +1,1 @@
-callback({"markets":[{"id":2912134,"name":"dot lake","country":"us","lat":63.6613889,"lon":-144.0644444},{"id":2912135,"name":"dot lake village","country":"us","lat":63.6508333,"lon":-144.0438889}]});
+[{"id":2912134,"name":"dot lake","country":"us","lat":63.6613889,"lon":-144.0644444},{"id":2912135,"name":"dot lake village","country":"us","lat":63.6508333,"lon":-144.0438889}]

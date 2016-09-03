@@ -1,1 +1,1 @@
-callback({"markets":[{"id":159366,"name":"santa teresa","country":"au","lat":-24.12742,"lon":134.370331},{"id":150960,"name":"alice springs","country":"au","lat":-23.697479,"lon":133.883621},{"id":151017,"name":"amoonguna","country":"au","lat":-23.770941,"lon":133.936523}]});
+[{"id":159366,"name":"santa teresa","country":"au","lat":-24.12742,"lon":134.370331},{"id":150960,"name":"alice springs","country":"au","lat":-23.697479,"lon":133.883621},{"id":151017,"name":"amoonguna","country":"au","lat":-23.770941,"lon":133.936523}]

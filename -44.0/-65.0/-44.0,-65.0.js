@@ -1,1 +1,1 @@
-callback({"markets":[{"id":133908,"name":"puerto raso","country":"ar","lat":-44.342395,"lon":-65.238286},{"id":129665,"name":"dos pozos","country":"ar","lat":-43.900624,"lon":-65.413965}]});
+[{"id":133908,"name":"puerto raso","country":"ar","lat":-44.342395,"lon":-65.238286},{"id":129665,"name":"dos pozos","country":"ar","lat":-43.900624,"lon":-65.413965}]

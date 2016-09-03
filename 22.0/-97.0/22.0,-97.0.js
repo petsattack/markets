@@ -1,1 +1,1 @@
-callback({"markets":[{"id":1889979,"name":"los nanches","country":"mx","lat":21.633333,"lon":-97.458333},{"id":1858627,"name":"amajahua","country":"mx","lat":21.541667,"lon":-97.383333},{"id":1890979,"name":"majahua","country":"mx","lat":21.566667,"lon":-97.366667}]});
+[{"id":1889979,"name":"los nanches","country":"mx","lat":21.633333,"lon":-97.458333},{"id":1858627,"name":"amajahua","country":"mx","lat":21.541667,"lon":-97.383333},{"id":1890979,"name":"majahua","country":"mx","lat":21.566667,"lon":-97.366667}]

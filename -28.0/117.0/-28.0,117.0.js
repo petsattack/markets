@@ -1,1 +1,1 @@
-callback({"markets":[{"id":161591,"name":"yalgoo","country":"au","lat":-28.333333,"lon":116.683333},{"id":156950,"name":"melville","country":"au","lat":-28.183333,"lon":116.733333}]});
+[{"id":161591,"name":"yalgoo","country":"au","lat":-28.333333,"lon":116.683333},{"id":156950,"name":"melville","country":"au","lat":-28.183333,"lon":116.733333}]

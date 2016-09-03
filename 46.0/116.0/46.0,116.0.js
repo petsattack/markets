@@ -1,1 +1,1 @@
-callback({"markets":[{"id":1848139,"name":"urtuin-sumu","country":"mn","lat":46.1166667,"lon":115.55},{"id":1844856,"name":"hohoteyn dugang","country":"mn","lat":46.0,"lon":115.5333333}]});
+[{"id":1848139,"name":"urtuin-sumu","country":"mn","lat":46.1166667,"lon":115.55},{"id":1844856,"name":"hohoteyn dugang","country":"mn","lat":46.0,"lon":115.5333333}]

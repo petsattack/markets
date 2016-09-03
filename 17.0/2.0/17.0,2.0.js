@@ -1,1 +1,1 @@
-callback({"markets":[{"id":1807000,"name":"telataye","country":"ml","lat":16.5258333,"lon":1.5294444},{"id":1807137,"name":"tidarmene","country":"ml","lat":16.6155556,"lon":2.4227778}]});
+[{"id":1807000,"name":"telataye","country":"ml","lat":16.5258333,"lon":1.5294444},{"id":1807137,"name":"tidarmene","country":"ml","lat":16.6155556,"lon":2.4227778}]

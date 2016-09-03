@@ -1,1 +1,1 @@
-callback({"markets":[{"id":305313,"name":"maloca do capieri","country":"br","lat":-7.366667,"lon":-57.4},{"id":327436,"name":"uari","country":"br","lat":-6.8,"lon":-57.35}]});
+[{"id":305313,"name":"maloca do capieri","country":"br","lat":-7.366667,"lon":-57.4},{"id":327436,"name":"uari","country":"br","lat":-6.8,"lon":-57.35}]

@@ -1,1 +1,1 @@
-callback({"markets":[{"id":305645,"name":"maracajatuba","country":"br","lat":-3.416667,"lon":-56.45},{"id":294295,"name":"catauara","country":"br","lat":-3.35,"lon":-56.383333}]});
+[{"id":305645,"name":"maracajatuba","country":"br","lat":-3.416667,"lon":-56.45},{"id":294295,"name":"catauara","country":"br","lat":-3.35,"lon":-56.383333}]

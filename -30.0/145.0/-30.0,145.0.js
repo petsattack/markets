@@ -1,1 +1,1 @@
-callback({"markets":[{"id":153959,"name":"east toorale","country":"au","lat":-30.433333,"lon":145.4},{"id":154330,"name":"fords bridge","country":"au","lat":-29.75,"lon":145.416667}]});
+[{"id":153959,"name":"east toorale","country":"au","lat":-30.433333,"lon":145.4},{"id":154330,"name":"fords bridge","country":"au","lat":-29.75,"lon":145.416667}]

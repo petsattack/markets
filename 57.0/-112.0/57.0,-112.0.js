@@ -1,1 +1,1 @@
-callback({"markets":[{"id":346792,"name":"bitumount","country":"ca","lat":57.383333,"lon":-111.633333},{"id":347977,"name":"fort mackay","country":"ca","lat":57.183333,"lon":-111.616667}]});
+[{"id":346792,"name":"bitumount","country":"ca","lat":57.383333,"lon":-111.633333},{"id":347977,"name":"fort mackay","country":"ca","lat":57.183333,"lon":-111.616667}]

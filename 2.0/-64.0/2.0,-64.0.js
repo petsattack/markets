@@ -1,1 +1,1 @@
-callback({"markets":[{"id":3058482,"name":"campamento el gigante","country":"ve","lat":2.15,"lon":-63.9333333},{"id":3065067,"name":"horqueta minas","country":"ve","lat":2.3333333,"lon":-63.5333333},{"id":3058481,"name":"campamento el cacaotal","country":"ve","lat":2.15,"lon":-63.9166667}]});
+[{"id":3058482,"name":"campamento el gigante","country":"ve","lat":2.15,"lon":-63.9333333},{"id":3065067,"name":"horqueta minas","country":"ve","lat":2.3333333,"lon":-63.5333333},{"id":3058481,"name":"campamento el cacaotal","country":"ve","lat":2.15,"lon":-63.9166667}]

@@ -1,1 +1,1 @@
-callback({"markets":[{"id":2387882,"name":"chuin","country":"ru","lat":48.333333,"lon":137.266667},{"id":2387918,"name":"chuken","country":"ru","lat":47.866667,"lon":136.7},{"id":2530018,"name":"sukpay-datani","country":"ru","lat":47.966667,"lon":136.75}]});
+[{"id":2387882,"name":"chuin","country":"ru","lat":48.333333,"lon":137.266667},{"id":2387918,"name":"chuken","country":"ru","lat":47.866667,"lon":136.7},{"id":2530018,"name":"sukpay-datani","country":"ru","lat":47.966667,"lon":136.75}]

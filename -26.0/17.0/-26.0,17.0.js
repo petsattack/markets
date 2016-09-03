@@ -1,1 +1,1 @@
-callback({"markets":[{"id":1966788,"name":"bethany","country":"na","lat":-26.4833333,"lon":17.15},{"id":1967123,"name":"helmeringhausen","country":"na","lat":-25.8833333,"lon":16.8166667}]});
+[{"id":1966788,"name":"bethany","country":"na","lat":-26.4833333,"lon":17.15},{"id":1967123,"name":"helmeringhausen","country":"na","lat":-25.8833333,"lon":16.8166667}]

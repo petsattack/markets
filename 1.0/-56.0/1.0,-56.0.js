@@ -1,1 +1,1 @@
-callback({"markets":[{"id":286612,"name":"aldeias das canoas","country":"br","lat":0.8,"lon":-55.85},{"id":306724,"name":"mocambo do espirito santo","country":"br","lat":0.7,"lon":-55.916667},{"id":326188,"name":"tapera do jeronimo","country":"br","lat":0.816667,"lon":-55.8}]});
+[{"id":286612,"name":"aldeias das canoas","country":"br","lat":0.8,"lon":-55.85},{"id":306724,"name":"mocambo do espirito santo","country":"br","lat":0.7,"lon":-55.916667},{"id":326188,"name":"tapera do jeronimo","country":"br","lat":0.816667,"lon":-55.8}]

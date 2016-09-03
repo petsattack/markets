@@ -1,1 +1,1 @@
-callback({"markets":[{"id":1844055,"name":"dugang-uilgan","country":"mn","lat":50.5333333,"lon":101.7833333},{"id":1847388,"name":"tsagaan uure sumu","country":"mn","lat":50.5419444,"lon":101.5141667},{"id":1847344,"name":"tsagaan huryee","country":"mn","lat":50.9333333,"lon":101.6666667}]});
+[{"id":1844055,"name":"dugang-uilgan","country":"mn","lat":50.5333333,"lon":101.7833333},{"id":1847388,"name":"tsagaan uure sumu","country":"mn","lat":50.5419444,"lon":101.5141667},{"id":1847344,"name":"tsagaan huryee","country":"mn","lat":50.9333333,"lon":101.6666667}]
