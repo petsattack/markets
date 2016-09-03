@@ -1,0 +1,1 @@
+callback({"markets":[{"id":153522,"name":"dalys waters","country":"au","lat":-16.25,"lon":133.366667},{"id":151734,"name":"birdum","country":"au","lat":-15.65,"lon":133.216667}]});

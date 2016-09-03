@@ -1,0 +1,1 @@
+callback({"markets":[{"id":315768,"name":"sao bento","country":"br","lat":-9.233333,"lon":-68.75},{"id":305604,"name":"manuel urbano","country":"br","lat":-8.883333,"lon":-69.3},{"id":312541,"name":"purus","country":"br","lat":-9.066667,"lon":-68.666667},{"id":316524,"name":"sao jose","country":"br","lat":-9.4,"lon":-68.733333}]});

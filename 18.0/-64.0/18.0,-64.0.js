@@ -1,0 +1,1 @@
+callback({"markets":[{"id":3077287,"name":"spanish town","country":"vg","lat":18.45,"lon":-64.4333333},{"id":3077273,"name":"creek village","country":"vg","lat":18.4911111,"lon":-64.3811111},{"id":3077308,"name":"south sound","country":"vi","lat":18.4833333,"lon":-64.3833333}]});

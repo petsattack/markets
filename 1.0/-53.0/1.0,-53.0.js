@@ -1,0 +1,1 @@
+callback({"markets":[{"id":326533,"name":"terceiro acampamento","country":"br","lat":0.75,"lon":-53.1}]});

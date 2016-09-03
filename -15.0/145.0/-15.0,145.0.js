@@ -1,0 +1,1 @@
+callback({"markets":[{"id":153149,"name":"cooktown","country":"au","lat":-15.47028,"lon":145.249863},{"id":154088,"name":"endeavour","country":"au","lat":-15.416667,"lon":145.083333},{"id":155301,"name":"hope vale","country":"au","lat":-15.29561,"lon":145.111252}]});

@@ -1,0 +1,1 @@
+callback({"markets":[{"id":2537309,"name":"tolka","country":"ru","lat":63.374722,"lon":80.076944}]});

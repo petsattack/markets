@@ -1,0 +1,1 @@
+callback({"markets":[{"id":347930,"name":"fond-du-lac","country":"ca","lat":59.316667,"lon":-107.183333}]});

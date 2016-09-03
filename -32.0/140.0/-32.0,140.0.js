@@ -1,0 +1,1 @@
+callback({"markets":[{"id":158299,"name":"olary","country":"au","lat":-32.283333,"lon":140.316667},{"id":160054,"name":"telichie","country":"au","lat":-31.683333,"lon":139.933333},{"id":156743,"name":"manna hill","country":"au","lat":-32.433333,"lon":140.0}]});

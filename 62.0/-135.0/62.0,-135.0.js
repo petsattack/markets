@@ -1,0 +1,1 @@
+callback({"markets":[{"id":346768,"name":"big salmon","country":"ca","lat":61.866667,"lon":-134.933333},{"id":348484,"name":"hootalinqua","country":"ca","lat":61.583333,"lon":-134.916667}]});

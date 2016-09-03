@@ -1,0 +1,1 @@
+callback({"markets":[{"id":2396036,"name":"faktoriya kirbey","country":"ru","lat":69.1,"lon":104.466667}]});

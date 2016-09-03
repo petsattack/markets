@@ -1,0 +1,1 @@
+callback({"markets":[{"id":2565768,"name":"yurty yuilskiy gordok","country":"ru","lat":63.55,"lon":69.166667},{"id":2479723,"name":"oles-polak-kurt","country":"ru","lat":63.7,"lon":69.3},{"id":2493910,"name":"pomyt","country":"ru","lat":63.547778,"lon":68.539722}]});

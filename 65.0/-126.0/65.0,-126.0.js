@@ -1,0 +1,1 @@
+callback({"markets":[{"id":347985,"name":"fort norman","country":"ca","lat":64.9,"lon":-125.583333}]});

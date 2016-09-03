@@ -1,0 +1,1 @@
+callback({"markets":[{"id":349135,"name":"lymburn","country":"ca","lat":55.35,"lon":-119.783333},{"id":348528,"name":"hythe","country":"ca","lat":55.316667,"lon":-119.566667},{"id":346388,"name":"albright","country":"ca","lat":55.266667,"lon":-119.5},{"id":347549,"name":"demmitt","country":"ca","lat":55.45,"lon":-119.9}]});

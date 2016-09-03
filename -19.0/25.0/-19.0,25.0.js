@@ -1,0 +1,1 @@
+callback({"markets":[{"id":330201,"name":"maseme","country":"bw","lat":-18.75,"lon":25.0666667},{"id":329984,"name":"dodo","country":"bw","lat":-18.75,"lon":25.4},{"id":330003,"name":"gehumdi","country":"bw","lat":-18.7833333,"lon":25.4166667},{"id":330094,"name":"kumba pits","country":"bw","lat":-18.7166667,"lon":24.6833333}]});

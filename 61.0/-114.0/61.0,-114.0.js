@@ -1,0 +1,1 @@
+callback({"markets":[{"id":350019,"name":"pine point","country":"ca","lat":60.833333,"lon":-114.466667},{"id":347991,"name":"fort resolution","country":"ca","lat":61.166667,"lon":-113.683333}]});

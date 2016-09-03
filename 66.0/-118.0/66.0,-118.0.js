@@ -1,0 +1,1 @@
+callback({"markets":[{"id":350166,"name":"port radium","country":"ca","lat":66.05,"lon":-117.883333},{"id":347724,"name":"echo bay","country":"ca","lat":66.083333,"lon":-118.033333}]});

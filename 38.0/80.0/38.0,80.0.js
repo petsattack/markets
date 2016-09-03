@@ -1,0 +1,1 @@
+callback({"markets":[{"id":499439,"name":"islam awat","country":"cn","lat":37.7,"lon":80.366667},{"id":562485,"name":"qoshlash","country":"cn","lat":38.05,"lon":80.466667},{"id":462810,"name":"duxanbibazar","country":"cn","lat":37.573889,"lon":80.173333},{"id":639815,"name":"yilanqi","country":"cn","lat":37.5,"lon":79.833333}]});

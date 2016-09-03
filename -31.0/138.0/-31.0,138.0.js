@@ -1,0 +1,1 @@
+callback({"markets":[{"id":151566,"name":"beltana","country":"au","lat":-30.8,"lon":138.416667},{"id":156335,"name":"leigh creek","country":"au","lat":-30.593121,"lon":138.404861},{"id":158461,"name":"parachilna","country":"au","lat":-31.133333,"lon":138.383333},{"id":153232,"name":"copley","country":"au","lat":-30.533333,"lon":138.433333}]});

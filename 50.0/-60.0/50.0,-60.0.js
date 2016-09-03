@@ -1,0 +1,1 @@
+callback({"markets":[{"id":350046,"name":"point au maurier","country":"ca","lat":50.35,"lon":-59.816667}]});

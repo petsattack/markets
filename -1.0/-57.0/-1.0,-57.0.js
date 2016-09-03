@@ -1,0 +1,1 @@
+callback({"markets":[{"id":317068,"name":"sao tiago","country":"br","lat":-0.983333,"lon":-57.0},{"id":286062,"name":"acampamento","country":"br","lat":-1.0,"lon":-57.016667},{"id":311474,"name":"porteira","country":"br","lat":-1.083333,"lon":-57.066667},{"id":317283,"name":"sauia","country":"br","lat":-0.733333,"lon":-56.866667}]});

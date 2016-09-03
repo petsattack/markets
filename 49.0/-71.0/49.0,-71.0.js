@@ -1,0 +1,1 @@
+callback({"markets":[{"id":350520,"name":"saint-ambroise","country":"ca","lat":48.55,"lon":-71.316667},{"id":349242,"name":"martel","country":"ca","lat":48.533333,"lon":-71.083333},{"id":347051,"name":"canton-begin","country":"ca","lat":48.683333,"lon":-71.366667}]});

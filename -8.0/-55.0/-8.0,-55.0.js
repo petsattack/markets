@@ -1,0 +1,1 @@
+callback({"markets":[{"id":312357,"name":"prazeiro","country":"br","lat":-7.816667,"lon":-54.816667},{"id":305311,"name":"maloca do barurema","country":"br","lat":-8.083333,"lon":-54.616667},{"id":327722,"name":"usina","country":"br","lat":-7.683333,"lon":-54.816667},{"id":286589,"name":"aldeia dos indios","country":"br","lat":-8.1,"lon":-54.616667}]});

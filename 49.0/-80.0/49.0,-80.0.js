@@ -1,0 +1,1 @@
+callback({"markets":[{"id":348910,"name":"la reine","country":"ca","lat":48.866667,"lon":-79.5},{"id":349106,"name":"low bush","country":"ca","lat":48.916667,"lon":-80.133333},{"id":349266,"name":"matheson station","country":"ca","lat":48.533333,"lon":-80.466667}]});

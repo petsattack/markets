@@ -1,0 +1,1 @@
+callback({"markets":[{"id":131604,"name":"la herreria","country":"ar","lat":-48.566667,"lon":-70.55},{"id":131556,"name":"lago cardiel","country":"ar","lat":-48.966667,"lon":-71.4}]});

@@ -1,0 +1,1 @@
+callback({"markets":[{"id":330422,"name":"stumkies dam","country":"bw","lat":-26.3666667,"lon":20.7}]});

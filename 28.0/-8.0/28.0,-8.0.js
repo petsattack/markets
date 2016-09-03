@@ -1,0 +1,1 @@
+callback({"markets":[{"id":821708,"name":"tindouf","country":"dz","lat":27.6741667,"lon":-8.1477778}]});

@@ -1,0 +1,1 @@
+callback({"markets":[{"id":2912434,"name":"nushagak","country":"us","lat":58.9480556,"lon":-158.4922222},{"id":2912126,"name":"dillingham","country":"us","lat":59.0397222,"lon":-158.4575},{"id":2912646,"name":"wood river","country":"us","lat":59.0691667,"lon":-158.4411111},{"id":2912495,"name":"portage creek","country":"us","lat":58.9061111,"lon":-157.7175}]});

@@ -1,0 +1,1 @@
+callback({"markets":[{"id":351011,"name":"shingle point","country":"ca","lat":69.0,"lon":-137.366667}]});

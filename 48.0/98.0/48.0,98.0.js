@@ -1,0 +1,1 @@
+callback({"markets":[{"id":1843071,"name":"baytsaiin huryee","country":"mn","lat":47.8333333,"lon":98.3333333},{"id":1846194,"name":"naran sumu","country":"mn","lat":48.4736111,"lon":98.2902778},{"id":1844656,"name":"hambaiin huryee","country":"mn","lat":48.25,"lon":97.6}]});

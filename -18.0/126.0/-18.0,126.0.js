@@ -1,0 +1,1 @@
+callback({"markets":[{"id":155607,"name":"junjuwa","country":"au","lat":-18.177799,"lon":125.568047},{"id":151469,"name":"bayulu","country":"au","lat":-18.299959,"lon":125.595741},{"id":154289,"name":"fitzroy crossing","country":"au","lat":-18.19714,"lon":125.566628}]});

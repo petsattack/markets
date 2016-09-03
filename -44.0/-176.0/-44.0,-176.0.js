@@ -1,0 +1,1 @@
+callback({"markets":[{"id":2049462,"name":"ouwenga","country":"nz","lat":-44.033333,"lon":-176.366667},{"id":2048719,"name":"karewa","country":"nz","lat":-43.8,"lon":-176.466667},{"id":2049078,"name":"matarakau","country":"nz","lat":-43.733333,"lon":-176.35}]});

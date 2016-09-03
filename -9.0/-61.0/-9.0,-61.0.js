@@ -1,0 +1,1 @@
+callback({"markets":[{"id":305603,"name":"manuel tomas","country":"br","lat":-8.85,"lon":-60.7},{"id":287989,"name":"aripuana","country":"br","lat":-9.166667,"lon":-60.633333},{"id":303364,"name":"jose laurentino","country":"br","lat":-8.633333,"lon":-60.683333},{"id":286747,"name":"alianca","country":"br","lat":-9.1,"lon":-60.583333}]});

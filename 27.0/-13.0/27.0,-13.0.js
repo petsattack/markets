@@ -1,0 +1,1 @@
+callback({"markets":[{"id":853771,"name":"playa del aaiun","country":"eh","lat":27.0961111,"lon":-13.4158333},{"id":853713,"name":"ad dchira","country":"eh","lat":27.0261111,"lon":-13.0519444},{"id":853764,"name":"la\u0027youn","country":"eh","lat":27.1536111,"lon":-13.2033333},{"id":853734,"name":"daora","country":"eh","lat":27.4625,"lon":-12.9922222}]});

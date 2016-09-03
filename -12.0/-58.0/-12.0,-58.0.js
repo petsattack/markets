@@ -1,0 +1,1 @@
+callback({"markets":[{"id":313929,"name":"rio noronha","country":"br","lat":-12.2,"lon":-58.183333},{"id":305307,"name":"maloca de indios","country":"br","lat":-11.883333,"lon":-58.2},{"id":296109,"name":"cravari","country":"br","lat":-12.466667,"lon":-57.966667}]});

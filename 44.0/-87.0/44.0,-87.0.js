@@ -1,0 +1,1 @@
+callback({"markets":[{"id":2968581,"name":"little point sable","country":"us","lat":43.6347222,"lon":-86.5375},{"id":2969491,"name":"stony lake","country":"us","lat":43.5597222,"lon":-86.5}]});

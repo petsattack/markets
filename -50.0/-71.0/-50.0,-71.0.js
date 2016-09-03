@@ -1,0 +1,1 @@
+callback({"markets":[{"id":132628,"name":"mata amarilla","country":"ar","lat":-49.6,"lon":-71.216667},{"id":130287,"name":"estancia maria elena","country":"ar","lat":-49.784844,"lon":-71.188034},{"id":130585,"name":"gendarme c. barreto","country":"ar","lat":-50.289897,"lon":-70.961617},{"id":135406,"name":"tres lagos","country":"ar","lat":-49.598341,"lon":-71.442824}]});

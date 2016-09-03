@@ -1,0 +1,1 @@
+callback({"markets":[{"id":292896,"name":"campo de diauarum","country":"br","lat":-11.2,"lon":-53.233333}]});

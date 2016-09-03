@@ -1,0 +1,1 @@
+callback({"markets":[{"id":346964,"name":"burgeo","country":"ca","lat":47.6,"lon":-57.633333},{"id":350880,"name":"sandy point","country":"ca","lat":48.45,"lon":-58.483333},{"id":348206,"name":"grand bruit","country":"ca","lat":47.666667,"lon":-58.233333}]});

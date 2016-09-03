@@ -1,0 +1,1 @@
+callback({"markets":[{"id":349687,"name":"niganishe","country":"ca","lat":46.683333,"lon":-60.366667},{"id":347587,"name":"dingwall","country":"ca","lat":46.9,"lon":-60.466667},{"id":346634,"name":"bay saint lawrence","country":"ca","lat":47.0,"lon":-60.466667}]});

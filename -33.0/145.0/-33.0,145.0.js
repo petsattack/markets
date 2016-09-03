@@ -1,0 +1,1 @@
+callback({"markets":[{"id":160391,"name":"trida","country":"au","lat":-33.016667,"lon":145.016667},{"id":159214,"name":"roto","country":"au","lat":-33.05,"lon":145.466667},{"id":157405,"name":"mossgiel","country":"au","lat":-33.266667,"lon":144.566667}]});

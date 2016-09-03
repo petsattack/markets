@@ -1,0 +1,1 @@
+callback({"markets":[{"id":155450,"name":"iron knob","country":"au","lat":-32.73299,"lon":137.150955},{"id":158047,"name":"nonning","country":"au","lat":-32.5,"lon":136.5},{"id":157398,"name":"moseley","country":"au","lat":-33.083333,"lon":136.516667},{"id":155448,"name":"iron baron","country":"au","lat":-32.983333,"lon":137.15}]});

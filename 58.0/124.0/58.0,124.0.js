@@ -1,0 +1,1 @@
+callback({"markets":[{"id":2486387,"name":"perekratnyy","country":"ru","lat":58.48,"lon":124.359722},{"id":2439406,"name":"kurumkan","country":"ru","lat":57.833333,"lon":123.8},{"id":2530336,"name":"suon-tit","country":"ru","lat":58.074444,"lon":123.718056},{"id":2499223,"name":"pustynnyy","country":"ru","lat":58.066667,"lon":123.6}]});

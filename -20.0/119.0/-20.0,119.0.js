@@ -1,0 +1,1 @@
+callback({"markets":[{"id":158788,"name":"port hedland","country":"au","lat":-20.312149,"lon":118.610588},{"id":159474,"name":"shellborough","country":"au","lat":-20.016667,"lon":119.366667}]});

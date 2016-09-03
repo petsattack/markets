@@ -1,0 +1,1 @@
+callback({"markets":[{"id":286569,"name":"aldeia caiabi","country":"br","lat":-11.616667,"lon":-55.683333},{"id":311691,"name":"porto de indio","country":"br","lat":-11.5,"lon":-55.616667}]});

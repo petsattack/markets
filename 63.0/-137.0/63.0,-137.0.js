@@ -1,0 +1,1 @@
+callback({"markets":[{"id":349432,"name":"minto","country":"ca","lat":62.583333,"lon":-136.833333},{"id":347997,"name":"fort selkirk","country":"ca","lat":62.766667,"lon":-137.383333},{"id":349945,"name":"pelly crossing","country":"ca","lat":62.833333,"lon":-136.583333}]});

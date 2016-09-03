@@ -1,0 +1,1 @@
+callback({"markets":[{"id":157443,"name":"mount coolon","country":"au","lat":-21.383333,"lon":147.333333},{"id":158308,"name":"old glenroy","country":"au","lat":-20.533333,"lon":147.133333}]});

@@ -1,0 +1,1 @@
+callback({"markets":[{"id":2396048,"name":"faktoriya nalimye","country":"ru","lat":63.833333,"lon":85.783333}]});

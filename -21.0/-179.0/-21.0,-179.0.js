@@ -1,0 +1,1 @@
+callback({"markets":[{"id":914168,"name":"ndoi","country":"fj","lat":-20.6333333,"lon":-178.7},{"id":914280,"name":"ono levu","country":"fj","lat":-20.6666667,"lon":-178.6833333},{"id":913501,"name":"matokana","country":"fj","lat":-20.6833333,"lon":-178.7166667}]});

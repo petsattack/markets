@@ -1,0 +1,1 @@
+callback({"markets":[{"id":308649,"name":"paga-conta","country":"br","lat":-4.933333,"lon":-54.566667}]});

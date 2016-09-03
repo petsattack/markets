@@ -1,0 +1,1 @@
+callback({"markets":[{"id":347529,"name":"deer lake","country":"ca","lat":49.183333,"lon":-57.433333},{"id":349401,"name":"millertown","country":"ca","lat":48.816667,"lon":-56.533333},{"id":348500,"name":"howley","country":"ca","lat":49.166667,"lon":-57.116667},{"id":346951,"name":"buchans","country":"ca","lat":48.816667,"lon":-56.866667}]});

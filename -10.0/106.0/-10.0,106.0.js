@@ -1,0 +1,1 @@
+callback({"markets":[{"id":697927,"name":"settlement","country":"cx","lat":-10.4166667,"lon":105.6666667},{"id":697926,"name":"flying fish cove","country":"cx","lat":-10.4166667,"lon":105.7166667},{"id":697925,"name":"drumsite","country":"cx","lat":-10.4333333,"lon":105.6833333},{"id":697930,"name":"waterfall","country":"cx","lat":-10.45,"lon":105.6666667}]});

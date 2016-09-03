@@ -1,0 +1,1 @@
+callback({"markets":[{"id":1064912,"name":"grytviken","country":"gs","lat":-54.2766667,"lon":-36.5116667},{"id":1064913,"name":"stromness","country":"gs","lat":-54.1561111,"lon":-36.7161111}]});

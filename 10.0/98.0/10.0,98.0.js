@@ -1,0 +1,1 @@
+callback({"markets":[{"id":2740427,"name":"ban sin hai","country":"th","lat":9.9,"lon":98.483333},{"id":2700656,"name":"ban au koi","country":"th","lat":9.633333,"lon":98.483333},{"id":2742933,"name":"ban tha bang ben","country":"th","lat":9.616667,"lon":98.483333},{"id":1814681,"name":"kampong mah puteh","country":"mm","lat":10.1833333,"lon":98.4833333}]});

@@ -1,0 +1,1 @@
+callback({"markets":[{"id":304648,"name":"limoeiro","country":"br","lat":-12.333333,"lon":-63.316667},{"id":311569,"name":"porto bicentenario","country":"br","lat":-11.766667,"lon":-63.283333},{"id":299440,"name":"fortaleza","country":"br","lat":-11.916667,"lon":-63.4}]});

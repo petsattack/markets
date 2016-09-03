@@ -1,0 +1,1 @@
+callback({"markets":[{"id":349210,"name":"manson creek","country":"ca","lat":55.666667,"lon":-124.5},{"id":348113,"name":"germansen landing","country":"ca","lat":55.783333,"lon":-124.7}]});
