@@ -1,0 +1,1 @@
+[{"id":330181,"name":"makwa","country":"bw","lat":-21.7166667,"lon":26.3666667},{"id":330438,"name":"tlala mabeli","country":"bw","lat":-21.2666667,"lon":26.3},{"id":330296,"name":"mumungwe","country":"bw","lat":-21.9833333,"lon":26.4},{"id":329982,"name":"ditauana","country":"bw","lat":-21.9333333,"lon":26.95}]

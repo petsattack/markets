@@ -1,0 +1,1 @@
+[{"id":2420592,"name":"khullor","country":"ru","lat":63.779444,"lon":67.588056},{"id":2437837,"name":"kultbaza kazymskaya","country":"ru","lat":63.700278,"lon":67.243889},{"id":2361549,"name":"amtolchkurt","country":"ru","lat":63.233333,"lon":67.966667},{"id":2550419,"name":"verkhnekazymskiy","country":"ru","lat":63.825556,"lon":67.776667}]

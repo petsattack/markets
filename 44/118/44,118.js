@@ -1,0 +1,1 @@
+[{"id":591283,"name":"taipenmiao","country":"cn","lat":44.583333,"lon":118.5},{"id":587941,"name":"sopulika","country":"cn","lat":44.2,"lon":118.466667},{"id":499393,"name":"injgan sum","country":"cn","lat":44.816667,"lon":118.8},{"id":419336,"name":"aerhshanpaoliko","country":"cn","lat":44.9,"lon":118.1}]

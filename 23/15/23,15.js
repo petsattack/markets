@@ -1,0 +1,1 @@
+[{"id":1734527,"name":"emi madema","country":"ly","lat":23.75,"lon":15.3},{"id":1734898,"name":"melaki","country":"ly","lat":23.3333333,"lon":15.5},{"id":1734812,"name":"kourni ebere dea","country":"ly","lat":23.3666667,"lon":15.4}]

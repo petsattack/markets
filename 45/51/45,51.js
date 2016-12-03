@@ -1,0 +1,1 @@
+[{"id":1647636,"name":"kultay","country":"kz","lat":45.25,"lon":51.366667},{"id":1645971,"name":"karazhambas","country":"kz","lat":45.209444,"lon":51.298889},{"id":1643458,"name":"burunshik","country":"kz","lat":45.4,"lon":51.733333}]

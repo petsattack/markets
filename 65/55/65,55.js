@@ -1,0 +1,1 @@
+[{"id":2548944,"name":"vaskino","country":"ru","lat":65.859813,"lon":55.142024},{"id":2420274,"name":"khrebtovaya","country":"ru","lat":65.033333,"lon":55.966667},{"id":2412976,"name":"kanmuka","country":"ru","lat":65.014494,"lon":55.287059},{"id":2463645,"name":"mutny-materik","country":"ru","lat":65.958047,"lon":55.154784}]

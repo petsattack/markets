@@ -1,1 +1,0 @@
-[{"id":2912085,"name":"chuathbaluk","country":"us","lat":61.5719444,"lon":-159.245},{"id":2912388,"name":"napaimiut","country":"us","lat":61.54,"lon":-158.6741667}]

@@ -1,0 +1,1 @@
+[{"id":1847580,"name":"tsetserligiin ortoo","country":"mn","lat":49.5,"lon":97.0333333},{"id":1843624,"name":"chzhirantain dugang","country":"mn","lat":49.2,"lon":97.8333333},{"id":1844705,"name":"hara boomiin ortoo","country":"mn","lat":49.4666667,"lon":97.2666667},{"id":1844638,"name":"halban","country":"mn","lat":49.5,"lon":97.6}]

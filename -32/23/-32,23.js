@@ -1,0 +1,1 @@
+[{"id":3133622,"name":"rietbron","country":"za","lat":-32.901937,"lon":23.150836},{"id":3132081,"name":"nelspoort","country":"za","lat":-32.114209,"lon":23.002969},{"id":3133578,"name":"restvale","country":"za","lat":-32.089948,"lon":23.009363}]

@@ -1,1 +1,0 @@
-[{"id":2097932,"name":"salapi","country":"pg","lat":-2.1,"lon":146.4}]

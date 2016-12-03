@@ -1,1 +1,0 @@
-[{"id":349233,"name":"marina","country":"ca","lat":56.5,"lon":-119.2},{"id":351833,"name":"worsley","country":"ca","lat":56.516667,"lon":-119.066667}]

@@ -1,0 +1,1 @@
+[{"id":2422948,"name":"kiyeng-urasa","country":"ru","lat":75.516667,"lon":137.266667},{"id":2497784,"name":"promyslovaya stantsiya bkhak karga","country":"ru","lat":75.866667,"lon":137.5},{"id":2535087,"name":"tempa","country":"ru","lat":75.833333,"lon":137.616667}]

@@ -1,0 +1,1 @@
+[{"id":1735519,"name":"terbu","country":"ly","lat":26.0333333,"lon":15.1666667},{"id":1735702,"name":"zawilah","country":"ly","lat":26.1666667,"lon":15.1166667},{"id":1735626,"name":"umm el-adam","country":"ly","lat":26.05,"lon":15.4666667},{"id":1735545,"name":"tmessa","country":"ly","lat":26.3666667,"lon":15.8}]

@@ -1,0 +1,1 @@
+[{"id":2073962,"name":"la trampa","country":"pe","lat":-6.0888889,"lon":-81.0791667},{"id":2068812,"name":"garita","country":"pe","lat":-6.15,"lon":-81.05},{"id":2072905,"name":"kilometro doscientos cuarenticinco","country":"pe","lat":-6.2902778,"lon":-81.2819444},{"id":2065523,"name":"chito","country":"pe","lat":-6.1,"lon":-81.0166667}]

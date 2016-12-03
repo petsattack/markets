@@ -1,1 +1,0 @@
-[{"id":1852173,"name":"magoodhoo","country":"mv","lat":3.1,"lon":72.9666667},{"id":1852170,"name":"kudahuvadhoo","country":"mv","lat":2.6666667,"lon":72.9}]

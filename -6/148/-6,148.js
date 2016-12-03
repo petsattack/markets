@@ -1,0 +1,1 @@
+[{"id":2094763,"name":"maklo","country":"pg","lat":-6.1666667,"lon":148.9666667},{"id":2092667,"name":"kauptimete","country":"pg","lat":-6.1833333,"lon":148.9333333},{"id":2091727,"name":"iombon","country":"pg","lat":-6.05,"lon":148.8},{"id":2097741,"name":"renglemente","country":"pg","lat":-6.0166667,"lon":148.9166667}]

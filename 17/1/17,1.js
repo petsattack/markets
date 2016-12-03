@@ -1,0 +1,1 @@
+[{"id":1800620,"name":"i-n-tebezas","country":"ml","lat":17.8122222,"lon":1.8730556}]

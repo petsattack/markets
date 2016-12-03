@@ -1,0 +1,1 @@
+[{"id":1850804,"name":"ualata","country":"mr","lat":17.3,"lon":-7.0333333},{"id":1807401,"name":"tiourebougou","country":"ml","lat":17.4666667,"lon":-7.6}]

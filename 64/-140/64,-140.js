@@ -1,0 +1,1 @@
+[{"id":348012,"name":"forty mile","country":"ca","lat":64.45,"lon":-140.55},{"id":346873,"name":"boundary","country":"ca","lat":64.683333,"lon":-140.983333},{"id":348131,"name":"glacier creek","country":"ca","lat":64.016667,"lon":-140.833333}]

@@ -1,1 +1,0 @@
-[{"id":1977501,"name":"termit-kaoboul","country":"ne","lat":15.6352778,"lon":11.5163889},{"id":1970661,"name":"bela yala","country":"ne","lat":15.55,"lon":12.2}]

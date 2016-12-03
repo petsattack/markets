@@ -1,0 +1,1 @@
+[{"id":286561,"name":"aldeia amanajas tauai","country":"br","lat":-4.533333,"lon":-47.366667},{"id":293830,"name":"caratatiua","country":"br","lat":-4.166667,"lon":-47.183333},{"id":292449,"name":"cajuapara","country":"br","lat":-4.283333,"lon":-47.416667}]

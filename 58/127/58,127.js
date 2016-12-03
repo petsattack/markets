@@ -1,0 +1,1 @@
+[{"id":2546599,"name":"ust-timpton","country":"ru","lat":58.733333,"lon":127.2}]

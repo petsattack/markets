@@ -1,0 +1,1 @@
+[{"id":2912514,"name":"saint michael","country":"us","lat":63.4780556,"lon":-162.0391667},{"id":2912461,"name":"pikmiktalik","country":"us","lat":63.2361111,"lon":-162.5925},{"id":2912555,"name":"stebbins","country":"us","lat":63.5222222,"lon":-162.2880556}]

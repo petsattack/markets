@@ -1,0 +1,1 @@
+[{"id":1847310,"name":"tsagaan bulag","country":"mn","lat":50.0666667,"lon":98.9833333},{"id":1842817,"name":"bayandzurkh","country":"mn","lat":50.2111111,"lon":98.9508333},{"id":2533802,"name":"tarys-arzhan","country":"ru","lat":50.376667,"lon":98.1925}]

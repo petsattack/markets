@@ -1,0 +1,1 @@
+[{"id":2478149,"name":"nyukhotskiy pogost","country":"ru","lat":63.439953,"lon":46.525681},{"id":2530144,"name":"sultsa","country":"ru","lat":63.440618,"lon":46.004121},{"id":2436682,"name":"kuchkas","country":"ru","lat":63.361146,"lon":46.516334},{"id":2567799,"name":"zanyukhcha","country":"ru","lat":63.430473,"lon":46.55153}]

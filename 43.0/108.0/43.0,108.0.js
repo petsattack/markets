@@ -1,1 +1,0 @@
-[{"id":1847306,"name":"tsabchiryyn khural","country":"mn","lat":43.35,"lon":108.0666667},{"id":1842291,"name":"aguy sume khid","country":"mn","lat":42.5833333,"lon":107.8}]

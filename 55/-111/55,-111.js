@@ -1,0 +1,1 @@
+[{"id":349988,"name":"philomena","country":"ca","lat":55.175556,"lon":-111.623333},{"id":348964,"name":"leismer","country":"ca","lat":55.755833,"lon":-111.041389},{"id":347367,"name":"conklin","country":"ca","lat":55.6325,"lon":-111.082778},{"id":347573,"name":"devenish","country":"ca","lat":55.534722,"lon":-111.196667}]

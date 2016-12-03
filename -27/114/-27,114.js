@@ -1,0 +1,1 @@
+[{"id":154411,"name":"galena","country":"au","lat":-27.833333,"lon":114.683333},{"id":155639,"name":"kalbarri","country":"au","lat":-27.710501,"lon":114.165047},{"id":150923,"name":"ajana","country":"au","lat":-27.95,"lon":114.633333}]

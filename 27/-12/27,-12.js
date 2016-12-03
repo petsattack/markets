@@ -1,0 +1,1 @@
+[{"id":1749410,"name":"haoui en naam","country":"ma","lat":27.68,"lon":-12.2},{"id":853772,"name":"samlat el hafad","country":"eh","lat":27.4333333,"lon":-12.4},{"id":853734,"name":"daora","country":"eh","lat":27.4625,"lon":-12.9922222},{"id":1759700,"name":"talfaia","country":"ma","lat":27.935783,"lon":-12.921842}]

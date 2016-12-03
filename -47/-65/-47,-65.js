@@ -1,0 +1,1 @@
+[{"id":129569,"name":"deseado","country":"ar","lat":-47.750336,"lon":-65.893817},{"id":127937,"name":"bahia oso marino","country":"ar","lat":-47.937905,"lon":-65.801912},{"id":128327,"name":"cabo blanco","country":"ar","lat":-47.206718,"lon":-65.750837}]

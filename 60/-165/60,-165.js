@@ -1,0 +1,1 @@
+[{"id":2912612,"name":"umkumiut","country":"us","lat":60.4983333,"lon":-165.1988889},{"id":2912595,"name":"toksook bay","country":"us","lat":60.5302778,"lon":-165.1025},{"id":2912603,"name":"tununak","country":"us","lat":60.5855556,"lon":-165.2558333}]

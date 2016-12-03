@@ -1,0 +1,1 @@
+[{"id":2572124,"name":"zimovka kharakit","country":"ru","lat":61.666667,"lon":136.366667},{"id":2543644,"name":"ulunnakh","country":"ru","lat":61.516667,"lon":136.416667},{"id":2518076,"name":"sikey-u","country":"ru","lat":61.45,"lon":136.783333},{"id":2385844,"name":"chernolesskaya","country":"ru","lat":61.533333,"lon":136.383333}]

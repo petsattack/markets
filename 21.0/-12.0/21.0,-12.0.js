@@ -1,1 +1,0 @@
-[{"id":1850544,"name":"ouadane","country":"mr","lat":20.9333333,"lon":-11.6166667},{"id":1850802,"name":"traif","country":"mr","lat":20.8333333,"lon":-12.4333333}]

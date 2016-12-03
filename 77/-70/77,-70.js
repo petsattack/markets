@@ -1,0 +1,1 @@
+[{"id":1028452,"name":"siorapaluk","country":"gl","lat":77.7952778,"lon":-70.7558333},{"id":1028045,"name":"eripassut","country":"gl","lat":77.7830556,"lon":-70.3097222},{"id":1028205,"name":"kekertarssuak","country":"gl","lat":77.4275,"lon":-70.1891667},{"id":1028298,"name":"natsillvik","country":"gl","lat":77.175,"lon":-70.7375}]

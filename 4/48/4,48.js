@@ -1,0 +1,1 @@
+[{"id":2654872,"name":"el peccolli","country":"so","lat":4.5833333,"lon":48.0333333},{"id":2654987,"name":"ferdehe","country":"so","lat":4.95,"lon":48.2333333},{"id":2654792,"name":"el ghan","country":"so","lat":4.55,"lon":48.0},{"id":2654822,"name":"el harar","country":"so","lat":4.8,"lon":48.15},{"id":2654817,"name":"el gunier","country":"so","lat":4.6,"lon":48.0333333}]

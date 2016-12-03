@@ -1,0 +1,1 @@
+[{"id":2565136,"name":"yulengkir-kyule","country":"ru","lat":65.7,"lon":115.2}]

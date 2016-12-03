@@ -1,1 +1,0 @@
-[{"id":312178,"name":"posto indigena batovi","country":"br","lat":-14.066667,"lon":-54.216667},{"id":301340,"name":"independencia","country":"br","lat":-13.566667,"lon":-53.95}]

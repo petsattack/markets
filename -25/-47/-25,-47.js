@@ -1,0 +1,1 @@
+[{"id":293151,"name":"cananeia","country":"br","lat":-25.016667,"lon":-47.95}]

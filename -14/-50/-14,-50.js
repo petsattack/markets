@@ -1,0 +1,1 @@
+[{"id":307258,"name":"morzalandia","country":"br","lat":-14.783333,"lon":-50.583333},{"id":328225,"name":"verde","country":"br","lat":-14.783333,"lon":-50.016667}]

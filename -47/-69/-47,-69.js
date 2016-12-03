@@ -1,0 +1,1 @@
+[{"id":130427,"name":"flecha negra","country":"ar","lat":-47.833333,"lon":-69.666667},{"id":131666,"name":"la maria","country":"ar","lat":-47.008073,"lon":-69.870631}]

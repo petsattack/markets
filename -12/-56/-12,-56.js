@@ -1,0 +1,1 @@
+[{"id":317459,"name":"seringal rio verde","country":"br","lat":-12.8,"lon":-56.25},{"id":305705,"name":"marape","country":"br","lat":-12.0,"lon":-56.65},{"id":310021,"name":"pedro dantas","country":"br","lat":-12.833333,"lon":-56.183333}]

@@ -1,1 +1,0 @@
-[{"id":161114,"name":"west pilbara shire","country":"au","lat":-22.0,"lon":117.5}]

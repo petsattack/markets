@@ -1,1 +1,0 @@
-[{"id":2541216,"name":"turakh-tas","country":"ru","lat":67.183333,"lon":156.6}]

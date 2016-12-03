@@ -1,0 +1,1 @@
+[{"id":556210,"name":"pukotui","country":"cn","lat":41.3,"lon":105.833333},{"id":430346,"name":"bumbat","country":"cn","lat":41.011111,"lon":105.978889},{"id":487466,"name":"hoyor amt","country":"cn","lat":41.7,"lon":105.633333}]

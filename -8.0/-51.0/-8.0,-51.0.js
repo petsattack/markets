@@ -1,1 +1,0 @@
-[{"id":308071,"name":"novo horizonte","country":"br","lat":-7.716667,"lon":-51.183333}]

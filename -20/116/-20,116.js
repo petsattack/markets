@@ -1,0 +1,1 @@
+[{"id":155724,"name":"karratha","country":"au","lat":-20.73649,"lon":116.84638},{"id":153525,"name":"dampier","country":"au","lat":-20.66275,"lon":116.712563}]

@@ -1,0 +1,1 @@
+[{"id":1145975,"name":"batu merah","country":"id","lat":-7.066667,"lon":128.583333},{"id":1307619,"name":"woeloer","country":"id","lat":-7.15,"lon":128.65},{"id":1227966,"name":"melukuai","country":"id","lat":-7.083333,"lon":128.6},{"id":1146781,"name":"bebar","country":"id","lat":-7.1,"lon":128.65}]

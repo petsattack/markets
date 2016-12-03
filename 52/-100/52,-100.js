@@ -1,0 +1,1 @@
+[{"id":347660,"name":"duck bay","country":"ca","lat":52.2,"lon":-100.166667},{"id":349942,"name":"pelican rapids","country":"ca","lat":52.616667,"lon":-100.733333},{"id":350334,"name":"renwer","country":"ca","lat":52.083333,"lon":-100.8},{"id":347031,"name":"camperville","country":"ca","lat":52.016667,"lon":-100.15}]

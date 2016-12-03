@@ -1,1 +1,0 @@
-[{"id":2912200,"name":"grant creek","country":"us","lat":65.1975,"lon":-152.9272222},{"id":2912261,"name":"kallands","country":"us","lat":65.1852778,"lon":-153.0577778}]

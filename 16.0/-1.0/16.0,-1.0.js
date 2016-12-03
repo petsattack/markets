@@ -1,1 +1,0 @@
-[{"id":1797259,"name":"borenta","country":"ml","lat":15.8166667,"lon":-1.3},{"id":1800179,"name":"gossi","country":"ml","lat":15.8227778,"lon":-1.2972222}]

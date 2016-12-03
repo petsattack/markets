@@ -1,1 +1,0 @@
-[{"id":348675,"name":"kekertukdjuak","country":"ca","lat":67.533333,"lon":-63.75},{"id":346937,"name":"broughton island","country":"ca","lat":67.55,"lon":-64.033333}]

@@ -1,1 +1,0 @@
-[{"id":592366,"name":"tamsag bulag","country":"cn","lat":40.8225,"lon":103.67},{"id":463114,"name":"enkojihwusu","country":"cn","lat":41.183333,"lon":103.833333},{"id":611204,"name":"wentuerhmaotao","country":"cn","lat":40.983333,"lon":104.416667},{"id":613130,"name":"wulanhuhai","country":"cn","lat":41.183333,"lon":104.183333}]

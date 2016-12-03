@@ -1,1 +1,0 @@
-[{"id":2759897,"name":"chagyla","country":"tm","lat":42.1833333,"lon":53.6666667},{"id":2761085,"name":"sarygurum","country":"tm","lat":42.0833333,"lon":53.75},{"id":2760404,"name":"karadzhary","country":"tm","lat":41.8333333,"lon":53.9833333}]

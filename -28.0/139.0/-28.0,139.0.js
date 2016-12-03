@@ -1,1 +1,0 @@
-[{"id":157689,"name":"murrapatirrina","country":"au","lat":-28.45,"lon":138.533333},{"id":156197,"name":"lake hope station","country":"au","lat":-28.4,"lon":139.25},{"id":151627,"name":"berlino","country":"au","lat":-27.6,"lon":138.583333}]

@@ -1,0 +1,1 @@
+[{"id":308153,"name":"nuputira","country":"br","lat":-18.266667,"lon":-52.0},{"id":291231,"name":"bonito","country":"br","lat":-18.383333,"lon":-52.116667},{"id":287588,"name":"apore","country":"br","lat":-18.966667,"lon":-52.016667}]

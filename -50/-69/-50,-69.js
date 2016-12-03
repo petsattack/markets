@@ -1,0 +1,1 @@
+[{"id":130034,"name":"el reynard","country":"ar","lat":-50.54506,"lon":-69.242294},{"id":130941,"name":"hotel de lemarchand","country":"ar","lat":-50.75951,"lon":-69.431303},{"id":134197,"name":"rincon","country":"ar","lat":-50.3,"lon":-69.916667},{"id":133824,"name":"puerto coyle","country":"ar","lat":-50.954527,"lon":-69.223472}]

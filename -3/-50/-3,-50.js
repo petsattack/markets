@@ -1,0 +1,1 @@
+[{"id":296335,"name":"cumaruma","country":"br","lat":-3.416667,"lon":-50.3}]

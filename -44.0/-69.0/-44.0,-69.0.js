@@ -1,1 +1,0 @@
-[{"id":133353,"name":"paso de los indios","country":"ar","lat":-43.862253,"lon":-69.046025},{"id":129940,"name":"el pajarito","country":"ar","lat":-43.803749,"lon":-69.28063},{"id":130907,"name":"herreria","country":"ar","lat":-43.883333,"lon":-69.15}]

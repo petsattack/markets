@@ -1,0 +1,1 @@
+[{"id":1411330,"name":"dinan ab","country":"ir","lat":32.066667,"lon":56.816667},{"id":1471230,"name":"qasam","country":"ir","lat":32.866667,"lon":56.75},{"id":1478598,"name":"sang-e lahuri","country":"ir","lat":32.916667,"lon":56.85},{"id":1466145,"name":"pol-e tofangchi","country":"ir","lat":32.966667,"lon":56.933333}]

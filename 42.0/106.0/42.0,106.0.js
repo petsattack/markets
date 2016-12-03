@@ -1,1 +1,0 @@
-[{"id":432937,"name":"chakantelessu","country":"cn","lat":41.562778,"lon":106.486944},{"id":487466,"name":"hoyor amt","country":"cn","lat":41.7,"lon":105.633333},{"id":611606,"name":"wubairha","country":"cn","lat":41.858611,"lon":106.244722}]

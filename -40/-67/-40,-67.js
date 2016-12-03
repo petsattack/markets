@@ -1,0 +1,1 @@
+[{"id":135008,"name":"sierra colorado","country":"ar","lat":-40.584869,"lon":-67.756745},{"id":132762,"name":"ministro r. mexia","country":"ar","lat":-40.506666,"lon":-67.259838},{"id":130377,"name":"falckner","country":"ar","lat":-40.5,"lon":-67.05}]

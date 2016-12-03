@@ -1,0 +1,1 @@
+[{"id":1899707,"name":"punta chivato","country":"mx","lat":27.075278,"lon":-111.961389},{"id":1901151,"name":"rancho el pozo","country":"mx","lat":27.966667,"lon":-111.016667},{"id":1905681,"name":"san carlos","country":"mx","lat":27.966667,"lon":-111.066667}]

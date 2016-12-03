@@ -1,0 +1,1 @@
+[{"id":816670,"name":"hamaguir","country":"dz","lat":30.9,"lon":-3.0333333},{"id":1760560,"name":"taouz","country":"ma","lat":30.90726,"lon":-3.995909},{"id":1753009,"name":"ksebt ait isfoul","country":"ma","lat":30.05,"lon":-3.56}]

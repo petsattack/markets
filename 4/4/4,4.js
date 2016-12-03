@@ -1,0 +1,1 @@
+[{"id":2001712,"name":"kondoro budo ole","country":"ng","lat":4.65,"lon":4.383333},{"id":2002334,"name":"kulu","country":"ng","lat":4.616667,"lon":4.75}]

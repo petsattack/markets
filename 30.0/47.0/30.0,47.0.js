@@ -1,1 +1,0 @@
-[{"id":1366962,"name":"etwab","country":"iq","lat":30.4733333,"lon":47.4916667},{"id":1374936,"name":"rufahiyah","country":"iq","lat":30.3594444,"lon":47.4044444},{"id":1373961,"name":"qaryat al bawarin","country":"iq","lat":30.475,"lon":47.025},{"id":1374959,"name":"rumaylah","country":"iq","lat":30.2741667,"lon":47.3497222}]

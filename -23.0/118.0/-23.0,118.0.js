@@ -1,1 +1,0 @@
-[{"id":160259,"name":"tom price","country":"au","lat":-22.69408,"lon":117.787651},{"id":158460,"name":"paraburdoo","country":"au","lat":-23.20417,"lon":117.669731}]

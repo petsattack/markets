@@ -1,0 +1,1 @@
+[{"id":155913,"name":"kingston south east","country":"au","lat":-36.83073,"lon":139.852203},{"id":159190,"name":"rosetown","country":"au","lat":-36.833333,"lon":139.85},{"id":159321,"name":"salt creek","country":"au","lat":-36.15,"lon":139.633333},{"id":161426,"name":"woods well","country":"au","lat":-36.0,"lon":139.533333}]

@@ -1,1 +1,0 @@
-[{"id":2437854,"name":"kultuk","country":"ru","lat":56.44,"lon":162.912222},{"id":2435914,"name":"krutoberegovo","country":"ru","lat":56.262222,"lon":162.703333},{"id":2546051,"name":"ust-kamchatsk","country":"ru","lat":56.236667,"lon":162.518889},{"id":2537720,"name":"tonkiy","country":"ru","lat":56.316667,"lon":162.766667}]

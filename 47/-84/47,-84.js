@@ -1,0 +1,1 @@
+[{"id":348040,"name":"frater","country":"ca","lat":47.333333,"lon":-84.55},{"id":349379,"name":"michipicoten","country":"ca","lat":47.95,"lon":-84.916667}]

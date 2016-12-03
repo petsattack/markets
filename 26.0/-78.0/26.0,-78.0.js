@@ -1,1 +1,0 @@
-[{"id":329595,"name":"the bight","country":"bs","lat":26.3,"lon":-77.55},{"id":329357,"name":"hard bargin","country":"bs","lat":26.3166667,"lon":-77.5666667},{"id":329217,"name":"bullock harbour","country":"bs","lat":25.7833333,"lon":-77.85}]

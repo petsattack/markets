@@ -1,0 +1,1 @@
+[{"id":330125,"name":"levisfontein","country":"bw","lat":-19.5833333,"lon":21.15},{"id":330081,"name":"kogu","country":"bw","lat":-19.9833333,"lon":21.8333333},{"id":330028,"name":"kai-kai","country":"bw","lat":-19.8833333,"lon":21.1333333}]

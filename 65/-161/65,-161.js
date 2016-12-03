@@ -1,0 +1,1 @@
+[{"id":2912127,"name":"dime landing","country":"us","lat":65.12,"lon":-161.1597222},{"id":2912215,"name":"haycock","country":"us","lat":65.2097222,"lon":-161.1655556},{"id":2912048,"name":"buckland","country":"us","lat":65.9797222,"lon":-161.1230556},{"id":2912051,"name":"candle","country":"us","lat":65.9133333,"lon":-161.9244444}]

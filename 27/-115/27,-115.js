@@ -1,0 +1,1 @@
+[{"id":1888457,"name":"lobera","country":"mx","lat":27.810278,"lon":-115.046667},{"id":1899760,"name":"punta quebrada","country":"mx","lat":27.811944,"lon":-115.031111},{"id":1864970,"name":"chester","country":"mx","lat":27.859722,"lon":-115.059722}]

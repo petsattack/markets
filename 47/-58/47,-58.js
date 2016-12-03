@@ -1,0 +1,1 @@
+[{"id":350457,"name":"rose blanche","country":"ca","lat":47.616667,"lon":-58.716667},{"id":348206,"name":"grand bruit","country":"ca","lat":47.666667,"lon":-58.233333}]

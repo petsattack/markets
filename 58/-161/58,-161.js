@@ -1,0 +1,1 @@
+[{"id":2912197,"name":"goodnews mining camp","country":"us","lat":58.9261111,"lon":-161.73},{"id":2912282,"name":"kinegnak","country":"us","lat":58.8311111,"lon":-161.6622222}]

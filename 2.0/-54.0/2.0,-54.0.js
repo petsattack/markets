@@ -1,1 +1,0 @@
-[{"id":305343,"name":"maloca repy","country":"br","lat":1.766667,"lon":-54.266667}]

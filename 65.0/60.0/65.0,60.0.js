@@ -1,1 +1,0 @@
-[{"id":2419034,"name":"khobeyu","country":"ru","lat":64.966667,"lon":60.083333},{"id":2416523,"name":"kedrasyu","country":"ru","lat":64.6,"lon":60.4},{"id":2511787,"name":"severnaya naroda","country":"ru","lat":65.016667,"lon":60.4},{"id":2484765,"name":"parnuk","country":"ru","lat":64.77582,"lon":59.975649}]

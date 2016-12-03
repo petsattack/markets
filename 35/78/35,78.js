@@ -1,0 +1,1 @@
+[{"id":562402,"name":"qizil jilga","country":"cn","lat":35.35,"lon":78.85},{"id":483301,"name":"heweitan","country":"cn","lat":35.013306,"lon":78.575893},{"id":597890,"name":"tianwendian","country":"cn","lat":35.348008,"lon":78.176091},{"id":433073,"name":"chalukou","country":"cn","lat":35.267127,"lon":78.777766}]

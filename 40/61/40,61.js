@@ -1,0 +1,1 @@
+[{"id":2760013,"name":"dargan-ata","country":"tm","lat":40.85,"lon":61.9666667},{"id":2759687,"name":"arap","country":"tm","lat":40.65,"lon":61.7},{"id":3054875,"name":"rabochiy","country":"uz","lat":40.9833333,"lon":61.9833333},{"id":2760993,"name":"pakmaksuidzhi","country":"tm","lat":40.2833333,"lon":61.85}]

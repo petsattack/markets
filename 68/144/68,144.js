@@ -1,0 +1,1 @@
+[{"id":2530771,"name":"suturoallakh","country":"ru","lat":68.466667,"lon":144.7},{"id":2391528,"name":"dogdogur","country":"ru","lat":68.266667,"lon":144.883333},{"id":2383394,"name":"bytan","country":"ru","lat":68.016667,"lon":144.766667},{"id":2524768,"name":"stantsiya khatyngnakh","country":"ru","lat":68.366667,"lon":144.116667}]

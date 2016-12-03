@@ -1,0 +1,1 @@
+[{"id":2575783,"name":"al gharith","country":"sa","lat":21.605,"lon":41.878889},{"id":2576976,"name":"ash sha`arah","country":"sa","lat":21.45,"lon":41.8},{"id":2579640,"name":"turabah","country":"sa","lat":21.214064,"lon":41.6331},{"id":2578969,"name":"qiya","country":"sa","lat":21.069993,"lon":41.008325}]

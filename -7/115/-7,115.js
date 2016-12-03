@@ -1,0 +1,1 @@
+[{"id":1268682,"name":"sapekan","country":"id","lat":-7.0,"lon":115.7},{"id":1273457,"name":"seseel","country":"id","lat":-7.086111,"lon":115.766667},{"id":1279001,"name":"soemoerboengkar","country":"id","lat":-7.166667,"lon":115.8},{"id":1288681,"name":"tanjungkiau","country":"id","lat":-7.083333,"lon":115.916667}]

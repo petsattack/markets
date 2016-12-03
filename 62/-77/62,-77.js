@@ -1,0 +1,1 @@
+[{"id":349764,"name":"notre-dame-d\u0027ivugivic","country":"ca","lat":62.416667,"lon":-77.9},{"id":351819,"name":"wolstenholme","country":"ca","lat":62.533333,"lon":-77.383333}]

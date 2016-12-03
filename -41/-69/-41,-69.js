@@ -1,0 +1,1 @@
+[{"id":134033,"name":"quetrequile","country":"ar","lat":-41.574184,"lon":-69.279147},{"id":131056,"name":"ingeniero jacobacci","country":"ar","lat":-41.342687,"lon":-69.544787},{"id":133110,"name":"ojos de agua","country":"ar","lat":-41.666667,"lon":-69.916667}]

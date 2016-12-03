@@ -1,1 +1,0 @@
-[{"id":161312,"name":"wisanger","country":"au","lat":-35.633333,"lon":137.466667}]

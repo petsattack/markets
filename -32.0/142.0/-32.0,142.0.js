@@ -1,1 +1,0 @@
-[{"id":152055,"name":"box tank","country":"au","lat":-32.2,"lon":142.233333},{"id":159712,"name":"stephens creek","country":"au","lat":-31.833333,"lon":141.5},{"id":156958,"name":"menindee","country":"au","lat":-32.39286,"lon":142.418228}]

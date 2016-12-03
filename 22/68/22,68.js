@@ -1,0 +1,1 @@
+[{"id":1346744,"name":"mojap","country":"in","lat":22.366667,"lon":68.977222},{"id":1332938,"name":"dwarka","country":"in","lat":22.239444,"lon":68.967778},{"id":1338139,"name":"kachchigadh","country":"in","lat":22.333333,"lon":68.95},{"id":1325933,"name":"beerwarah","country":"in","lat":22.289444,"lon":68.963056}]

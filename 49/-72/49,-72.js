@@ -1,0 +1,1 @@
+[{"id":350538,"name":"saint-antoine-du-lac-saint-jean","country":"ca","lat":49.066667,"lon":-72.35},{"id":350838,"name":"saint-stanislas","country":"ca","lat":49.0,"lon":-72.166667},{"id":348125,"name":"girardville centre","country":"ca","lat":49.0,"lon":-72.55}]

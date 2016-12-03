@@ -1,0 +1,1 @@
+[{"id":151938,"name":"booligal","country":"au","lat":-33.866667,"lon":144.883333},{"id":157405,"name":"mossgiel","country":"au","lat":-33.266667,"lon":144.566667}]

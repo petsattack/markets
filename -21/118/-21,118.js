@@ -1,0 +1,1 @@
+[{"id":158644,"name":"pilbara","country":"au","lat":-21.25,"lon":118.3},{"id":156909,"name":"mcphees patch mining centre","country":"au","lat":-21.033333,"lon":118.933333},{"id":159701,"name":"station peak","country":"au","lat":-21.166667,"lon":118.183333},{"id":161322,"name":"wodgina mining centre","country":"au","lat":-21.183333,"lon":118.666667}]

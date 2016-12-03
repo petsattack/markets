@@ -1,0 +1,1 @@
+[{"id":131958,"name":"las ovejas","country":"ar","lat":-36.988811,"lon":-70.749907},{"id":131112,"name":"invernada vieja","country":"ar","lat":-36.833333,"lon":-70.683333},{"id":135545,"name":"varvarco","country":"ar","lat":-36.851926,"lon":-70.676317},{"id":129947,"name":"el palomar","country":"ar","lat":-36.7,"lon":-70.766667}]

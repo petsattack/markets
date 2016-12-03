@@ -1,1 +1,0 @@
-[{"id":2595535,"name":"arosjakk","country":"se","lat":67.866667,"lon":19.366667},{"id":2618989,"name":"tarfala","country":"se","lat":67.916667,"lon":18.633333},{"id":2598702,"name":"djupviken","country":"se","lat":68.45,"lon":18.7},{"id":2594524,"name":"abisko","country":"se","lat":68.333333,"lon":18.85}]

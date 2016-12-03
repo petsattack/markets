@@ -1,0 +1,1 @@
+[{"id":348672,"name":"kegaska","country":"ca","lat":50.183333,"lon":-61.283333},{"id":349632,"name":"netashquan","country":"ca","lat":50.183333,"lon":-61.816667}]

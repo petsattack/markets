@@ -1,0 +1,1 @@
+[{"id":2086989,"name":"maroe","country":"pf","lat":-16.75,"lon":-150.9833333},{"id":2087001,"name":"moheva","country":"pf","lat":-16.6833333,"lon":-150.9833333},{"id":2087004,"name":"motu taiahu","country":"pf","lat":-16.7666667,"lon":-150.9333333},{"id":2086915,"name":"fareeru","country":"pf","lat":-16.7666667,"lon":-150.95}]

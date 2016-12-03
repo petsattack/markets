@@ -1,0 +1,1 @@
+[{"id":1502981,"name":"gar�hur","country":"is","lat":66.066667,"lon":-16.766667},{"id":1503316,"name":"skinnasta�ir","country":"is","lat":66.066667,"lon":-16.45},{"id":1503323,"name":"snartarstadir","country":"is","lat":66.3,"lon":-16.433333},{"id":1503161,"name":"kopasker","country":"is","lat":66.3,"lon":-16.45}]

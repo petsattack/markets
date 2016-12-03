@@ -1,0 +1,1 @@
+[{"id":1847253,"name":"tolbo nuur hoshu","country":"mn","lat":48.4166667,"lon":90.2833333},{"id":1842819,"name":"bayan-enger","country":"mn","lat":48.3833333,"lon":90.8},{"id":1844876,"name":"hongo","country":"mn","lat":48.4,"lon":90.9333333}]

@@ -1,0 +1,1 @@
+[{"id":1363059,"name":"al `izi�ami","country":"iq","lat":29.5027778,"lon":46.3166667},{"id":1370530,"name":"khawr naj","country":"iq","lat":29.3205556,"lon":46.6447222},{"id":2576877,"name":"ar raga`i","country":"sa","lat":29.08199,"lon":46.638197}]

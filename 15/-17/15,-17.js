@@ -1,0 +1,1 @@
+[{"id":2641518,"name":"camp peuls","country":"sn","lat":15.0,"lon":-17.05},{"id":2641412,"name":"bountou pole","country":"sn","lat":15.0333333,"lon":-17.0333333},{"id":2645145,"name":"keur malal","country":"sn","lat":15.0330556,"lon":-17.0211111},{"id":2645162,"name":"keur mam awa","country":"sn","lat":15.04,"lon":-17.0291667}]

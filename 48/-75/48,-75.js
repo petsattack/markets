@@ -1,0 +1,1 @@
+[{"id":347304,"name":"clova","country":"ca","lat":48.116667,"lon":-75.366667},{"id":349849,"name":"oskelaneo","country":"ca","lat":48.116667,"lon":-75.216667},{"id":349461,"name":"monet","country":"ca","lat":48.166667,"lon":-75.633333}]

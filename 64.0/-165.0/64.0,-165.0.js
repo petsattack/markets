@@ -1,1 +1,0 @@
-[{"id":2912491,"name":"port safety","country":"us","lat":64.4516667,"lon":-164.8255556},{"id":2912054,"name":"cape nome","country":"us","lat":64.4638889,"lon":-164.9594444}]

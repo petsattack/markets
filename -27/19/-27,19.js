@@ -1,0 +1,1 @@
+[{"id":1967336,"name":"klipdam","country":"na","lat":-27.1,"lon":19.8833333},{"id":1966846,"name":"davignab","country":"na","lat":-27.5333333,"lon":19.8166667},{"id":1967608,"name":"nabas","country":"na","lat":-27.9166667,"lon":19.65}]

@@ -1,0 +1,1 @@
+[{"id":2546614,"name":"ust-tukh-sigat","country":"ru","lat":58.8,"lon":77.916667},{"id":2362181,"name":"andryushkiny","country":"ru","lat":58.016667,"lon":77.033333},{"id":2547222,"name":"uval","country":"ru","lat":58.05,"lon":77.133333},{"id":2384010,"name":"charymovy","country":"ru","lat":58.509722,"lon":77.779167}]

@@ -1,0 +1,1 @@
+[{"id":134219,"name":"rio fenix","country":"ar","lat":-46.589945,"lon":-70.929747},{"id":129979,"name":"el pluma","country":"ar","lat":-46.470977,"lon":-70.043638}]

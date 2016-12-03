@@ -1,0 +1,1 @@
+[{"id":2396012,"name":"faktoriya abkay-sede","country":"ru","lat":70.045278,"lon":73.779722}]

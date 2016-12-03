@@ -1,0 +1,1 @@
+[{"id":2418041,"name":"khartalakh","country":"ru","lat":61.116667,"lon":134.016667},{"id":2419552,"name":"khomustaakh","country":"ru","lat":61.0,"lon":134.683333},{"id":2388981,"name":"daloko-yele","country":"ru","lat":61.066667,"lon":134.25},{"id":2572205,"name":"zimovye nakhu komustakh","country":"ru","lat":61.966667,"lon":134.983333}]

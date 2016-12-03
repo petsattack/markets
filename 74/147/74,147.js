@@ -1,0 +1,1 @@
+[{"id":2546990,"name":"utes derevyannykh gor","country":"ru","lat":74.916667,"lon":147.083333},{"id":2378035,"name":"bolshoye zimovye","country":"ru","lat":74.933333,"lon":147.95}]

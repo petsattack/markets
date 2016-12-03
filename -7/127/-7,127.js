@@ -1,0 +1,1 @@
+[{"id":1303194,"name":"uwakeka","country":"id","lat":-7.616667,"lon":127.4},{"id":1185887,"name":"huwai","country":"id","lat":-7.608333,"lon":127.408333},{"id":1265493,"name":"rumahkuda","country":"id","lat":-7.6,"lon":127.416667},{"id":1189480,"name":"jerusu","country":"id","lat":-7.597222,"lon":127.45}]

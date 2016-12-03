@@ -1,0 +1,1 @@
+[{"id":2564260,"name":"yert","country":"ru","lat":61.973889,"lon":125.738889},{"id":2420116,"name":"khotoy","country":"ru","lat":61.633333,"lon":125.016667},{"id":2463077,"name":"mundu-kel","country":"ru","lat":61.95,"lon":125.383333},{"id":2395756,"name":"erken","country":"ru","lat":61.7,"lon":125.566667},{"id":2383226,"name":"bylban","country":"ru","lat":61.616667,"lon":125.9}]

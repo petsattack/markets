@@ -1,0 +1,1 @@
+[{"id":853609,"name":"zawyet `abd el mun`im","country":"eg","lat":31.0833333,"lon":28.4333333},{"id":843324,"name":"el dab`a","country":"eg","lat":31.0333333,"lon":28.4333333},{"id":853550,"name":"zawiyat al `awwamah","country":"eg","lat":31.0833333,"lon":28.0833333},{"id":842790,"name":"dauwar hagg el saiyid rizq","country":"eg","lat":31.0666667,"lon":28.4333333}]

@@ -1,0 +1,1 @@
+[{"id":2506709,"name":"sagastyr","country":"ru","lat":73.386111,"lon":126.592222},{"id":2524887,"name":"staraya buor-khaya","country":"ru","lat":73.35,"lon":126.3},{"id":2393990,"name":"dunay","country":"ru","lat":73.366667,"lon":126.4},{"id":2471157,"name":"novaya buor-khaya","country":"ru","lat":73.183333,"lon":126.083333}]

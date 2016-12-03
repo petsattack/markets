@@ -1,0 +1,1 @@
+[{"id":351475,"name":"turner","country":"ca","lat":50.683333,"lon":-114.266667},{"id":349390,"name":"midnapore","country":"ca","lat":50.916667,"lon":-114.066667},{"id":346797,"name":"black diamond","country":"ca","lat":50.7,"lon":-114.233333}]

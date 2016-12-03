@@ -1,0 +1,1 @@
+[{"id":1977470,"name":"teguidda-n-tisemt","country":"ne","lat":17.425,"lon":6.6452778}]

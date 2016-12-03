@@ -1,0 +1,1 @@
+[{"id":1848201,"name":"yagutszarin-khure","country":"mn","lat":45.9,"lon":115.3666667},{"id":419812,"name":"altan hil","country":"cn","lat":45.2,"lon":115.5},{"id":1844211,"name":"dzotol","country":"mn","lat":45.8833333,"lon":115.05}]

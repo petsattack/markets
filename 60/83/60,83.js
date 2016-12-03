@@ -1,0 +1,1 @@
+[{"id":2448490,"name":"lymbel-karamo","country":"ru","lat":60.244722,"lon":83.552778},{"id":2499796,"name":"pyl-karamo","country":"ru","lat":60.166111,"lon":83.355833},{"id":2534715,"name":"tedylkynak","country":"ru","lat":60.319167,"lon":83.820833},{"id":2453586,"name":"malyy kompas","country":"ru","lat":60.058333,"lon":83.145}]

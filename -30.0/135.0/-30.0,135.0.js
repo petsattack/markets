@@ -1,1 +1,0 @@
-[{"id":159695,"name":"state of south australia","country":"au","lat":-30.0,"lon":135.0}]

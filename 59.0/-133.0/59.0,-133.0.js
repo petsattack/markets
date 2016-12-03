@@ -1,1 +1,0 @@
-[{"id":349586,"name":"nakina","country":"ca","lat":59.2,"lon":-132.8},{"id":348559,"name":"inklin","country":"ca","lat":58.9,"lon":-133.133333}]

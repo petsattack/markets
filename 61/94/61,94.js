@@ -1,0 +1,1 @@
+[{"id":2424646,"name":"kochemyata","country":"ru","lat":61.85,"lon":94.183333},{"id":2493015,"name":"poligus","country":"ru","lat":61.986389,"lon":94.629722},{"id":2563496,"name":"yengida","country":"ru","lat":61.633333,"lon":94.85},{"id":2426766,"name":"komne","country":"ru","lat":61.1,"lon":94.133333}]

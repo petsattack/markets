@@ -1,0 +1,1 @@
+[{"id":2449110,"name":"maden-vuryykurt","country":"ru","lat":63.733333,"lon":69.666667},{"id":2565768,"name":"yurty yuilskiy gordok","country":"ru","lat":63.55,"lon":69.166667},{"id":2479723,"name":"oles-polak-kurt","country":"ru","lat":63.7,"lon":69.3},{"id":2565012,"name":"yuilsk","country":"ru","lat":63.683333,"lon":69.65}]

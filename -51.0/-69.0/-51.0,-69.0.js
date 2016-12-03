@@ -1,1 +1,0 @@
-[{"id":128474,"name":"canadon de las vacas","country":"ar","lat":-50.54506,"lon":-69.242294},{"id":129449,"name":"coy aike","country":"ar","lat":-51.145153,"lon":-69.496195},{"id":130941,"name":"hotel de lemarchand","country":"ar","lat":-50.75951,"lon":-69.431303},{"id":128998,"name":"coig","country":"ar","lat":-50.954527,"lon":-69.223472}]

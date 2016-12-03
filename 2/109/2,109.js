@@ -1,0 +1,1 @@
+[{"id":1929702,"name":"kampong telok melano","country":"my","lat":2.0,"lon":109.633333},{"id":1273155,"name":"serasan","country":"id","lat":2.516667,"lon":109.033333}]

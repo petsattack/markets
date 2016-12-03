@@ -1,0 +1,1 @@
+[{"id":2501871,"name":"rega","country":"ru","lat":59.183333,"lon":126.733333},{"id":2378048,"name":"bolshoy gorelyy modut","country":"ru","lat":59.333333,"lon":126.866667},{"id":2535078,"name":"temnyakit","country":"ru","lat":59.2,"lon":126.6},{"id":2481045,"name":"oroken","country":"ru","lat":59.283333,"lon":126.133333}]

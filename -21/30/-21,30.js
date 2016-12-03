@@ -1,0 +1,1 @@
+[{"id":3173570,"name":"nuanetsi","country":"zw","lat":-21.4166667,"lon":30.7333333},{"id":3173830,"name":"tongwe","country":"zw","lat":-21.9172222,"lon":30.0272222},{"id":3173679,"name":"rutenga","country":"zw","lat":-21.25,"lon":30.7333333}]

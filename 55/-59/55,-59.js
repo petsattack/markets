@@ -1,0 +1,1 @@
+[{"id":346369,"name":"aillik","country":"ca","lat":55.183333,"lon":-59.216667},{"id":349183,"name":"makkovik","country":"ca","lat":55.083333,"lon":-59.183333},{"id":348639,"name":"kaipokok","country":"ca","lat":55.066667,"lon":-59.6}]

@@ -1,1 +1,0 @@
-[{"id":3053662,"name":"koneboget","country":"uz","lat":43.1333333,"lon":60.7666667}]

@@ -1,0 +1,1 @@
+[{"id":1906425,"name":"san hipolito","country":"mx","lat":26.998611,"lon":-113.979167},{"id":1862742,"name":"campo rene","country":"mx","lat":26.8125,"lon":-113.484722},{"id":1876930,"name":"estero la bocana","country":"mx","lat":26.796667,"lon":-113.715833},{"id":1885352,"name":"la playa","country":"mx","lat":26.966667,"lon":-113.183333}]

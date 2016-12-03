@@ -1,0 +1,1 @@
+[{"id":1846693,"name":"sapha haro","country":"mn","lat":46.7333333,"lon":118.4166667},{"id":556806,"name":"qagan qulut","country":"cn","lat":46.166667,"lon":118.3},{"id":527221,"name":"loheisumu","country":"cn","lat":46.616667,"lon":118.7},{"id":1844633,"name":"hakatai","country":"mn","lat":46.9333333,"lon":118.95}]

@@ -1,0 +1,1 @@
+[{"id":1968422,"name":"otjikondo","country":"na","lat":-19.85,"lon":15.4666667},{"id":1967896,"name":"okaukuejo","country":"na","lat":-19.1833333,"lon":15.9333333}]

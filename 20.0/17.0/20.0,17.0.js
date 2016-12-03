@@ -1,1 +1,0 @@
-[{"id":2685952,"name":"debasan","country":"td","lat":20.4666667,"lon":16.9666667},{"id":2692697,"name":"sherda","country":"td","lat":20.1,"lon":16.6833333},{"id":2693684,"name":"yonouge","country":"td","lat":20.4166667,"lon":16.95},{"id":2693789,"name":"zouar","country":"td","lat":20.4583333,"lon":16.5277778}]

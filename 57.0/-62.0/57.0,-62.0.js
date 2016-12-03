@@ -1,1 +1,0 @@
-[{"id":349779,"name":"nutak","country":"ca","lat":57.466667,"lon":-61.833333},{"id":349584,"name":"nain","country":"ca","lat":56.55,"lon":-61.683333}]

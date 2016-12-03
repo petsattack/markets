@@ -1,0 +1,1 @@
+[{"id":2535766,"name":"tersko-orlovskiy mayak","country":"ru","lat":67.200833,"lon":41.333889},{"id":2428148,"name":"korabelnoy","country":"ru","lat":67.002382,"lon":41.274252},{"id":2538834,"name":"tri ostrova","country":"ru","lat":67.111707,"lon":41.348102},{"id":2494060,"name":"ponoy","country":"ru","lat":67.074444,"lon":41.124444}]

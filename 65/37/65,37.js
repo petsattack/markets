@@ -1,0 +1,1 @@
+[{"id":2444173,"name":"letniy navolok","country":"ru","lat":65.155278,"lon":37.1025},{"id":2450355,"name":"malaya kamenka","country":"ru","lat":65.133333,"lon":37.266667}]

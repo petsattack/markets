@@ -1,1 +1,0 @@
-[{"id":156237,"name":"lancelin","country":"au","lat":-31.022511,"lon":115.33651},{"id":159408,"name":"seabird","country":"au","lat":-31.279167,"lon":115.444444}]

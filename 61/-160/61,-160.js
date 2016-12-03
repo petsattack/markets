@@ -1,0 +1,1 @@
+[{"id":2912600,"name":"tuluksak","country":"us","lat":61.1025,"lon":-160.9616667},{"id":2912338,"name":"lower kalskag","country":"us","lat":61.5122222,"lon":-160.3580556},{"id":2912262,"name":"kalskag","country":"us","lat":61.5372222,"lon":-160.3052778},{"id":2912448,"name":"paimiut","country":"us","lat":61.9641667,"lon":-160.2319444}]

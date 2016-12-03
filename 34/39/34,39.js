@@ -1,0 +1,1 @@
+[{"id":2665327,"name":"al bawdah","country":"sy","lat":34.0,"lon":39.2833333},{"id":2666667,"name":"as sarayim","country":"sy","lat":34.5833333,"lon":39.5333333},{"id":2668009,"name":"bi\u0027r ad dulay`iyat","country":"sy","lat":34.45,"lon":39.55},{"id":2664684,"name":"abu as sayyid","country":"sy","lat":34.8333333,"lon":39.9333333}]

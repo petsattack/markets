@@ -1,0 +1,1 @@
+[{"id":349151,"name":"macdiarmid","country":"ca","lat":49.433333,"lon":-88.116667},{"id":349839,"name":"orient bay","country":"ca","lat":49.366667,"lon":-88.133333},{"id":347018,"name":"cameron falls","country":"ca","lat":49.133333,"lon":-88.333333},{"id":349694,"name":"nipigon","country":"ca","lat":49.016667,"lon":-88.25}]

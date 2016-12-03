@@ -1,0 +1,1 @@
+[{"id":1967063,"name":"granitberg","country":"na","lat":-27.3666667,"lon":15.4},{"id":1968552,"name":"pomona","country":"na","lat":-27.2,"lon":15.2833333},{"id":1966745,"name":"angras juntas","country":"na","lat":-27.65,"lon":15.55},{"id":1968776,"name":"stauch lager","country":"na","lat":-27.25,"lon":15.3166667}]

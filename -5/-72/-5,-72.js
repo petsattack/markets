@@ -1,0 +1,1 @@
+[{"id":2066571,"name":"colonia angamos","country":"pe","lat":-5.1833333,"lon":-72.8833333},{"id":293144,"name":"canama","country":"br","lat":-5.616667,"lon":-72.1},{"id":297079,"name":"elvira","country":"br","lat":-5.166667,"lon":-72.85},{"id":2079723,"name":"puerto canuco","country":"pe","lat":-5.1833333,"lon":-72.95}]

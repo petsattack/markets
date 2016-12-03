@@ -1,1 +1,0 @@
-[{"id":290341,"name":"bella vista","country":"br","lat":-7.55,"lon":-53.3}]

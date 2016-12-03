@@ -1,0 +1,1 @@
+[{"id":2479629,"name":"olenevodcheskaya ferma","country":"ru","lat":68.411111,"lon":129.949167},{"id":2395182,"name":"dzholon","country":"ru","lat":68.15,"lon":129.216667}]

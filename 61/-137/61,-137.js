@@ -1,0 +1,1 @@
+[{"id":350492,"name":"ruby camp","country":"ca","lat":61.083333,"lon":-137.916667},{"id":346371,"name":"aishihik","country":"ca","lat":61.566667,"lon":-137.5}]

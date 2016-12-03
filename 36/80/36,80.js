@@ -1,0 +1,1 @@
+[{"id":568370,"name":"satmala�ngga�r","country":"cn","lat":36.7,"lon":80.8},{"id":439703,"name":"chiaha","country":"cn","lat":36.501667,"lon":80.760278},{"id":598412,"name":"tiehkolikoshan","country":"cn","lat":36.7,"lon":80.333333},{"id":549720,"name":"oku","country":"cn","lat":36.333333,"lon":80.366667},{"id":556682,"name":"puya","country":"cn","lat":36.410833,"lon":80.122222}]

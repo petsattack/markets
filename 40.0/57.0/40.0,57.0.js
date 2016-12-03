@@ -1,1 +1,0 @@
-[{"id":2760947,"name":"nugunek","country":"tm","lat":40.45,"lon":57.3666667},{"id":2760625,"name":"kirpili","country":"tm","lat":39.5833333,"lon":57.2333333}]

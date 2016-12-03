@@ -1,0 +1,1 @@
+[{"id":126521,"name":"uacacanga","country":"ao","lat":-16.1,"lon":21.916667},{"id":113054,"name":"chicote","country":"ao","lat":-16.016667,"lon":21.866667},{"id":107925,"name":"amatui","country":"ao","lat":-16.7,"lon":21.316667},{"id":111440,"name":"captungo","country":"ao","lat":-16.25,"lon":21.95}]

@@ -1,0 +1,1 @@
+[{"id":2525329,"name":"staraya vorpavla","country":"ru","lat":61.100556,"lon":65.26},{"id":2495618,"name":"potanay","country":"ru","lat":61.209722,"lon":65.648889},{"id":2565763,"name":"yurty yendyrskiye","country":"ru","lat":61.583333,"lon":65.8},{"id":2471969,"name":"novaya vorpavla","country":"ru","lat":61.106389,"lon":65.281944}]

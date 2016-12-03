@@ -1,0 +1,1 @@
+[{"id":2469284,"name":"nizhniye ankachi","country":"ru","lat":52.2,"lon":134.166667},{"id":2544297,"name":"uolba","country":"ru","lat":52.933333,"lon":134.416667},{"id":2557733,"name":"vsevolodovskiy","country":"ru","lat":52.133333,"lon":134.05},{"id":2409490,"name":"ivanovskiy","country":"ru","lat":52.15,"lon":134.083333}]

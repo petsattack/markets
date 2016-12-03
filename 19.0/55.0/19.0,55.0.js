@@ -1,1 +1,0 @@
-[{"id":2051715,"name":"ghadir qadhrah","country":"om","lat":18.9666667,"lon":54.7833333},{"id":2051713,"name":"ghadir bin rakham","country":"om","lat":18.6,"lon":54.8833333}]

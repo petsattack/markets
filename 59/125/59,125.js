@@ -1,0 +1,1 @@
+[{"id":2546461,"name":"ust-seligdar","country":"ru","lat":59.05,"lon":125.383333},{"id":2359949,"name":"aldan-zoloto","country":"ru","lat":59.253889,"lon":125.284167},{"id":2541120,"name":"tuora","country":"ru","lat":59.4,"lon":125.266667},{"id":2407438,"name":"imeni lenina","country":"ru","lat":59.1,"lon":125.8}]

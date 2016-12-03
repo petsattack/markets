@@ -1,0 +1,1 @@
+[{"id":2912066,"name":"chatanika","country":"us","lat":65.1122222,"lon":-147.4772222},{"id":2912442,"name":"olnes","country":"us","lat":65.0741667,"lon":-147.67}]

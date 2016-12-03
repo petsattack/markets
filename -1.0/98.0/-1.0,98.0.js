@@ -1,1 +1,0 @@
-[{"id":1185160,"name":"hilibafunua","country":"id","lat":-0.555479,"lon":98.404829},{"id":1221620,"name":"luaha-sibuha","country":"id","lat":-0.516667,"lon":98.466667},{"id":1174503,"name":"duru","country":"id","lat":-0.55,"lon":98.483333},{"id":1171462,"name":"djake","country":"id","lat":-0.550942,"lon":98.493758}]

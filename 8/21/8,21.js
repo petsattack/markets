@@ -1,0 +1,1 @@
+[{"id":378527,"name":"kouyara","country":"cf","lat":8.1,"lon":21.3},{"id":378552,"name":"krakoma","country":"cf","lat":8.05,"lon":21.3333333},{"id":379696,"name":"pende","country":"cf","lat":8.0166667,"lon":21.85},{"id":379681,"name":"pata","country":"cf","lat":8.05,"lon":21.4},{"id":378837,"name":"manovo","country":"cf","lat":8.1166667,"lon":21.1166667}]

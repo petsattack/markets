@@ -1,1 +1,0 @@
-[{"id":2585567,"name":"batimoru","country":"sd","lat":6.3666667,"lon":33.3833333}]

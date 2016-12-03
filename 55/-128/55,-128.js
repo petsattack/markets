@@ -1,0 +1,1 @@
+[{"id":347158,"name":"cedarvale","country":"ca","lat":55.016667,"lon":-128.333333},{"id":351821,"name":"woodcock","country":"ca","lat":55.066667,"lon":-128.2},{"id":349699,"name":"nitwanga","country":"ca","lat":55.1,"lon":-128.066667}]

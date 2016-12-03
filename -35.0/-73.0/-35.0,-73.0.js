@@ -1,1 +1,0 @@
-[{"id":408881,"name":"san antonio","country":"cl","lat":-35.4,"lon":-72.5}]

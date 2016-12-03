@@ -1,0 +1,1 @@
+[{"id":2556339,"name":"vorogovo","country":"ru","lat":61.028611,"lon":89.618889},{"id":2426797,"name":"komsa","country":"ru","lat":61.868056,"lon":89.257778},{"id":2481553,"name":"osinov","country":"ru","lat":61.383333,"lon":89.75},{"id":2530176,"name":"sumarokovo","country":"ru","lat":61.656111,"lon":89.746389}]

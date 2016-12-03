@@ -1,1 +1,0 @@
-[{"id":2311645,"name":"estancia ferko","country":"py","lat":-20.9,"lon":-60.266667},{"id":2311800,"name":"estancia mbigua","country":"py","lat":-21.483333,"lon":-59.983333},{"id":2313048,"name":"san rafael","country":"py","lat":-20.733333,"lon":-59.516667}]

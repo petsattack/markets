@@ -1,1 +1,0 @@
-[{"id":2912514,"name":"saint michael","country":"us","lat":63.4780556,"lon":-162.0391667}]

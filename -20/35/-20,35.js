@@ -1,0 +1,1 @@
+[{"id":1957350,"name":"matique","country":"mz","lat":-20.9813889,"lon":35.0505556},{"id":1956335,"name":"mambone","country":"mz","lat":-20.9880556,"lon":35.0222222},{"id":1956975,"name":"marrupenhe","country":"mz","lat":-20.8166667,"lon":35.85},{"id":1955230,"name":"machanga","country":"mz","lat":-20.9725,"lon":35.0086111}]

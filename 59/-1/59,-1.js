@@ -1,0 +1,1 @@
+[{"id":988312,"name":"boddam","country":"gb","lat":59.916667,"lon":-1.283333},{"id":1001665,"name":"sumburgh","country":"gb","lat":59.866667,"lon":-1.283333},{"id":1002783,"name":"virkie","country":"gb","lat":59.883333,"lon":-1.3},{"id":1002257,"name":"toab","country":"gb","lat":59.883333,"lon":-1.316667}]

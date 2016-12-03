@@ -1,0 +1,1 @@
+[{"id":1775293,"name":"ambatomilahy","country":"mg","lat":-17.45,"lon":43.9833333},{"id":1791133,"name":"tambohorano","country":"mg","lat":-17.5,"lon":43.9666667},{"id":1784072,"name":"bekidio","country":"mg","lat":-17.4833333,"lon":43.9666667}]

@@ -1,1 +1,0 @@
-[{"id":2086927,"name":"garumaoa","country":"pf","lat":-16.0166667,"lon":-142.45},{"id":2087020,"name":"ohomo","country":"pf","lat":-15.85,"lon":-142.2666667}]

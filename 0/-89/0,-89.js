@@ -1,0 +1,1 @@
+[{"id":828338,"name":"puerto chico","country":"ec","lat":-0.9,"lon":-89.6},{"id":828242,"name":"progreso","country":"ec","lat":-0.9,"lon":-89.55},{"id":828904,"name":"san cristobal","country":"ec","lat":-0.9166667,"lon":-89.5666667}]

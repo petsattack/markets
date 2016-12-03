@@ -1,0 +1,1 @@
+[{"id":327310,"name":"tucurui","country":"br","lat":-3.7,"lon":-49.7},{"id":307615,"name":"nazare dos patos","country":"br","lat":-3.4,"lon":-49.616667},{"id":303071,"name":"joana peres","country":"br","lat":-3.3,"lon":-49.7}]

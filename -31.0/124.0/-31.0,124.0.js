@@ -1,1 +1,0 @@
-[{"id":155940,"name":"kitchener","country":"au","lat":-31.033333,"lon":124.183333},{"id":161819,"name":"zanthus","country":"au","lat":-31.033333,"lon":123.566667}]

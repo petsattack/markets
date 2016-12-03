@@ -1,0 +1,1 @@
+[{"id":1849793,"name":"aleg","country":"mr","lat":17.05,"lon":-13.9166667},{"id":1850415,"name":"magta-lahjar","country":"mr","lat":17.0,"lon":-13.5}]

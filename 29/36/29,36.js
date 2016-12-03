@@ -1,0 +1,1 @@
+[{"id":2577888,"name":"halat `ammar","country":"sa","lat":29.161944,"lon":36.075833},{"id":1527016,"name":"al mudawwarah","country":"jo","lat":29.323307,"lon":36.026877}]

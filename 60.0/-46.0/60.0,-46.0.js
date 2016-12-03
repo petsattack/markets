@@ -1,1 +1,0 @@
-[{"id":1028472,"name":"sydproven","country":"gl","lat":60.45,"lon":-45.55},{"id":1028356,"name":"qaarsoq","country":"gl","lat":60.4833333,"lon":-45.8666667}]

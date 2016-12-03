@@ -1,0 +1,1 @@
+[{"id":1017050,"name":"blu koso","country":"gh","lat":5.9833333,"lon":1.0333333},{"id":1016126,"name":"avedje","country":"gh","lat":5.9666667,"lon":1.0166667},{"id":1025209,"name":"prinsenteen","country":"gh","lat":5.95,"lon":1.0},{"id":1024608,"name":"okwasi","country":"gh","lat":5.9833333,"lon":1.0166667}]

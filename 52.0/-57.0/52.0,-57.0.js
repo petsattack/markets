@@ -1,1 +1,0 @@
-[{"id":348896,"name":"l\u0027anse au loup","country":"ca","lat":51.516667,"lon":-56.833333},{"id":351733,"name":"west saint modeste","country":"ca","lat":51.6,"lon":-56.716667}]

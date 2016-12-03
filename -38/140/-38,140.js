@@ -1,0 +1,1 @@
+[{"id":150972,"name":"allendale east","country":"au","lat":-38.016667,"lon":140.7},{"id":158801,"name":"port macdonnell","country":"au","lat":-38.052101,"lon":140.701584}]

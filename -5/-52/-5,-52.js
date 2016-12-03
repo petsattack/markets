@@ -1,0 +1,1 @@
+[{"id":299460,"name":"forte veneza","country":"br","lat":-5.083333,"lon":-52.933333},{"id":311636,"name":"porto da barca","country":"br","lat":-5.033333,"lon":-52.133333},{"id":316988,"name":"sao sebastiao do pontal","country":"br","lat":-5.8,"lon":-52.6},{"id":290348,"name":"bello horizonte","country":"br","lat":-5.3,"lon":-52.866667}]

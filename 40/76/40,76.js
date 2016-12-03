@@ -1,0 +1,1 @@
+[{"id":602601,"name":"tugurmiti","country":"cn","lat":40.016667,"lon":76.166667},{"id":1549858,"name":"chatyr-tash","country":"kg","lat":40.8975,"lon":76.4327778},{"id":509959,"name":"karajul","country":"cn","lat":40.25,"lon":76.916667}]

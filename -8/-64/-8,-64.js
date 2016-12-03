@@ -1,0 +1,1 @@
+[{"id":296322,"name":"cujubim","country":"br","lat":-8.966667,"lon":-64.05},{"id":326530,"name":"teotonio","country":"br","lat":-8.916667,"lon":-64.0}]

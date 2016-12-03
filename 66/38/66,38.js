@@ -1,0 +1,1 @@
+[{"id":2528673,"name":"strelna","country":"ru","lat":66.069056,"lon":38.658663},{"id":2520162,"name":"slyudyanka","country":"ru","lat":66.7034,"lon":38.05211},{"id":2509594,"name":"seleniye chapoma","country":"ru","lat":66.104141,"lon":38.869639},{"id":2535942,"name":"tetrino","country":"ru","lat":66.066042,"lon":38.237902}]

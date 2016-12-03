@@ -1,1 +1,0 @@
-[{"id":1970135,"name":"assamakka","country":"ne","lat":19.3666667,"lon":5.8}]

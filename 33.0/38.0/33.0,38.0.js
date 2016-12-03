@@ -1,1 +1,0 @@
-[{"id":1526904,"name":"al faydah","country":"jo","lat":32.577168,"lon":38.220505},{"id":1528219,"name":"mahattat al jufur","country":"jo","lat":32.50414,"lon":38.200763},{"id":1527012,"name":"al miqat","country":"jo","lat":32.5,"lon":38.2}]

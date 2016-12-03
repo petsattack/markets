@@ -1,0 +1,1 @@
+[{"id":351777,"name":"wigan","country":"ca","lat":60.65,"lon":-135.0},{"id":351506,"name":"upper laberge","country":"ca","lat":60.933333,"lon":-135.083333},{"id":351302,"name":"takhini","country":"ca","lat":60.85,"lon":-135.516667},{"id":351757,"name":"whitehorse","country":"ca","lat":60.716667,"lon":-135.05}]

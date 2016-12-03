@@ -1,0 +1,1 @@
+[{"id":330198,"name":"marushela","country":"bw","lat":-24.85,"lon":24.3666667},{"id":330134,"name":"lokerane","country":"bw","lat":-24.8833333,"lon":24.6666667},{"id":330403,"name":"sevrelela","country":"bw","lat":-24.9,"lon":24.9166667},{"id":330469,"name":"tubani","country":"bw","lat":-24.7666667,"lon":24.2333333}]

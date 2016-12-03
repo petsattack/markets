@@ -1,0 +1,1 @@
+[{"id":132152,"name":"limay mahuida","country":"ar","lat":-37.159594,"lon":-66.675954},{"id":131785,"name":"la reforma","country":"ar","lat":-37.551133,"lon":-66.227067},{"id":130351,"name":"euscadi","country":"ar","lat":-37.6,"lon":-66.35}]

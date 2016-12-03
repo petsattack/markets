@@ -1,1 +1,0 @@
-[{"id":1062572,"name":"tris boukes","country":"gr","lat":38.8,"lon":24.5833333},{"id":1053531,"name":"linaria","country":"gr","lat":38.8333333,"lon":24.5333333},{"id":1061134,"name":"skiros","country":"gr","lat":38.9041667,"lon":24.5630556}]

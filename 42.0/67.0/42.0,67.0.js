@@ -1,1 +1,0 @@
-[{"id":3053169,"name":"kembay","country":"uz","lat":41.5388889,"lon":66.5394444},{"id":1649222,"name":"nalibay","country":"kz","lat":41.599167,"lon":67.316944},{"id":1655322,"name":"zhibekshi","country":"kz","lat":41.707222,"lon":66.928889},{"id":1649254,"name":"nayman-bukharbay","country":"kz","lat":41.548333,"lon":66.814167}]

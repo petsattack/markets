@@ -1,0 +1,1 @@
+[{"id":2572187,"name":"zimovye kondratyeva","country":"ru","lat":58.933333,"lon":131.466667},{"id":2535872,"name":"tetenyakh","country":"ru","lat":58.933333,"lon":131.016667},{"id":2441963,"name":"lappa","country":"ru","lat":58.936389,"lon":131.210278},{"id":2461454,"name":"monobut","country":"ru","lat":58.933333,"lon":131.333333}]

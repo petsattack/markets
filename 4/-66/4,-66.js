@@ -1,0 +1,1 @@
+[{"id":3075613,"name":"santa inez","country":"ve","lat":4.2333333,"lon":-66.7333333},{"id":3077135,"name":"yacuaray","country":"ve","lat":4.2,"lon":-66.5},{"id":3068155,"name":"las carmelitas","country":"ve","lat":4.1166667,"lon":-66.6}]

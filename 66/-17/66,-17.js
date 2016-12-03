@@ -1,0 +1,1 @@
+[{"id":1503026,"name":"hallbjarnarsta�ir","country":"is","lat":66.15,"lon":-17.25},{"id":1503096,"name":"husavik","country":"is","lat":66.05,"lon":-17.35},{"id":1502924,"name":"brettingssta�ir","country":"is","lat":66.116667,"lon":-17.916667}]

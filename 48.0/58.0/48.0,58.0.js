@@ -1,1 +1,0 @@
-[{"id":1652233,"name":"sor-togay","country":"kz","lat":48.233333,"lon":57.75},{"id":1644162,"name":"dzhaindy","country":"kz","lat":47.766667,"lon":57.75},{"id":1642406,"name":"batpakkol\u0027","country":"kz","lat":48.333333,"lon":57.583333},{"id":1641433,"name":"alkan-togay","country":"kz","lat":48.366667,"lon":57.866667}]

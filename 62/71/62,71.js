@@ -1,0 +1,1 @@
+[{"id":2466373,"name":"neperova","country":"ru","lat":62.4,"lon":71.966667},{"id":2565649,"name":"yurty kanterovykh","country":"ru","lat":62.5,"lon":71.0},{"id":2466374,"name":"neperovo","country":"ru","lat":62.116667,"lon":71.7},{"id":2565700,"name":"yurty neperovykh","country":"ru","lat":62.8,"lon":71.833333}]

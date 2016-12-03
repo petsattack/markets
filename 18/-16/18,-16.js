@@ -1,0 +1,1 @@
+[{"id":1850609,"name":"portendick","country":"mr","lat":18.5833333,"lon":-16.1166667},{"id":1850708,"name":"tanit","country":"mr","lat":18.6,"lon":-16.1},{"id":1849964,"name":"coppolani","country":"mr","lat":18.3180556,"lon":-16.0386111}]

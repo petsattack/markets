@@ -1,0 +1,1 @@
+[{"id":1503305,"name":"skalar","country":"is","lat":66.333333,"lon":-14.766667},{"id":1502891,"name":"bakkafjor�ur","country":"is","lat":66.033333,"lon":-14.8},{"id":1503312,"name":"skeggjasta�ir","country":"is","lat":66.016667,"lon":-14.9}]

@@ -1,1 +1,0 @@
-[{"id":1887891,"name":"la victoria","country":"mx","lat":19.433333,"lon":-87.45},{"id":1899603,"name":"puerto madero","country":"mx","lat":19.283333,"lon":-87.466667},{"id":1918965,"name":"ziquipal","country":"mx","lat":19.316667,"lon":-87.4375},{"id":1863019,"name":"candelaria de chal","country":"mx","lat":19.333333,"lon":-87.483333}]

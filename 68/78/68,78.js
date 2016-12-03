@@ -1,0 +1,1 @@
+[{"id":2396045,"name":"faktoriya messo","country":"ru","lat":68.034167,"lon":78.693056}]

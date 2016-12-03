@@ -1,0 +1,1 @@
+[{"id":349221,"name":"marathon","country":"ca","lat":48.75,"lon":-86.366667},{"id":349955,"name":"peninsula","country":"ca","lat":48.716667,"lon":-86.383333},{"id":348600,"name":"jackfish","country":"ca","lat":48.8,"lon":-86.966667},{"id":348432,"name":"heron bay","country":"ca","lat":48.65,"lon":-86.283333}]

@@ -1,0 +1,1 @@
+[{"id":312895,"name":"ramos","country":"br","lat":-1.3,"lon":-53.05},{"id":307352,"name":"mulato","country":"br","lat":-1.716667,"lon":-53.983333},{"id":312309,"name":"prainha","country":"br","lat":-1.8,"lon":-53.483333}]

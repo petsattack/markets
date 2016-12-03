@@ -1,0 +1,1 @@
+[{"id":292942,"name":"campo grande","country":"br","lat":-8.75,"lon":-59.266667}]

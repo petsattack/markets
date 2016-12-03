@@ -1,0 +1,1 @@
+[{"id":2588147,"name":"hakolab","country":"sd","lat":17.3666667,"lon":36.0166667},{"id":2586247,"name":"dilco","country":"sd","lat":17.9666667,"lon":36.8333333},{"id":2586213,"name":"derudeb","country":"sd","lat":17.5413889,"lon":36.085}]

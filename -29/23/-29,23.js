@@ -1,0 +1,1 @@
+[{"id":3125796,"name":"douglas","country":"za","lat":-29.055307,"lon":23.7743},{"id":3127539,"name":"higgs\u0027 hope","country":"za","lat":-29.316667,"lon":23.266667},{"id":3134798,"name":"strydenburg","country":"za","lat":-29.94313,"lon":23.676003},{"id":3124908,"name":"bucklands","country":"za","lat":-29.066667,"lon":23.683333}]

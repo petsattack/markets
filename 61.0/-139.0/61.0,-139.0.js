@@ -1,1 +1,0 @@
-[{"id":346990,"name":"buswash landing","country":"ca","lat":61.35,"lon":-139.0},{"id":347570,"name":"destruction bay","country":"ca","lat":61.25,"lon":-138.8}]

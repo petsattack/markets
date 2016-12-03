@@ -1,0 +1,1 @@
+[{"id":349343,"name":"mendenhall landing","country":"ca","lat":60.766667,"lon":-136.016667},{"id":347179,"name":"champagne","country":"ca","lat":60.8,"lon":-136.483333}]

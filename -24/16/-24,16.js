@@ -1,0 +1,1 @@
+[{"id":1967466,"name":"maltahohe","country":"na","lat":-24.8333333,"lon":16.9833333},{"id":1967109,"name":"hammerstein","country":"na","lat":-24.8666667,"lon":16.1666667},{"id":1967693,"name":"nomtsas","country":"na","lat":-24.4333333,"lon":16.8333333},{"id":1968975,"name":"zais","country":"na","lat":-24.0166667,"lon":16.1333333}]

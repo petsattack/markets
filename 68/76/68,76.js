@@ -1,0 +1,1 @@
+[{"id":2417345,"name":"khalmer-yakha","country":"ru","lat":68.766667,"lon":76.616667}]

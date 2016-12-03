@@ -1,0 +1,1 @@
+[{"id":1028303,"name":"neria","country":"gl","lat":61.6166667,"lon":-49.1166667},{"id":1028272,"name":"narsalik","country":"gl","lat":61.6166667,"lon":-49.35},{"id":1028192,"name":"kangilineq","country":"gl","lat":61.95,"lon":-49.4666667}]

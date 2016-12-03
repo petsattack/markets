@@ -1,0 +1,1 @@
+[{"id":2494594,"name":"porsa-yakha","country":"ru","lat":67.366667,"lon":71.0}]

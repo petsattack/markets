@@ -1,0 +1,1 @@
+[{"id":1847529,"name":"tsel","country":"mn","lat":45.5666667,"lon":95.8666667},{"id":1846819,"name":"shara bilchiriin bayshing","country":"mn","lat":45.6,"lon":95.2666667},{"id":1842820,"name":"bayangol","country":"mn","lat":45.5333333,"lon":95.3166667},{"id":1847783,"name":"turgen","country":"mn","lat":45.8166667,"lon":95.25}]

@@ -1,0 +1,1 @@
+[{"id":311589,"name":"porto cajueiro","country":"br","lat":-11.05,"lon":-55.883333},{"id":286569,"name":"aldeia caiabi","country":"br","lat":-11.616667,"lon":-55.683333},{"id":305345,"name":"malocas caiabi","country":"br","lat":-11.366667,"lon":-55.533333},{"id":311691,"name":"porto de indio","country":"br","lat":-11.5,"lon":-55.616667}]

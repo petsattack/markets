@@ -1,0 +1,1 @@
+[{"id":2911978,"name":"afognak","country":"us","lat":58.0077778,"lon":-152.7680556},{"id":2912494,"name":"port william","country":"us","lat":58.4922222,"lon":-152.5827778},{"id":2911993,"name":"aleneva","country":"us","lat":58.06,"lon":-152.9097222}]

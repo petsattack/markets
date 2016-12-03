@@ -1,1 +1,0 @@
-[{"id":2565713,"name":"yurty pakhrinskiye","country":"ru","lat":62.583333,"lon":67.05}]

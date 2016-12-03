@@ -1,0 +1,1 @@
+[{"id":309703,"name":"paulo saldanha","country":"br","lat":-11.666667,"lon":-62.25},{"id":301994,"name":"itapirama","country":"br","lat":-11.033333,"lon":-62.116667},{"id":307848,"name":"nova brasilandia d\u0027oeste","country":"br","lat":-11.75,"lon":-62.333333}]

@@ -1,1 +1,0 @@
-[{"id":1549231,"name":"saka","country":"ke","lat":-0.1402778,"lon":39.3461111},{"id":1547353,"name":"irangi","country":"ke","lat":-0.35,"lon":39.4833333},{"id":1548537,"name":"mbalambala","country":"ke","lat":-0.0430556,"lon":39.0711111}]

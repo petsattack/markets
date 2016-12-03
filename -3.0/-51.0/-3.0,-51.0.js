@@ -1,1 +1,0 @@
-[{"id":290533,"name":"bevenuto","country":"br","lat":-2.583333,"lon":-51.016667},{"id":303149,"name":"joao","country":"br","lat":-2.766667,"lon":-50.983333},{"id":311744,"name":"porto do cocaual","country":"br","lat":-3.266667,"lon":-51.316667},{"id":300416,"name":"guahyba","country":"br","lat":-3.1,"lon":-51.316667}]

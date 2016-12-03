@@ -1,1 +1,0 @@
-[{"id":1977309,"name":"tankademi","country":"ne","lat":15.75,"lon":3.9}]

@@ -1,0 +1,1 @@
+[{"id":313929,"name":"rio noronha","country":"br","lat":-12.2,"lon":-58.183333},{"id":303648,"name":"juruena","country":"br","lat":-12.85,"lon":-58.933333}]

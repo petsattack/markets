@@ -1,1 +1,0 @@
-[{"id":2912460,"name":"petersville","country":"us","lat":62.4963889,"lon":-150.7655556},{"id":2912543,"name":"skwentna","country":"us","lat":61.9902778,"lon":-151.3977778},{"id":2912069,"name":"chelatna lodge","country":"us","lat":62.4344444,"lon":-151.4044444},{"id":2912568,"name":"susitna","country":"us","lat":61.5436111,"lon":-150.5125}]

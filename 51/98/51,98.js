@@ -1,0 +1,1 @@
+[{"id":2545321,"name":"ush-beldir","country":"ru","lat":51.47,"lon":98.047222}]

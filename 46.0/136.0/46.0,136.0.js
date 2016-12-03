@@ -1,1 +1,0 @@
-[{"id":2560745,"name":"yamutinza","country":"ru","lat":45.5,"lon":135.5},{"id":2534520,"name":"tayezhnoye","country":"ru","lat":45.693056,"lon":136.235556},{"id":2461082,"name":"molodezhnoye","country":"ru","lat":45.955,"lon":136.49},{"id":2557221,"name":"vostok vtoroy","country":"ru","lat":46.485556,"lon":135.883333}]

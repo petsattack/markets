@@ -1,0 +1,1 @@
+[{"id":1027978,"name":"agto","country":"gl","lat":67.95,"lon":-53.6333333},{"id":1028059,"name":"gamle egedesminde","country":"gl","lat":67.65,"lon":-53.5833333},{"id":1027982,"name":"akiqsserniak","country":"gl","lat":67.8666667,"lon":-53.6}]

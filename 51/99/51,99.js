@@ -1,0 +1,1 @@
+[{"id":1845037,"name":"ibeteyn khure","country":"mn","lat":51.15,"lon":99.25},{"id":1847350,"name":"tsagaannuur","country":"mn","lat":51.3563889,"lon":99.3444444},{"id":1846590,"name":"rinchinlhumbe","country":"mn","lat":51.1125,"lon":99.6694444}]

@@ -1,1 +1,0 @@
-[{"id":348796,"name":"kuldo","country":"ca","lat":55.933333,"lon":-127.883333},{"id":348759,"name":"kisgegas","country":"ca","lat":55.7,"lon":-127.566667}]

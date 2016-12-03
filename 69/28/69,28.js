@@ -1,0 +1,1 @@
+[{"id":910330,"name":"sevettijarvi","country":"fi","lat":69.516667,"lon":28.633333},{"id":2501125,"name":"rayakoski","country":"ru","lat":69.020222,"lon":28.986574},{"id":906660,"name":"morottaja","country":"fi","lat":69.116667,"lon":28.566667}]

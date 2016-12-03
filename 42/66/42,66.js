@@ -1,0 +1,1 @@
+[{"id":3052302,"name":"ferma nomer dva sovkhoza imeni kalinina","country":"uz","lat":42.4475,"lon":66.0313889},{"id":1643215,"name":"bosaga","country":"kz","lat":42.527778,"lon":66.886389}]

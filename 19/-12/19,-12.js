@@ -1,0 +1,1 @@
+[{"id":1849949,"name":"casbah des ait maouine","country":"mr","lat":19.65,"lon":-12.3166667}]

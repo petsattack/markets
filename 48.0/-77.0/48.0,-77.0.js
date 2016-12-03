@@ -1,1 +1,0 @@
-[{"id":347631,"name":"doucet","country":"ca","lat":48.233333,"lon":-76.583333},{"id":349919,"name":"pascalis","country":"ca","lat":48.15,"lon":-77.483333},{"id":346602,"name":"barriere","country":"ca","lat":47.5,"lon":-76.7},{"id":350948,"name":"senneterre","country":"ca","lat":48.4,"lon":-77.25},{"id":346697,"name":"belcourt","country":"ca","lat":48.4,"lon":-77.35}]

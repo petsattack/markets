@@ -1,1 +1,0 @@
-[{"id":308736,"name":"palermo","country":"br","lat":-6.5,"lon":-69.016667},{"id":299966,"name":"gaviaosinho","country":"br","lat":-6.516667,"lon":-68.833333},{"id":327089,"name":"tres boccas","country":"br","lat":-6.616667,"lon":-69.316667},{"id":286421,"name":"aguia","country":"br","lat":-6.5,"lon":-69.433333}]

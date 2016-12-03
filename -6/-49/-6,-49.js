@@ -1,0 +1,1 @@
+[{"id":303615,"name":"jurema","country":"br","lat":-6.166667,"lon":-49.4}]

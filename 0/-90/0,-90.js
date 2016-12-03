@@ -1,0 +1,1 @@
+[{"id":822528,"name":"bellavista","country":"ec","lat":-0.6833333,"lon":-90.3},{"id":822422,"name":"bahia de la academia","country":"ec","lat":-0.75,"lon":-90.3166667},{"id":829475,"name":"seymour","country":"ec","lat":-0.4166667,"lon":-90.2833333},{"id":829261,"name":"santa cruz","country":"ec","lat":-0.5333333,"lon":-90.35}]

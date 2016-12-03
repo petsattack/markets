@@ -1,0 +1,1 @@
+[{"id":2912287,"name":"kiwalik","country":"us","lat":66.0227778,"lon":-161.8419444},{"id":2912151,"name":"elephant point","country":"us","lat":66.2597222,"lon":-161.3461111},{"id":2912419,"name":"noorvik","country":"us","lat":66.8383333,"lon":-161.0327778}]

@@ -1,1 +1,0 @@
-[{"id":348172,"name":"goldfields","country":"ca","lat":59.45,"lon":-108.483333}]

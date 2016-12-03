@@ -1,1 +1,0 @@
-[{"id":347972,"name":"fort hope","country":"ca","lat":66.533333,"lon":-86.716667}]

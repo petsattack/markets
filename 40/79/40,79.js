@@ -1,0 +1,1 @@
+[{"id":419288,"name":"achal","country":"cn","lat":40.430833,"lon":79.335556},{"id":559679,"name":"qilan","country":"cn","lat":40.566667,"lon":79.616667},{"id":510263,"name":"kelpinbazar","country":"cn","lat":40.443333,"lon":79.041111},{"id":569267,"name":"shajingzi","country":"cn","lat":40.766667,"lon":79.966667}]

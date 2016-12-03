@@ -1,1 +1,0 @@
-[{"id":349973,"name":"peterbell","country":"ca","lat":48.6,"lon":-83.35},{"id":348375,"name":"harty station","country":"ca","lat":49.466667,"lon":-82.683333},{"id":347777,"name":"elsas","country":"ca","lat":48.516667,"lon":-82.916667}]

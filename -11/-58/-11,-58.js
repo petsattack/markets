@@ -1,0 +1,1 @@
+[{"id":305307,"name":"maloca de indios","country":"br","lat":-11.883333,"lon":-58.2}]

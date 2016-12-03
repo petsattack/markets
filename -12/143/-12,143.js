@@ -1,0 +1,1 @@
+[{"id":156472,"name":"lockhart river","country":"au","lat":-12.78723,"lon":143.343536},{"id":155453,"name":"iron range mine","country":"au","lat":-12.7,"lon":143.3}]

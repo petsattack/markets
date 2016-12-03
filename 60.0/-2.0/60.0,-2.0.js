@@ -1,1 +1,0 @@
-[{"id":994175,"name":"hillswick","country":"gb","lat":60.466667,"lon":-1.5},{"id":1000274,"name":"sandness","country":"gb","lat":60.283333,"lon":-1.633333},{"id":993621,"name":"ham","country":"gb","lat":60.133333,"lon":-2.05},{"id":1002852,"name":"walls","country":"gb","lat":60.233333,"lon":-1.583333}]

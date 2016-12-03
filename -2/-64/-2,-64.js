@@ -1,0 +1,1 @@
+[{"id":302901,"name":"jauaraua","country":"br","lat":-2.883333,"lon":-64.916667}]

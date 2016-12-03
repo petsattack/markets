@@ -1,0 +1,1 @@
+[{"id":348364,"name":"harrington harbour","country":"ca","lat":50.516667,"lon":-59.483333},{"id":349573,"name":"mutton bay","country":"ca","lat":50.783333,"lon":-59.016667},{"id":350046,"name":"point au maurier","country":"ca","lat":50.35,"lon":-59.816667},{"id":351351,"name":"tete-a-la-baleine","country":"ca","lat":50.7,"lon":-59.333333}]

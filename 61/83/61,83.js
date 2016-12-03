@@ -1,0 +1,1 @@
+[{"id":2412514,"name":"kamses-pugol","country":"ru","lat":61.533333,"lon":83.0}]

@@ -1,1 +1,0 @@
-[{"id":1843104,"name":"beysyn-khure","country":"mn","lat":47.3666667,"lon":101.2},{"id":1846868,"name":"shibirtuyn dugang","country":"mn","lat":47.25,"lon":100.8},{"id":1843329,"name":"bulgan","country":"mn","lat":47.3166667,"lon":101.1},{"id":1847803,"name":"t\u0027u-su-ha-lieh miao","country":"mn","lat":47.0666667,"lon":101.0333333}]

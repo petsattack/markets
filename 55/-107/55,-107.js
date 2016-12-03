@@ -1,0 +1,1 @@
+[{"id":348537,"name":"ile-a-la-crosse","country":"ca","lat":55.433333,"lon":-107.9},{"id":346654,"name":"beaual","country":"ca","lat":55.15,"lon":-107.616667}]

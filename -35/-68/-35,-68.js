@@ -1,0 +1,1 @@
+[{"id":132346,"name":"los pejes","country":"ar","lat":-35.641063,"lon":-68.082433},{"id":133016,"name":"nihuil","country":"ar","lat":-35.033333,"lon":-68.666667},{"id":133986,"name":"punta del agua","country":"ar","lat":-35.527372,"lon":-68.078046}]

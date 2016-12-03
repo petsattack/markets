@@ -1,1 +1,0 @@
-[{"id":2577427,"name":"bayda\u0027 nathil","country":"sa","lat":27.046798,"lon":40.425545},{"id":2579603,"name":"tharghad","country":"sa","lat":26.533333,"lon":40.483333}]

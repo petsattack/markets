@@ -1,0 +1,1 @@
+[{"id":2543358,"name":"ulakhan-sala","country":"ru","lat":69.883333,"lon":136.6}]

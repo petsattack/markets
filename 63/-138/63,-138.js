@@ -1,0 +1,1 @@
+[{"id":350923,"name":"scroggie creek","country":"ca","lat":63.2,"lon":-138.816667},{"id":346802,"name":"black hills","country":"ca","lat":63.483333,"lon":-138.833333},{"id":348234,"name":"granville","country":"ca","lat":63.666667,"lon":-138.616667},{"id":349904,"name":"paris","country":"ca","lat":63.816667,"lon":-138.666667}]

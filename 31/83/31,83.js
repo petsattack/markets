@@ -1,0 +1,1 @@
+[{"id":476569,"name":"gujian gongshe","country":"cn","lat":31.8,"lon":83.8},{"id":564325,"name":"ringtor","country":"cn","lat":31.45,"lon":83.416667},{"id":527619,"name":"longgaer","country":"cn","lat":31.2,"lon":83.7},{"id":513459,"name":"kurqen","country":"cn","lat":31.85,"lon":83.866667},{"id":647018,"name":"zadong","country":"cn","lat":31.766667,"lon":83.233333}]

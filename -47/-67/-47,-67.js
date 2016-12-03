@@ -1,0 +1,1 @@
+[{"id":130424,"name":"fitz roy","country":"ar","lat":-47.025601,"lon":-67.24815},{"id":131180,"name":"jaramillo","country":"ar","lat":-47.183106,"lon":-67.142574},{"id":130239,"name":"estancia aguada grande","country":"ar","lat":-47.389004,"lon":-67.590368},{"id":132016,"name":"las tres hermanas","country":"ar","lat":-47.315322,"lon":-67.238932}]

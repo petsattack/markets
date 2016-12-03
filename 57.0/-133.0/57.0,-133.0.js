@@ -1,1 +1,0 @@
-[{"id":2912220,"name":"hobart bay","country":"us","lat":57.4658333,"lon":-133.3533333},{"id":2912308,"name":"kupreanof","country":"us","lat":56.8144444,"lon":-132.9805556},{"id":2912459,"name":"petersburg","country":"us","lat":56.8125,"lon":-132.9555556},{"id":2912524,"name":"scow bay","country":"us","lat":56.7702778,"lon":-132.9602778}]

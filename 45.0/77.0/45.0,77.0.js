@@ -1,1 +1,0 @@
-[{"id":1642213,"name":"bakpakty","country":"kz","lat":44.570833,"lon":76.659167},{"id":1644937,"name":"imeni kuybysheva","country":"kz","lat":44.65,"lon":76.55}]

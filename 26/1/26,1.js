@@ -1,0 +1,1 @@
+[{"id":821756,"name":"tit","country":"dz","lat":26.95,"lon":1.4833333},{"id":812828,"name":"aoulef","country":"dz","lat":26.9666667,"lon":1.0833333},{"id":812829,"name":"aoulef arab","country":"dz","lat":26.95,"lon":1.0833333},{"id":812717,"name":"akabli","country":"dz","lat":26.7,"lon":1.3666667}]

@@ -1,1 +1,0 @@
-[{"id":1077399,"name":"wakakulud","country":"gy","lat":1.3833333,"lon":-58.75},{"id":1077439,"name":"yepi village","country":"gy","lat":1.35,"lon":-58.6666667},{"id":1077440,"name":"yepu village","country":"gy","lat":1.3666667,"lon":-58.6333333},{"id":1077396,"name":"waiwoi village","country":"gy","lat":1.4333333,"lon":-58.8}]

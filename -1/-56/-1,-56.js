@@ -1,0 +1,1 @@
+[{"id":312855,"name":"raimundo","country":"br","lat":-1.116667,"lon":-56.033333},{"id":296514,"name":"curral velho","country":"br","lat":-1.850833,"lon":-56.243611},{"id":296637,"name":"delfina","country":"br","lat":-1.183333,"lon":-56.05}]

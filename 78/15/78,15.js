@@ -1,0 +1,1 @@
+[{"id":2627664,"name":"grumant city","country":"sj","lat":78.1833333,"lon":15.1333333},{"id":2627674,"name":"ostre sverdrupbyen","country":"sj","lat":78.2,"lon":15.6166667},{"id":2627666,"name":"longyearbyen","country":"sj","lat":78.2166667,"lon":15.6333333}]

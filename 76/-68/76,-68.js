@@ -1,0 +1,1 @@
+[{"id":1028039,"name":"dundas","country":"gl","lat":76.55,"lon":-68.8},{"id":1028549,"name":"uvdle","country":"gl","lat":76.5886111,"lon":-68.31},{"id":1028038,"name":"dundas","country":"gl","lat":76.5772222,"lon":-68.7755556}]

@@ -1,0 +1,1 @@
+[{"id":2979246,"name":"cohagen","country":"us","lat":47.0544444,"lon":-106.6169444},{"id":2979681,"name":"jordan","country":"us","lat":47.3208333,"lon":-106.9094444},{"id":2980400,"name":"van norman","country":"us","lat":47.3533333,"lon":-106.3866667},{"id":2979586,"name":"haxby","country":"us","lat":47.77,"lon":-106.4266667}]

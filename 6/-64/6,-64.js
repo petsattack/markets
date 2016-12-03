@@ -1,0 +1,1 @@
+[{"id":3069009,"name":"las trincheras","country":"ve","lat":6.95,"lon":-64.9},{"id":3067736,"name":"la prision","country":"ve","lat":6.9166667,"lon":-64.9},{"id":3069235,"name":"la union","country":"ve","lat":6.9166667,"lon":-64.9166667}]

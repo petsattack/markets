@@ -1,1 +1,0 @@
-[{"id":2523925,"name":"sredne kalarski","country":"ru","lat":55.866667,"lon":117.366667},{"id":2405015,"name":"gulinga","country":"ru","lat":55.75,"lon":116.85}]

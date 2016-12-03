@@ -1,1 +1,0 @@
-[{"id":2474202,"name":"novo-olyutorskiy","country":"ru","lat":60.233333,"lon":166.8}]

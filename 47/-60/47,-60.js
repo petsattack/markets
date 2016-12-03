@@ -1,0 +1,1 @@
+[{"id":347080,"name":"capestick","country":"ca","lat":47.0,"lon":-60.516667},{"id":346634,"name":"bay saint lawrence","country":"ca","lat":47.0,"lon":-60.466667}]

@@ -1,0 +1,1 @@
+[{"id":2912584,"name":"tetlin junction","country":"us","lat":63.3122222,"lon":-142.6016667},{"id":2912592,"name":"tok","country":"us","lat":63.3366667,"lon":-142.9855556}]

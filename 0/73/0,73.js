@@ -1,0 +1,1 @@
+[{"id":1852167,"name":"hitaddu","country":"mv","lat":-0.6,"lon":73.0833333},{"id":1852178,"name":"mula","country":"mv","lat":-0.3,"lon":73.4333333},{"id":1852187,"name":"viligili","country":"mv","lat":0.75,"lon":73.3833333},{"id":1852166,"name":"gan","country":"mv","lat":-0.7,"lon":73.15},{"id":1852177,"name":"midu","country":"mv","lat":-0.5833333,"lon":73.2333333}]

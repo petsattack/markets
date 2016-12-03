@@ -1,0 +1,1 @@
+[{"id":2422376,"name":"kiryanovskaya kontora","country":"ru","lat":58.583333,"lon":104.4}]

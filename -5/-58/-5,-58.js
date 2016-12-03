@@ -1,0 +1,1 @@
+[{"id":291949,"name":"cabras","country":"br","lat":-5.168333,"lon":-58.588333},{"id":325881,"name":"taboleiro","country":"br","lat":-5.083333,"lon":-58.466667}]

@@ -1,0 +1,1 @@
+[{"id":351366,"name":"the two rivers","country":"ca","lat":55.75,"lon":-103.166667},{"id":350879,"name":"sandy narrows","country":"ca","lat":55.066667,"lon":-103.066667}]

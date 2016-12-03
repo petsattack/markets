@@ -1,0 +1,1 @@
+[{"id":2912314,"name":"kwigorlak","country":"us","lat":61.8069444,"lon":-163.4327778},{"id":2912058,"name":"chakaktolik","country":"us","lat":61.7683333,"lon":-163.6222222},{"id":2912264,"name":"kanapak","country":"us","lat":61.8344444,"lon":-163.2022222},{"id":2912059,"name":"chakwaktolik","country":"us","lat":61.2291667,"lon":-163.7541667}]

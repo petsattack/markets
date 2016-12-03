@@ -1,0 +1,1 @@
+[{"id":2395966,"name":"factoriya yurebey","country":"ru","lat":71.031111,"lon":76.959444}]

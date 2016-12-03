@@ -1,1 +1,0 @@
-[{"id":2403026,"name":"goszapovednik","country":"ru","lat":54.596944,"lon":161.152222},{"id":2373694,"name":"bogachevka","country":"ru","lat":54.873889,"lon":160.897778}]

@@ -1,0 +1,1 @@
+[{"id":161364,"name":"wondillina","country":"au","lat":-27.816667,"lon":135.65},{"id":157468,"name":"mount dutton","country":"au","lat":-27.833333,"lon":135.716667},{"id":158335,"name":"oodnadatta","country":"au","lat":-27.55,"lon":135.466667}]

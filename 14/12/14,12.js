@@ -1,0 +1,1 @@
+[{"id":1978129,"name":"wondi","country":"ne","lat":14.1166667,"lon":12.9833333},{"id":1972814,"name":"garoumale","country":"ne","lat":14.1166667,"lon":12.9666667}]

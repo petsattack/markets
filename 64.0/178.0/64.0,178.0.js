@@ -1,1 +1,0 @@
-[{"id":2505720,"name":"rybnyy promysel morskaya","country":"ru","lat":64.433333,"lon":178.216667},{"id":2540970,"name":"tumanskaya","country":"ru","lat":63.966667,"lon":178.2}]

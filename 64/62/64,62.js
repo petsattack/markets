@@ -1,0 +1,1 @@
+[{"id":2439647,"name":"kushnik-niya-yu","country":"ru","lat":64.866667,"lon":62.633333}]

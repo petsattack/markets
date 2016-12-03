@@ -1,0 +1,1 @@
+[{"id":305318,"name":"maloca dos urucuianas","country":"br","lat":1.45,"lon":-53.916667}]

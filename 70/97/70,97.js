@@ -1,0 +1,1 @@
+[{"id":2379995,"name":"boyarka","country":"ru","lat":70.766667,"lon":97.5}]

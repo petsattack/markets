@@ -1,0 +1,1 @@
+[{"id":1968569,"name":"rietfontein","country":"na","lat":-19.7333333,"lon":17.8666667},{"id":1967351,"name":"kombat","country":"na","lat":-19.7166667,"lon":17.7166667},{"id":1968401,"name":"otawi","country":"na","lat":-19.65,"lon":17.3333333},{"id":1968843,"name":"tsumeb","country":"na","lat":-19.2333333,"lon":17.7166667}]

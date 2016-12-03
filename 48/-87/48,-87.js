@@ -1,0 +1,1 @@
+[{"id":347153,"name":"cavers","country":"ca","lat":48.9,"lon":-87.683333},{"id":350475,"name":"rossport","country":"ca","lat":48.833333,"lon":-87.516667},{"id":350910,"name":"schreiber","country":"ca","lat":48.8,"lon":-87.266667},{"id":351342,"name":"terrace bay","country":"ca","lat":48.783333,"lon":-87.1}]

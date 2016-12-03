@@ -1,1 +1,0 @@
-[{"id":348309,"name":"halfmoon bay","country":"ca","lat":49.516667,"lon":-123.916667},{"id":351205,"name":"stillwater","country":"ca","lat":49.766667,"lon":-124.316667},{"id":348578,"name":"irvines landing","country":"ca","lat":49.616667,"lon":-124.033333},{"id":350316,"name":"redroofs","country":"ca","lat":49.5,"lon":-123.916667}]

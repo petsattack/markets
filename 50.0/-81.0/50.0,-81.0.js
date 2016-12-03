@@ -1,1 +1,0 @@
-[{"id":348583,"name":"island falls junction","country":"ca","lat":49.55,"lon":-81.35},{"id":348581,"name":"island falls","country":"ca","lat":49.566667,"lon":-81.366667}]

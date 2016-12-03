@@ -1,0 +1,1 @@
+[{"id":2049343,"name":"okuru","country":"nz","lat":-43.9,"lon":168.916667},{"id":2050302,"name":"waiatoto","country":"nz","lat":-43.983333,"lon":168.766667},{"id":2048217,"name":"carters mill","country":"nz","lat":-43.973333,"lon":168.854167},{"id":2048599,"name":"huhuka","country":"nz","lat":-43.966667,"lon":168.916667}]

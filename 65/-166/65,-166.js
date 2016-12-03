@@ -1,0 +1,1 @@
+[{"id":2912582,"name":"teller","country":"us","lat":65.2636111,"lon":-166.3608333},{"id":2912562,"name":"sullivan camp","country":"us","lat":65.0630556,"lon":-166.1952778},{"id":2912045,"name":"brevig mission","country":"us","lat":65.3347222,"lon":-166.4891667},{"id":2912481,"name":"port clarence","country":"us","lat":65.2622222,"lon":-166.8458333}]

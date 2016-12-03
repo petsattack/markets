@@ -1,0 +1,1 @@
+[{"id":852439,"name":"safaga","country":"eg","lat":26.7333333,"lon":33.9333333},{"id":852072,"name":"qadd el-barud","country":"eg","lat":26.75,"lon":33.9333333}]

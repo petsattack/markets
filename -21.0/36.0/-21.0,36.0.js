@@ -1,1 +1,0 @@
-[{"id":1956975,"name":"marrupenhe","country":"mz","lat":-20.8166667,"lon":35.85}]

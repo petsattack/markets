@@ -1,1 +1,0 @@
-[{"id":160707,"name":"waggabundi","country":"au","lat":-19.5,"lon":139.4}]

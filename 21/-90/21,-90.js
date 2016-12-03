@@ -1,0 +1,1 @@
+[{"id":1911709,"name":"sisal","country":"mx","lat":21.166667,"lon":-90.033333},{"id":1878898,"name":"hal-al","country":"mx","lat":21.125,"lon":-90.0625},{"id":1873767,"name":"el palmar","country":"mx","lat":21.383333,"lon":-90.25}]

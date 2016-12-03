@@ -1,0 +1,1 @@
+[{"id":535789,"name":"manin qagan tungge","country":"cn","lat":40.583333,"lon":101.2},{"id":596571,"name":"telohsitan","country":"cn","lat":40.583333,"lon":101.25},{"id":604951,"name":"ulan tohoi","country":"cn","lat":40.920278,"lon":101.449167}]

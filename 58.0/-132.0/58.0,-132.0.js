@@ -1,1 +1,0 @@
-[{"id":348604,"name":"jacksons landing","country":"ca","lat":57.616667,"lon":-131.683333},{"id":351007,"name":"sheslay","country":"ca","lat":58.266667,"lon":-131.8},{"id":347271,"name":"chutine landing","country":"ca","lat":57.666667,"lon":-131.583333}]

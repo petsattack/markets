@@ -1,1 +1,0 @@
-[{"id":346733,"name":"berens river","country":"ca","lat":52.366667,"lon":-97.033333},{"id":351076,"name":"snake","country":"ca","lat":51.733333,"lon":-96.916667},{"id":349028,"name":"little bullhead","country":"ca","lat":51.666667,"lon":-96.833333}]

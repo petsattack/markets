@@ -1,0 +1,1 @@
+[{"id":299033,"name":"feitoria do tine","country":"br","lat":-14.583333,"lon":-51.516667},{"id":288132,"name":"aruana","country":"br","lat":-14.9,"lon":-51.083333},{"id":295051,"name":"cocalinho","country":"br","lat":-14.366667,"lon":-51.0}]

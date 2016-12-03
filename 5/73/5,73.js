@@ -1,0 +1,1 @@
+[{"id":1852161,"name":"eydhafushi","country":"mv","lat":5.1166667,"lon":73.0333333},{"id":1852184,"name":"u\u0027ngoofaaru","country":"mv","lat":5.6666667,"lon":73.0},{"id":1852180,"name":"naifaru","country":"mv","lat":5.4333333,"lon":73.3333333},{"id":1852176,"name":"manadhoo","country":"mv","lat":5.7666667,"lon":73.3833333}]

@@ -1,0 +1,1 @@
+[{"id":132040,"name":"la tamberia","country":"ar","lat":-27.966667,"lon":-68.183333},{"id":128830,"name":"chaschuil","country":"ar","lat":-27.776556,"lon":-68.077866},{"id":135194,"name":"tamberia","country":"ar","lat":-27.338201,"lon":-68.304105},{"id":132633,"name":"matambre","country":"ar","lat":-27.466667,"lon":-68.283333}]

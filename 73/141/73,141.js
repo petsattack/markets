@@ -1,0 +1,1 @@
+[{"id":2495933,"name":"povarnya maloye zimovye","country":"ru","lat":73.333333,"lon":141.25}]

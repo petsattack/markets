@@ -1,0 +1,1 @@
+[{"id":1546721,"name":"banissa","country":"ke","lat":3.9038889,"lon":40.3322222},{"id":1549346,"name":"takaba","country":"ke","lat":3.3552778,"lon":40.2227778}]

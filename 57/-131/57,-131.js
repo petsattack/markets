@@ -1,0 +1,1 @@
+[{"id":348604,"name":"jacksons landing","country":"ca","lat":57.616667,"lon":-131.683333},{"id":351333,"name":"telegraph creek","country":"ca","lat":57.9,"lon":-131.15},{"id":347271,"name":"chutine landing","country":"ca","lat":57.666667,"lon":-131.583333},{"id":348149,"name":"glenora","country":"ca","lat":57.833333,"lon":-131.4}]

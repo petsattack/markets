@@ -1,1 +1,0 @@
-[{"id":291177,"name":"bondade","country":"br","lat":-7.433333,"lon":-46.4},{"id":291007,"name":"bom jardim","country":"br","lat":-7.016667,"lon":-46.483333},{"id":299424,"name":"fortaleza dos nogueiras","country":"br","lat":-6.9,"lon":-46.15}]

@@ -1,0 +1,1 @@
+[{"id":1271796,"name":"semberang","country":"id","lat":0.817222,"lon":118.529722},{"id":1204983,"name":"kerayaan","country":"id","lat":0.966667,"lon":118.083333},{"id":1279268,"name":"soesoek","country":"id","lat":0.9,"lon":118.2}]

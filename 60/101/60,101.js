@@ -1,0 +1,1 @@
+[{"id":2484259,"name":"panolik","country":"ru","lat":60.366667,"lon":101.3}]

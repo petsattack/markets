@@ -1,1 +1,0 @@
-[{"id":1735547,"name":"tmimi","country":"ly","lat":32.3333333,"lon":23.0666667},{"id":1733973,"name":"al qarzi�abah","country":"ly","lat":32.15,"lon":23.4833333},{"id":1735707,"name":"zawiyat al `izziyat","country":"ly","lat":32.25,"lon":22.6666667},{"id":1734215,"name":"bamba","country":"ly","lat":32.4,"lon":23.1333333}]

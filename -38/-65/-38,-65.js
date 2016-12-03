@@ -1,0 +1,1 @@
+[{"id":132145,"name":"lihuel-calel","country":"ar","lat":-38.014185,"lon":-65.584653},{"id":129513,"name":"curaco","country":"ar","lat":-38.145624,"lon":-65.914258},{"id":130481,"name":"fortin uno","country":"ar","lat":-38.85,"lon":-65.283333}]

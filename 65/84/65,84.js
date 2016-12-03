@@ -1,0 +1,1 @@
+[{"id":2560998,"name":"yanov-stan","country":"ru","lat":65.983333,"lon":84.266667},{"id":2417022,"name":"ket-par","country":"ru","lat":65.983333,"lon":84.333333},{"id":2396067,"name":"faktoriya verkhnyaya baikha","country":"ru","lat":65.6,"lon":84.866667}]

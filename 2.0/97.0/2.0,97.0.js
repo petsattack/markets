@@ -1,1 +1,0 @@
-[{"id":1275140,"name":"sifahandro","country":"id","lat":1.5,"lon":97.35},{"id":1300568,"name":"tuhemberuwa","country":"id","lat":1.5,"lon":97.416667},{"id":1269726,"name":"sawe","country":"id","lat":1.5,"lon":97.4},{"id":1133413,"name":"alaban","country":"id","lat":2.2281,"lon":97.2327},{"id":1274012,"name":"siaba","country":"id","lat":1.5,"lon":97.366667}]

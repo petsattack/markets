@@ -1,1 +1,0 @@
-[{"id":3058533,"name":"campo de tiro","country":"ve","lat":10.0855556,"lon":-60.0672222}]

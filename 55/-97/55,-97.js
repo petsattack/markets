@@ -1,0 +1,1 @@
+[{"id":350028,"name":"piquitona","country":"ca","lat":55.583333,"lon":-97.15},{"id":351367,"name":"thicket portage","country":"ca","lat":55.316667,"lon":-97.7},{"id":351370,"name":"thompson","country":"ca","lat":55.75,"lon":-97.866667}]

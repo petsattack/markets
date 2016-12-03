@@ -1,0 +1,1 @@
+[{"id":1648994,"name":"mointy","country":"kz","lat":47.221111,"lon":73.366944},{"id":1640966,"name":"akbulak","country":"kz","lat":47.55,"lon":73.25},{"id":1652179,"name":"sokutash","country":"kz","lat":47.116667,"lon":73.016667},{"id":1646612,"name":"kizyl-espe","country":"kz","lat":47.45,"lon":73.883333}]

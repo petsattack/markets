@@ -1,1 +1,0 @@
-[{"id":2361310,"name":"alyatki","country":"ru","lat":67.066667,"lon":-174.166667},{"id":2445477,"name":"litkhekay-polar station","country":"ru","lat":67.1,"lon":-173.5}]

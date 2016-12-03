@@ -1,0 +1,1 @@
+[{"id":310524,"name":"pindobal","country":"br","lat":-3.228056,"lon":-48.359167}]

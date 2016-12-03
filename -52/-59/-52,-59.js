@@ -1,0 +1,1 @@
+[{"id":914887,"name":"speedwell island settlement","country":"fk","lat":-52.2166667,"lon":-59.6833333},{"id":914858,"name":"north arm","country":"fk","lat":-52.1,"lon":-59.35}]

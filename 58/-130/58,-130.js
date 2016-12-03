@@ -1,0 +1,1 @@
+[{"id":347514,"name":"dease lake","country":"ca","lat":58.45,"lon":-130.033333},{"id":347531,"name":"defot","country":"ca","lat":58.9,"lon":-130.433333},{"id":348863,"name":"laketon","country":"ca","lat":58.7,"lon":-130.1},{"id":350132,"name":"porter","country":"ca","lat":58.8,"lon":-130.1}]

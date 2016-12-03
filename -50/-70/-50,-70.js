@@ -1,0 +1,1 @@
+[{"id":134193,"name":"rincon grande","country":"ar","lat":-50.291264,"lon":-70.158339},{"id":130585,"name":"gendarme c. barreto","country":"ar","lat":-50.289897,"lon":-70.961617}]

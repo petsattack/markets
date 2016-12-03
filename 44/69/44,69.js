@@ -1,0 +1,1 @@
+[{"id":1652893,"name":"tasty","country":"kz","lat":44.802222,"lon":69.17},{"id":1643807,"name":"chu","country":"kz","lat":44.811111,"lon":69.428611},{"id":1653276,"name":"toretogan","country":"kz","lat":44.788611,"lon":69.643056},{"id":1655395,"name":"zholotkel\u0027","country":"kz","lat":44.804444,"lon":69.460556}]

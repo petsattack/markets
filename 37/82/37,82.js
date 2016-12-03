@@ -1,0 +1,1 @@
+[{"id":564434,"name":"rokiya","country":"cn","lat":37.078611,"lon":82.815278},{"id":556844,"name":"qalmaqquduq","country":"cn","lat":37.083333,"lon":82.85},{"id":602824,"name":"tulkichikol","country":"cn","lat":37.566667,"lon":82.8},{"id":540667,"name":"minfeng","country":"cn","lat":37.066667,"lon":82.766667},{"id":565221,"name":"salghozek","country":"cn","lat":37.1,"lon":82.9}]

@@ -1,1 +1,0 @@
-[{"id":2470163,"name":"nizhnyaya kharvuta","country":"ru","lat":66.816667,"lon":73.366667},{"id":2478088,"name":"nyda","country":"ru","lat":66.624722,"lon":72.922778},{"id":2477904,"name":"numgi","country":"ru","lat":66.649444,"lon":72.983611}]

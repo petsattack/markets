@@ -1,0 +1,1 @@
+[{"id":1967218,"name":"kalkveld","country":"na","lat":-20.8833333,"lon":16.1833333},{"id":1968512,"name":"outjo","country":"na","lat":-20.1166667,"lon":16.15},{"id":1968406,"name":"otiwarongo","country":"na","lat":-20.45,"lon":16.65}]

@@ -1,0 +1,1 @@
+[{"id":156773,"name":"maranboy police station","country":"au","lat":-14.533333,"lon":132.783333},{"id":155734,"name":"katherine","country":"au","lat":-14.46517,"lon":132.263474},{"id":151332,"name":"bamyili","country":"au","lat":-14.51956,"lon":132.864365}]

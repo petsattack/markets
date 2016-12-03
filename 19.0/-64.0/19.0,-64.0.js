@@ -1,1 +1,0 @@
-[{"id":3077289,"name":"the settlement","country":"vg","lat":18.7166667,"lon":-64.3166667}]

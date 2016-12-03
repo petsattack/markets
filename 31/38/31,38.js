@@ -1,0 +1,1 @@
+[{"id":2576233,"name":"al mabiyah","country":"sa","lat":31.137905,"lon":38.217878},{"id":2578476,"name":"mahattat al turayf","country":"sa","lat":31.672516,"lon":38.663735}]

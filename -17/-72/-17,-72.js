@@ -1,0 +1,1 @@
+[{"id":2073879,"name":"la sorda","country":"pe","lat":-17.0155556,"lon":-72.0555556},{"id":2065076,"name":"chiguas","country":"pe","lat":-17.0166667,"lon":-72.0633333},{"id":2071991,"name":"inclan","country":"pe","lat":-17.0286111,"lon":-72.0088889},{"id":2076073,"name":"mollendo","country":"pe","lat":-17.0230556,"lon":-72.0147222}]

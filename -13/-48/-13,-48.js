@@ -1,0 +1,1 @@
+[{"id":299393,"name":"formoso","country":"br","lat":-13.616667,"lon":-48.9},{"id":314110,"name":"rodovalho","country":"br","lat":-13.983333,"lon":-48.733333},{"id":327245,"name":"tromba","country":"br","lat":-13.466667,"lon":-48.75},{"id":308841,"name":"palmeiropolis","country":"br","lat":-13.062222,"lon":-48.366944}]

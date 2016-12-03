@@ -1,0 +1,1 @@
+[{"id":155611,"name":"jurien bay","country":"au","lat":-30.30591,"lon":115.038254},{"id":153528,"name":"dandaragan","country":"au","lat":-30.666667,"lon":115.7},{"id":152816,"name":"cervantes","country":"au","lat":-30.496111,"lon":115.067162}]

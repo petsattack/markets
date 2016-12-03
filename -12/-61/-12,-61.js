@@ -1,0 +1,1 @@
+[{"id":305344,"name":"maloca salamaim","country":"br","lat":-12.25,"lon":-61.066667},{"id":328647,"name":"vila parecis","country":"br","lat":-12.183333,"lon":-61.6},{"id":311795,"name":"porto dos massacas","country":"br","lat":-12.433333,"lon":-61.033333},{"id":286850,"name":"alto alegre","country":"br","lat":-12.133333,"lon":-61.858333}]

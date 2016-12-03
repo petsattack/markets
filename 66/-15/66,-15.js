@@ -1,0 +1,1 @@
+[{"id":1503367,"name":"svalbar�","country":"is","lat":66.2,"lon":-15.716667},{"id":1503280,"name":"sau�anes","country":"is","lat":66.233333,"lon":-15.266667},{"id":1503254,"name":"raufarhofn","country":"is","lat":66.45,"lon":-15.95},{"id":1503444,"name":"�orshofn","country":"is","lat":66.2,"lon":-15.333333}]

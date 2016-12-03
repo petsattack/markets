@@ -1,0 +1,1 @@
+[{"id":349401,"name":"millertown","country":"ca","lat":48.816667,"lon":-56.533333},{"id":346952,"name":"buchans junction","country":"ca","lat":48.85,"lon":-56.466667},{"id":346554,"name":"badger","country":"ca","lat":48.966667,"lon":-56.033333},{"id":346951,"name":"buchans","country":"ca","lat":48.816667,"lon":-56.866667}]

@@ -1,0 +1,1 @@
+[{"id":2546357,"name":"ust-olenekskoe","country":"ru","lat":73.003333,"lon":119.816667}]

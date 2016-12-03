@@ -1,0 +1,1 @@
+[{"id":2546715,"name":"ust-verkhnyaya baikha","country":"ru","lat":65.866667,"lon":86.25},{"id":2396155,"name":"farkovskiy","country":"ru","lat":65.716667,"lon":86.966667}]

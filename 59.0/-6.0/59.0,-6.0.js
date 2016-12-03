@@ -1,1 +1,0 @@
-[{"id":995462,"name":"knockaird","country":"gb","lat":58.5,"lon":-6.25},{"id":992136,"name":"eoropie","country":"gb","lat":58.5,"lon":-6.266667}]

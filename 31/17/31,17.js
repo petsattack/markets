@@ -1,0 +1,1 @@
+[{"id":1734918,"name":"mintaqat wadi harawah","country":"ly","lat":31.05,"lon":17.2833333},{"id":1735417,"name":"sultan","country":"ly","lat":31.1177778,"lon":17.1475}]

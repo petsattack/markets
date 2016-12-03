@@ -1,0 +1,1 @@
+[{"id":509198,"name":"kangxiwar","country":"cn","lat":36.221193,"lon":78.780231},{"id":588853,"name":"sukaiti","country":"cn","lat":36.35,"lon":78.033333},{"id":421583,"name":"azgar","country":"cn","lat":36.6,"lon":78.3},{"id":539093,"name":"menggubao","country":"cn","lat":36.6,"lon":78.166667}]

@@ -1,0 +1,1 @@
+[{"id":1969767,"name":"agadem","country":"ne","lat":16.8333333,"lon":13.2833333},{"id":1976445,"name":"oyou bezze denga","country":"ne","lat":16.4819444,"lon":13.2844444},{"id":1975227,"name":"koussa arma","country":"ne","lat":16.1511111,"lon":13.2102778}]

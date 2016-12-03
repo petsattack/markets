@@ -1,0 +1,1 @@
+[{"id":1968705,"name":"sikereti","country":"na","lat":-19.05,"lon":20.7166667},{"id":1968845,"name":"tsumkwa","country":"na","lat":-19.6,"lon":20.5}]

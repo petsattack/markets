@@ -1,1 +1,0 @@
-[{"id":2049505,"name":"pandora bank","country":"nz","lat":-34.45,"lon":172.816667}]

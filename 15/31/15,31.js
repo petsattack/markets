@@ -1,0 +1,1 @@
+[{"id":2593449,"name":"umm inderaba","country":"sd","lat":15.2,"lon":31.9},{"id":2593687,"name":"umm teital","country":"sd","lat":15.55,"lon":31.9833333},{"id":2583958,"name":"abu sabib","country":"sd","lat":15.4833333,"lon":31.5333333}]

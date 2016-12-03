@@ -1,1 +1,0 @@
-[{"id":2382194,"name":"burkhaybyt","country":"ru","lat":67.983333,"lon":139.433333},{"id":2441013,"name":"kygyl-uryakh","country":"ru","lat":67.916667,"lon":139.383333},{"id":2382362,"name":"burr-khaybyt","country":"ru","lat":68.133333,"lon":139.366667},{"id":2388645,"name":"chyybagallaakh","country":"ru","lat":68.383333,"lon":139.2}]

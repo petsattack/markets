@@ -1,0 +1,1 @@
+[{"id":2912126,"name":"dillingham","country":"us","lat":59.0397222,"lon":-158.4575},{"id":2912646,"name":"wood river","country":"us","lat":59.0691667,"lon":-158.4411111},{"id":2912396,"name":"nelsonville","country":"us","lat":59.0066667,"lon":-158.5336111},{"id":2911991,"name":"aleknagik","country":"us","lat":59.2730556,"lon":-158.6177778}]

@@ -1,1 +1,0 @@
-[{"id":498478,"name":"hupei","country":"cn","lat":49.3,"lon":118.0},{"id":499517,"name":"jabhlangt","country":"cn","lat":48.966667,"lon":117.8},{"id":556805,"name":"qagan","country":"cn","lat":49.25,"lon":118.116667},{"id":480274,"name":"hargant","country":"cn","lat":49.2,"lon":118.45},{"id":449780,"name":"dalainur","country":"cn","lat":49.45,"lon":117.7}]

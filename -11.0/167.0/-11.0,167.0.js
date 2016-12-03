@@ -1,1 +1,0 @@
-[{"id":2582973,"name":"tanabili","country":"sb","lat":-11.2833333,"lon":166.5333333},{"id":2580035,"name":"amba","country":"sb","lat":-11.2666667,"lon":166.5},{"id":2581627,"name":"matombo","country":"sb","lat":-11.2333333,"lon":166.5333333}]

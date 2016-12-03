@@ -1,0 +1,1 @@
+[{"id":350109,"name":"port belmont","country":"ca","lat":53.033333,"lon":-128.9},{"id":346991,"name":"butedale","country":"ca","lat":53.15,"lon":-128.683333},{"id":348766,"name":"kitimat mission","country":"ca","lat":53.966667,"lon":-128.65}]

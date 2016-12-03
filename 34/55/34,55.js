@@ -1,0 +1,1 @@
+[{"id":1443193,"name":"khur-i-gaz","country":"ir","lat":34.183333,"lon":55.116667},{"id":1385973,"name":"arasavan","country":"ir","lat":34.131096,"lon":55.1117},{"id":1456252,"name":"mohammadabad-e kuzeh gaz","country":"ir","lat":34.196129,"lon":55.173126}]

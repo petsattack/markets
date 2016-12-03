@@ -1,0 +1,1 @@
+[{"id":2508440,"name":"sartyn-uriy-pugol","country":"ru","lat":62.183333,"lon":77.7},{"id":2500198,"name":"raduzhnyy","country":"ru","lat":62.096111,"lon":77.475}]

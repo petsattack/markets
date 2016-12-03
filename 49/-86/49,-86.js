@@ -1,0 +1,1 @@
+[{"id":349071,"name":"longlac","country":"ca","lat":49.783333,"lon":-86.55},{"id":349035,"name":"little longlac","country":"ca","lat":49.7,"lon":-86.95},{"id":348112,"name":"geraldton","country":"ca","lat":49.716667,"lon":-86.966667},{"id":347087,"name":"caramat","country":"ca","lat":49.616667,"lon":-86.15}]

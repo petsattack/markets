@@ -1,0 +1,1 @@
+[{"id":850026,"name":"majid abu zayd","country":"eg","lat":30.9833333,"lon":28.6},{"id":843376,"name":"el diraziya","country":"eg","lat":30.8666667,"lon":28.9},{"id":843094,"name":"el-`alamen","country":"eg","lat":30.8166667,"lon":28.95},{"id":852935,"name":"sidi `abd el-rahman","country":"eg","lat":30.9833333,"lon":28.8}]

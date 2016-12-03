@@ -1,1 +1,0 @@
-[{"id":1733933,"name":"al mallahah al bahriyah","country":"ly","lat":30.6833333,"lon":12.0666667},{"id":1735030,"name":"qabilat az zintan al `umyan","country":"ly","lat":31.05,"lon":12.3666667},{"id":1734759,"name":"irmabhat az zintan","country":"ly","lat":31.1166667,"lon":12.2666667}]

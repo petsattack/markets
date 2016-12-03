@@ -1,0 +1,1 @@
+[{"id":348210,"name":"grande-entree","country":"ca","lat":47.55,"lon":-61.566667},{"id":348277,"name":"grindstone island","country":"ca","lat":47.383333,"lon":-61.866667},{"id":348387,"name":"havre-aubert","country":"ca","lat":47.233333,"lon":-61.85},{"id":347825,"name":"etang-du-nord","country":"ca","lat":47.366667,"lon":-61.933333}]

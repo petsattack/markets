@@ -1,0 +1,1 @@
+[{"id":348446,"name":"high prairie","country":"ca","lat":55.433333,"lon":-116.483333},{"id":351149,"name":"springburn","country":"ca","lat":55.933333,"lon":-116.916667},{"id":348661,"name":"kathleen","country":"ca","lat":55.616667,"lon":-116.833333},{"id":349304,"name":"mclennan","country":"ca","lat":55.7,"lon":-116.9}]

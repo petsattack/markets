@@ -1,0 +1,1 @@
+[{"id":2527290,"name":"staryye vayegi","country":"ru","lat":63.95,"lon":170.716667}]

@@ -1,0 +1,1 @@
+[{"id":2460572,"name":"mokhoo","country":"ru","lat":71.433333,"lon":139.983333},{"id":2495907,"name":"povarnaya khoroy","country":"ru","lat":71.4,"lon":139.366667},{"id":2565016,"name":"yukagir","country":"ru","lat":71.75,"lon":139.883333},{"id":2441016,"name":"kykhyl-bulut","country":"ru","lat":71.8,"lon":139.983333}]

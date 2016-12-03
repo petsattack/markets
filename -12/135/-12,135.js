@@ -1,0 +1,1 @@
+[{"id":154427,"name":"gapuwiyak","country":"au","lat":-12.5031,"lon":135.810516},{"id":154413,"name":"galiwinku","country":"au","lat":-12.02811,"lon":135.564865}]

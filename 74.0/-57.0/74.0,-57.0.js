@@ -1,1 +1,0 @@
-[{"id":1028228,"name":"kraulshavn","country":"gl","lat":74.1166667,"lon":-57.0666667},{"id":1028084,"name":"igdluligssuak","country":"gl","lat":74.35,"lon":-56.7},{"id":1028225,"name":"kittorsaq","country":"gl","lat":73.95,"lon":-56.7333333}]

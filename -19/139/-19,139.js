@@ -1,0 +1,1 @@
+[{"id":160707,"name":"waggabundi","country":"au","lat":-19.5,"lon":139.4},{"id":157452,"name":"mount cuthbert","country":"au","lat":-19.983333,"lon":139.916667}]

@@ -1,1 +1,0 @@
-[{"id":153339,"name":"cramsie","country":"au","lat":-23.4,"lon":144.233333},{"id":157353,"name":"morella","country":"au","lat":-22.966667,"lon":143.866667},{"id":152592,"name":"camoola","country":"au","lat":-22.983333,"lon":144.483333},{"id":156507,"name":"longreach","country":"au","lat":-23.44212,"lon":144.249207}]

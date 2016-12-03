@@ -1,1 +1,0 @@
-[{"id":1967712,"name":"nungubais","country":"na","lat":-20.0333333,"lon":15.8333333},{"id":1968526,"name":"ozongaka","country":"na","lat":-20.15,"lon":15.5333333},{"id":1968512,"name":"outjo","country":"na","lat":-20.1166667,"lon":16.15}]

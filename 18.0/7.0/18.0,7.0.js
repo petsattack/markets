@@ -1,1 +1,0 @@
-[{"id":1974088,"name":"imourarene","country":"ne","lat":18.1341667,"lon":7.3641667}]

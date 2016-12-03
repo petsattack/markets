@@ -1,1 +1,0 @@
-[{"id":509991,"name":"karayar","country":"cn","lat":37.25,"lon":79.033333},{"id":647118,"name":"zangguy","country":"cn","lat":37.283333,"lon":78.766667},{"id":542026,"name":"muchipacha","country":"cn","lat":37.430556,"lon":78.572778},{"id":462797,"name":"duwa","country":"cn","lat":37.1,"lon":79.0},{"id":605062,"name":"uzunsay","country":"cn","lat":37.0,"lon":78.8}]

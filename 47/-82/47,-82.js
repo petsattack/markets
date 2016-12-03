@@ -1,0 +1,1 @@
+[{"id":350272,"name":"ramsay","country":"ca","lat":47.433333,"lon":-82.333333},{"id":346786,"name":"biscotasing","country":"ca","lat":47.3,"lon":-82.1},{"id":351254,"name":"sultan","country":"ca","lat":47.583333,"lon":-82.766667}]

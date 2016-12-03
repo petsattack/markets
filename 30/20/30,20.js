@@ -1,0 +1,1 @@
+[{"id":1733790,"name":"ajdabiya","country":"ly","lat":30.7591667,"lon":20.2230556},{"id":1734874,"name":"marsa uasili","country":"ly","lat":30.9538889,"lon":20.1216667}]

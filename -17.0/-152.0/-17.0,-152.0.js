@@ -1,1 +1,0 @@
-[{"id":2087141,"name":"te avi toa","country":"pf","lat":-16.7833333,"lon":-151.5},{"id":2086865,"name":"anau","country":"pf","lat":-16.5166667,"lon":-151.7333333},{"id":2087207,"name":"vaitape","country":"pf","lat":-16.5166667,"lon":-151.75}]

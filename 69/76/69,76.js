@@ -1,0 +1,1 @@
+[{"id":2362656,"name":"anta-payute","country":"ru","lat":69.066667,"lon":76.833333}]

@@ -1,0 +1,1 @@
+[{"id":3125039,"name":"calvinia","country":"za","lat":-31.470688,"lon":19.776008},{"id":3132303,"name":"nieuwoudtville","country":"za","lat":-31.376558,"lon":19.112203},{"id":3134565,"name":"sonderwaterkraal","country":"za","lat":-31.864663,"lon":19.072308}]

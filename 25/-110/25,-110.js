@@ -1,0 +1,1 @@
+[{"id":1870886,"name":"el carrizalito","country":"mx","lat":25.346111,"lon":-110.9825},{"id":1868994,"name":"dolores","country":"mx","lat":25.075278,"lon":-110.860833},{"id":1869917,"name":"el aguajito de agua escondida","country":"mx","lat":25.063889,"lon":-110.999444},{"id":1889115,"name":"los burros","country":"mx","lat":25.05,"lon":-110.833333}]

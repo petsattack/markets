@@ -1,1 +1,0 @@
-[{"id":1548228,"name":"laisamis","country":"ke","lat":1.6,"lon":37.8},{"id":1548256,"name":"log logo","country":"ke","lat":1.9833333,"lon":37.9166667},{"id":1548466,"name":"marsabit","country":"ke","lat":2.3333333,"lon":37.9833333},{"id":1546887,"name":"choba","country":"ke","lat":2.4333333,"lon":38.05}]

@@ -1,1 +1,0 @@
-[{"id":3120301,"name":"liban","country":"ye","lat":15.3833333,"lon":51.55},{"id":3112356,"name":"akhud","country":"ye","lat":15.4097222,"lon":51.6552778},{"id":3121854,"name":"qishn","country":"ye","lat":15.4227778,"lon":51.6813889},{"id":3123114,"name":"suq","country":"ye","lat":15.4486111,"lon":51.7341667}]

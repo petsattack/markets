@@ -1,0 +1,1 @@
+[{"id":405411,"name":"canadon bombalot","country":"cl","lat":-52.266667,"lon":-71.183333},{"id":408491,"name":"puerto curtze","country":"cl","lat":-52.8,"lon":-71.4},{"id":405485,"name":"carpa manzano","country":"cl","lat":-52.6,"lon":-71.2}]

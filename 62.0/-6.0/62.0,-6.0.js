@@ -1,1 +1,0 @@
-[{"id":915857,"name":"hattarvik","country":"fo","lat":62.3333333,"lon":-6.25},{"id":916121,"name":"svino bygd","country":"fo","lat":62.2833333,"lon":-6.3333333},{"id":915909,"name":"kirkja","country":"fo","lat":62.3166667,"lon":-6.3}]

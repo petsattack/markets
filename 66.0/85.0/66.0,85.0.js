@@ -1,1 +1,0 @@
-[{"id":2396067,"name":"faktoriya verkhnyaya baikha","country":"ru","lat":65.6,"lon":84.866667}]

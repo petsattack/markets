@@ -1,1 +1,0 @@
-[{"id":351003,"name":"sherridon","country":"ca","lat":55.116667,"lon":-101.083333},{"id":347438,"name":"cranberry portage","country":"ca","lat":54.583333,"lon":-101.383333}]

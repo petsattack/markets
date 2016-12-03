@@ -1,1 +1,0 @@
-[{"id":2912557,"name":"stevens village","country":"us","lat":66.0063889,"lon":-149.0908333},{"id":2912333,"name":"livengood","country":"us","lat":65.5244444,"lon":-148.5447222}]

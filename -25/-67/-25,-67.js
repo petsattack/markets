@@ -1,0 +1,1 @@
+[{"id":131029,"name":"incahuasi","country":"ar","lat":-25.435344,"lon":-67.205537},{"id":128564,"name":"cara cienaga","country":"ar","lat":-25.85,"lon":-67.35},{"id":127769,"name":"antofalla","country":"ar","lat":-25.516375,"lon":-67.619422}]

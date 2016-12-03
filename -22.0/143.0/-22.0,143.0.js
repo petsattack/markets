@@ -1,1 +1,0 @@
-[{"id":153255,"name":"corfield","country":"au","lat":-21.716667,"lon":143.366667},{"id":158340,"name":"oondooroo","country":"au","lat":-22.166667,"lon":143.1},{"id":161299,"name":"winton","country":"au","lat":-22.381849,"lon":143.042404}]

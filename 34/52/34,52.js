@@ -1,0 +1,1 @@
+[{"id":1464533,"name":"pasgah-e shekarbani-ye malekabad","country":"ir","lat":34.483333,"lon":52.583333},{"id":1481525,"name":"sayeban","country":"ir","lat":34.6328,"lon":52.5483}]

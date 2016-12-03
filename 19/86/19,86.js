@@ -1,0 +1,1 @@
+[{"id":1334694,"name":"gope","country":"in","lat":19.983333,"lon":86.016667},{"id":1323385,"name":"astaranga","country":"in","lat":19.983333,"lon":86.283333},{"id":1341855,"name":"konarka","country":"in","lat":19.9,"lon":86.116667}]

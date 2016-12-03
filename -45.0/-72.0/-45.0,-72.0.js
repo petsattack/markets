@@ -1,1 +1,0 @@
-[{"id":407016,"name":"lago solis","country":"cl","lat":-44.666667,"lon":-71.633333},{"id":406069,"name":"coyhaique alto","country":"cl","lat":-45.483333,"lon":-71.6},{"id":406584,"name":"farellon","country":"cl","lat":-45.466667,"lon":-72.266667},{"id":409054,"name":"seccion tapera","country":"cl","lat":-44.65,"lon":-71.75}]

@@ -1,0 +1,1 @@
+[{"id":2097526,"name":"pulpulo","country":"pg","lat":-6.0166667,"lon":151.0333333},{"id":2095352,"name":"meninga","country":"pg","lat":-6.0,"lon":151.05},{"id":2095149,"name":"massua","country":"pg","lat":-6.0,"lon":151.0666667},{"id":2088185,"name":"awul","country":"pg","lat":-6.0166667,"lon":151.0}]

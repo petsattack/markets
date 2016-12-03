@@ -1,0 +1,1 @@
+[{"id":348663,"name":"kawene","country":"ca","lat":48.75,"lon":-91.2},{"id":2971963,"name":"prairie portage","country":"us","lat":48.0508333,"lon":-91.4386111},{"id":351191,"name":"steep rock lake","country":"ca","lat":48.833333,"lon":-91.666667},{"id":346519,"name":"atikokan","country":"ca","lat":48.75,"lon":-91.616667}]

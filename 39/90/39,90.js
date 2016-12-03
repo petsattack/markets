@@ -1,0 +1,1 @@
+[{"id":511754,"name":"koxlangza","country":"cn","lat":39.95,"lon":90.766667},{"id":427022,"name":"baxka�ora�an","country":"cn","lat":39.066667,"lon":90.083333}]

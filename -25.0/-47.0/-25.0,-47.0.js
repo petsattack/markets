@@ -1,1 +1,0 @@
-[{"id":328419,"name":"vila barra de icapara","country":"br","lat":-24.683333,"lon":-47.466667},{"id":311775,"name":"porto do prelado","country":"br","lat":-24.616667,"lon":-47.3}]

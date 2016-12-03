@@ -1,0 +1,1 @@
+[{"id":1539343,"name":"nishi-uedomari","country":"jp","lat":45.416667,"lon":140.983333}]

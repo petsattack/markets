@@ -1,1 +1,0 @@
-[{"id":289305,"name":"bandeirantes","country":"br","lat":-13.683333,"lon":-50.8},{"id":295051,"name":"cocalinho","country":"br","lat":-14.366667,"lon":-51.0}]

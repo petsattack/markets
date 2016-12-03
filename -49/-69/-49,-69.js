@@ -1,0 +1,1 @@
+[{"id":130256,"name":"estancia el chonque","country":"ar","lat":-49.418997,"lon":-69.656383},{"id":129403,"name":"corpen","country":"ar","lat":-49.583333,"lon":-69.5}]

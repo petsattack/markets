@@ -1,0 +1,1 @@
+[{"id":2049698,"name":"pukeuri junction","country":"nz","lat":-45.033333,"lon":171.033333},{"id":2049804,"name":"richmond","country":"nz","lat":-45.016667,"lon":171.05}]

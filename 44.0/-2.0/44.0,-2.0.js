@@ -1,1 +1,0 @@
-[{"id":926384,"name":"chambre-d\u0027amour","country":"fr","lat":43.5,"lon":-1.533333},{"id":944960,"name":"larmagnan","country":"fr","lat":43.505556,"lon":-1.5},{"id":943102,"name":"la hargouette","country":"fr","lat":43.515704,"lon":-1.503761},{"id":921793,"name":"blanc-pignon","country":"fr","lat":43.509359,"lon":-1.501837}]

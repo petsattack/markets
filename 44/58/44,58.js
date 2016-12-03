@@ -1,0 +1,1 @@
+[{"id":3053661,"name":"komsomol\u0027sk-na-ustyurte","country":"uz","lat":44.1666667,"lon":58.25},{"id":3052678,"name":"kabanbay","country":"uz","lat":44.2333333,"lon":58.2666667}]

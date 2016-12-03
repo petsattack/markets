@@ -1,0 +1,1 @@
+[{"id":1653638,"name":"ulanbel","country":"kz","lat":44.827778,"lon":71.132222},{"id":1648622,"name":"malyye kamkaly","country":"kz","lat":44.742222,"lon":71.51}]

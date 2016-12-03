@@ -1,0 +1,1 @@
+[{"id":2653879,"name":"ceel dhahanaan","country":"so","lat":6.5833333,"lon":49.1333333},{"id":2655251,"name":"garda","country":"so","lat":6.95,"lon":49.3166667},{"id":2654700,"name":"el badur","country":"so","lat":6.4166667,"lon":49.0833333}]

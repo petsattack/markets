@@ -1,0 +1,1 @@
+[{"id":1850495,"name":"nbak","country":"mr","lat":17.25,"lon":-14.9833333},{"id":1849938,"name":"boutilimit","country":"mr","lat":17.55,"lon":-14.7}]

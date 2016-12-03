@@ -1,0 +1,1 @@
+[{"id":348342,"name":"happy valley","country":"ca","lat":53.3,"lon":-60.3},{"id":348183,"name":"goose bay","country":"ca","lat":53.333333,"lon":-60.416667},{"id":349750,"name":"north west river","country":"ca","lat":53.533333,"lon":-60.15}]

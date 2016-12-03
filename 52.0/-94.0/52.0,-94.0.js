@@ -1,1 +1,0 @@
-[{"id":350002,"name":"pikangikum","country":"ca","lat":51.816667,"lon":-94.0},{"id":350091,"name":"poplar hill","country":"ca","lat":52.1,"lon":-94.3}]

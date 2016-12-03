@@ -1,1 +1,0 @@
-[{"id":347928,"name":"foleyet","country":"ca","lat":48.25,"lon":-82.433333},{"id":348285,"name":"groundhog river","country":"ca","lat":48.133333,"lon":-82.266667},{"id":348163,"name":"gogama","country":"ca","lat":47.666667,"lon":-81.716667},{"id":351401,"name":"tionaga","country":"ca","lat":48.083333,"lon":-82.1}]

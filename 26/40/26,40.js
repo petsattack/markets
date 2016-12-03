@@ -1,0 +1,1 @@
+[{"id":2579949,"name":"zurayghit","country":"sa","lat":26.483333,"lon":40.55},{"id":2577974,"name":"hayat","country":"sa","lat":26.15,"lon":40.6},{"id":2579102,"name":"raudh","country":"sa","lat":26.159573,"lon":40.636896},{"id":2579603,"name":"tharghad","country":"sa","lat":26.533333,"lon":40.483333}]

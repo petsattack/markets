@@ -1,0 +1,1 @@
+[{"id":131504,"name":"la ensenada","country":"ar","lat":-41.166667,"lon":-63.466667},{"id":131647,"name":"la loberia","country":"ar","lat":-41.15,"lon":-63.166667}]

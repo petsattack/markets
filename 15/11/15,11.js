@@ -1,0 +1,1 @@
+[{"id":1977501,"name":"termit-kaoboul","country":"ne","lat":15.6352778,"lon":11.5163889}]

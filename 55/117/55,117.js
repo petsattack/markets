@@ -1,0 +1,1 @@
+[{"id":2523925,"name":"sredne kalarski","country":"ru","lat":55.866667,"lon":117.366667}]

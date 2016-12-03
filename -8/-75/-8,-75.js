@@ -1,0 +1,1 @@
+[{"id":2067735,"name":"david","country":"pe","lat":-8.3,"lon":-75.6833333},{"id":2079710,"name":"puerto bolivar","country":"pe","lat":-8.3166667,"lon":-75.3},{"id":2072635,"name":"jerico","country":"pe","lat":-8.2833333,"lon":-75.0}]

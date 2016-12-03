@@ -1,0 +1,1 @@
+[{"id":2681900,"name":"turaq al kammunat","country":"sy","lat":33.8055556,"lon":39.4361111},{"id":2674629,"name":"khirbat ra\u0027s al wa`r","country":"sy","lat":33.8805556,"lon":39.5188889}]

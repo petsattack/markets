@@ -1,0 +1,1 @@
+[{"id":311792,"name":"porto dos gauchos","country":"br","lat":-11.483333,"lon":-57.366667},{"id":312222,"name":"pouso alegre","country":"br","lat":-11.733333,"lon":-57.316667}]

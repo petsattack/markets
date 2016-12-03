@@ -1,0 +1,1 @@
+[{"id":151627,"name":"berlino","country":"au","lat":-27.6,"lon":138.583333},{"id":158303,"name":"old berlino","country":"au","lat":-27.8,"lon":138.4}]

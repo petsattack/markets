@@ -1,0 +1,1 @@
+[{"id":330037,"name":"kalkfontein","country":"bw","lat":-22.1166667,"lon":20.9},{"id":330317,"name":"olifants kloof","country":"bw","lat":-22.1833333,"lon":20.0833333},{"id":330192,"name":"mamuno","country":"bw","lat":-22.2833333,"lon":20.0333333}]

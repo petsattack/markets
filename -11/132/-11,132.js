@@ -1,0 +1,1 @@
+[{"id":157117,"name":"minjilang","country":"au","lat":-11.14825,"lon":132.577179},{"id":157675,"name":"murgenella settlement","country":"au","lat":-11.552778,"lon":132.925}]

@@ -1,0 +1,1 @@
+[{"id":2968338,"name":"huron city","country":"us","lat":44.0291667,"lon":-82.8327778},{"id":2969106,"name":"pointe aux barques","country":"us","lat":44.0630556,"lon":-82.9583333},{"id":2969121,"name":"port austin","country":"us","lat":44.0461111,"lon":-82.9941667},{"id":2968176,"name":"grind stone city","country":"us","lat":44.0502778,"lon":-82.9008333}]

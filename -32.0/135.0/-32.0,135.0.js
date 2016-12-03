@@ -1,1 +1,0 @@
-[{"id":161311,"name":"wirrulla","country":"au","lat":-32.4,"lon":134.516667},{"id":161638,"name":"yantanabie","country":"au","lat":-32.483333,"lon":134.633333}]

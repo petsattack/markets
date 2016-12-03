@@ -1,0 +1,1 @@
+[{"id":625480,"name":"xin bulag dong","country":"cn","lat":48.8,"lon":118.8},{"id":508813,"name":"kanchussu","country":"cn","lat":48.366667,"lon":118.116667},{"id":419871,"name":"amukulang","country":"cn","lat":48.25,"lon":118.2}]

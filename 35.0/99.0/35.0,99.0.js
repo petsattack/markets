@@ -1,1 +1,0 @@
-[{"id":615341,"name":"xia dawo","country":"cn","lat":35.0,"lon":99.233333},{"id":434555,"name":"changmaho","country":"cn","lat":34.55,"lon":99.3},{"id":539632,"name":"miancaowan","country":"cn","lat":35.25,"lon":98.9},{"id":495771,"name":"huashixia","country":"cn","lat":35.116667,"lon":98.8}]

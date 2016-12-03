@@ -1,0 +1,1 @@
+[{"id":2912492,"name":"port san juan","country":"us","lat":60.0508333,"lon":-148.0675},{"id":2912479,"name":"port ashton","country":"us","lat":60.0575,"lon":-148.0522222},{"id":2912071,"name":"chenega bay","country":"us","lat":60.0633333,"lon":-148.0113889},{"id":2912638,"name":"whittier","country":"us","lat":60.7730556,"lon":-148.6838889}]

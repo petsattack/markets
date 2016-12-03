@@ -1,1 +1,0 @@
-[{"id":2546887,"name":"ust-yuribey","country":"ru","lat":68.9,"lon":69.5}]

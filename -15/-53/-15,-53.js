@@ -1,0 +1,1 @@
+[{"id":290155,"name":"batovi","country":"br","lat":-15.883333,"lon":-53.4},{"id":295344,"name":"colonia merure","country":"br","lat":-15.55,"lon":-53.083333},{"id":312396,"name":"presidente murtinho","country":"br","lat":-15.65,"lon":-53.9},{"id":295321,"name":"colonia dos tachos","country":"br","lat":-15.55,"lon":-53.0}]

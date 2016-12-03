@@ -1,0 +1,1 @@
+[{"id":2588217,"name":"hamrat esh sheikh","country":"sd","lat":14.5833333,"lon":27.9666667},{"id":2593538,"name":"umm qawzayn","country":"sd","lat":14.2833333,"lon":27.2166667},{"id":2593210,"name":"umm badr","country":"sd","lat":14.2333333,"lon":27.95}]

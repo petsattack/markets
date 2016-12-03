@@ -1,0 +1,1 @@
+[{"id":2563346,"name":"yemel-ustye","country":"ru","lat":63.616667,"lon":58.4},{"id":2536323,"name":"timenka","country":"ru","lat":63.7,"lon":58.1},{"id":2567324,"name":"zalazdibozh","country":"ru","lat":63.783333,"lon":58.1},{"id":2411953,"name":"kamchatka","country":"ru","lat":63.716667,"lon":58.116667}]

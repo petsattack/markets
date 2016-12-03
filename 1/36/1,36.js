@@ -1,0 +1,1 @@
+[{"id":1546725,"name":"baragoli","country":"ke","lat":1.7833333,"lon":36.7833333},{"id":1547719,"name":"karpedo","country":"ke","lat":1.1666667,"lon":36.1},{"id":1548725,"name":"mukawa","country":"ke","lat":1.2,"lon":36.6666667},{"id":1548441,"name":"maralal","country":"ke","lat":1.1,"lon":36.7}]

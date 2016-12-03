@@ -1,0 +1,1 @@
+[{"id":121130,"name":"pinda","country":"ao","lat":-15.75,"lon":11.9},{"id":121196,"name":"porto alexandre","country":"ao","lat":-15.8,"lon":11.85},{"id":124820,"name":"santa rosa","country":"ao","lat":-15.7,"lon":11.933333}]

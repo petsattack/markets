@@ -1,1 +1,0 @@
-[{"id":3065774,"name":"la cacalona","country":"ve","lat":10.55,"lon":-64.8},{"id":3073982,"name":"punta de garambeo","country":"ve","lat":10.8833333,"lon":-65.3}]

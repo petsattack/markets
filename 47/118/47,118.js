@@ -1,0 +1,1 @@
+[{"id":1847349,"name":"tsagaannuur","country":"mn","lat":47.6166667,"lon":118.5333333},{"id":1848211,"name":"yehe burham sum","country":"mn","lat":47.8666667,"lon":118.45},{"id":1844645,"name":"halhgol","country":"mn","lat":47.9333333,"lon":118.0833333}]

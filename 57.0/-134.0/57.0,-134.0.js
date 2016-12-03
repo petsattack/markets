@@ -1,1 +1,0 @@
-[{"id":2912227,"name":"hood bay","country":"us","lat":57.3825,"lon":-134.3986111},{"id":2912507,"name":"rowan bay","country":"us","lat":56.6538889,"lon":-134.2511111},{"id":2912255,"name":"kake","country":"us","lat":56.9758333,"lon":-133.9472222}]

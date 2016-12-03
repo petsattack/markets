@@ -1,0 +1,1 @@
+[{"id":2450936,"name":"malaya tyrkanda","country":"ru","lat":57.7,"lon":127.9},{"id":2541399,"name":"turkanda","country":"ru","lat":57.8,"lon":127.9}]

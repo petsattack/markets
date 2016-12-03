@@ -1,0 +1,1 @@
+[{"id":1850357,"name":"ksar el barka","country":"mr","lat":18.4,"lon":-12.2166667}]

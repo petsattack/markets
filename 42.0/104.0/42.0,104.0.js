@@ -1,1 +1,0 @@
-[{"id":1842497,"name":"arushan fururu","country":"mn","lat":42.4666667,"lon":104.2833333},{"id":480285,"name":"har orbog","country":"cn","lat":41.755833,"lon":103.970556}]

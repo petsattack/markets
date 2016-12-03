@@ -1,0 +1,1 @@
+[{"id":131556,"name":"lago cardiel","country":"ar","lat":-48.966667,"lon":-71.4},{"id":131907,"name":"las horquetas","country":"ar","lat":-48.25512,"lon":-71.160947},{"id":135448,"name":"tucu tucu","country":"ar","lat":-48.433333,"lon":-71.85},{"id":130283,"name":"estancia llaneza","country":"ar","lat":-48.883333,"lon":-71.783333}]

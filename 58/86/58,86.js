@@ -1,0 +1,1 @@
+[{"id":2565626,"name":"yurty alipkiny","country":"ru","lat":58.683333,"lon":86.2},{"id":2559926,"name":"yagodnyy mys","country":"ru","lat":58.764722,"lon":86.073611},{"id":2449634,"name":"makimoyarovskoe","country":"ru","lat":58.671389,"lon":86.806944}]

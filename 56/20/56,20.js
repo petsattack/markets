@@ -1,0 +1,1 @@
+[{"id":1733462,"name":"yurmaltsiems","country":"lv","lat":56.3,"lon":20.9666667},{"id":1727550,"name":"klampjuciems","country":"lv","lat":56.35,"lon":20.9666667},{"id":1727114,"name":"jurmali","country":"lv","lat":56.3333333,"lon":20.9833333},{"id":1725218,"name":"bernate","country":"lv","lat":56.3833333,"lon":20.9833333}]

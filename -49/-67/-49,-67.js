@@ -1,0 +1,1 @@
+[{"id":130284,"name":"estancia l. lorenzo","country":"ar","lat":-49.05,"lon":-67.583333},{"id":133922,"name":"puerto san julian","country":"ar","lat":-49.305541,"lon":-67.727432}]

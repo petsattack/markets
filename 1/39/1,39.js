@@ -1,0 +1,1 @@
+[{"id":1549248,"name":"saricho","country":"ke","lat":1.0833333,"lon":39.0833333},{"id":1547273,"name":"habaswein","country":"ke","lat":1.0091667,"lon":39.4880556},{"id":1547200,"name":"giriftu","country":"ke","lat":1.9913889,"lon":39.7644444}]

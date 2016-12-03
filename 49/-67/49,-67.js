@@ -1,0 +1,1 @@
+[{"id":348160,"name":"godbout","country":"ca","lat":49.316667,"lon":-67.6},{"id":350054,"name":"pointe-aux-anglais","country":"ca","lat":49.666667,"lon":-67.166667},{"id":346558,"name":"baie-de-la-trinite","country":"ca","lat":49.416667,"lon":-67.316667},{"id":350413,"name":"riviere-pentecote","country":"ca","lat":49.783333,"lon":-67.166667}]

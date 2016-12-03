@@ -1,1 +1,0 @@
-[{"id":1645321,"name":"kak taylyak-dyuzgun","country":"kz","lat":45.916667,"lon":75.666667}]

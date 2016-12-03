@@ -1,0 +1,1 @@
+[{"id":2912441,"name":"old valdez","country":"us","lat":61.1158333,"lon":-146.2663889},{"id":2912395,"name":"nelchina","country":"us","lat":61.9919444,"lon":-146.7686111},{"id":2912620,"name":"valdez","country":"us","lat":61.1308333,"lon":-146.3483333}]

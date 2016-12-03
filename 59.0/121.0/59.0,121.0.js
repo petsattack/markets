@@ -1,1 +1,0 @@
-[{"id":2404127,"name":"grishko","country":"ru","lat":59.316667,"lon":121.4},{"id":2395902,"name":"evenki","country":"ru","lat":59.47,"lon":121.316944},{"id":2540801,"name":"tukulapiterde","country":"ru","lat":58.616667,"lon":120.633333},{"id":2546920,"name":"usun-chemis","country":"ru","lat":58.533333,"lon":120.583333}]

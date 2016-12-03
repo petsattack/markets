@@ -1,0 +1,1 @@
+[{"id":1977630,"name":"timoumenine","country":"ne","lat":16.8488889,"lon":6.8677778},{"id":1974099,"name":"ingal","country":"ne","lat":16.7861111,"lon":6.9336111},{"id":1974122,"name":"i-n-ouagar","country":"ne","lat":16.1183333,"lon":6.6808333},{"id":1976181,"name":"nakonawa sami","country":"ne","lat":16.8,"lon":6.0666667}]

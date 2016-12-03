@@ -1,1 +1,0 @@
-[{"id":1874708,"name":"el refugio","country":"mx","lat":28.483333,"lon":-111.516667},{"id":1871958,"name":"el embudo","country":"mx","lat":28.45,"lon":-111.533333}]

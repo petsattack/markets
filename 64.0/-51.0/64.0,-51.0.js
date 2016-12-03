@@ -1,1 +1,0 @@
-[{"id":1028516,"name":"umanak","country":"gl","lat":64.4833333,"lon":-50.7833333},{"id":1028398,"name":"qingua","country":"gl","lat":64.2666667,"lon":-50.9},{"id":1028089,"name":"igdlunguaq","country":"gl","lat":64.25,"lon":-50.9666667},{"id":1028542,"name":"utorqarmiut","country":"gl","lat":63.8,"lon":-51.4666667}]

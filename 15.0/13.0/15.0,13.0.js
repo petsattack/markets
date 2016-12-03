@@ -1,1 +1,0 @@
-[{"id":1976256,"name":"n\u0027gourty","country":"ne","lat":15.3308333,"lon":13.2005556},{"id":1975120,"name":"koullele","country":"ne","lat":15.2833333,"lon":13.4},{"id":1975836,"name":"maut","country":"ne","lat":15.05,"lon":13.3}]

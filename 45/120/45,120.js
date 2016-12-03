@@ -1,0 +1,1 @@
+[{"id":478989,"name":"hajihnula","country":"cn","lat":45.616667,"lon":120.066667},{"id":613131,"name":"wulanhuta","country":"cn","lat":45.283333,"lon":120.55},{"id":427110,"name":"bayart huxu","country":"cn","lat":45.1,"lon":120.35},{"id":602788,"name":"tule mod","country":"cn","lat":45.55,"lon":120.866667},{"id":624745,"name":"xi jirem","country":"cn","lat":45.6,"lon":120.6}]

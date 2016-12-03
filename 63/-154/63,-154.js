@@ -1,0 +1,1 @@
+[{"id":2912355,"name":"medfra","country":"us","lat":63.1066667,"lon":-154.7141667},{"id":2912410,"name":"nikolai","country":"us","lat":63.0133333,"lon":-154.375}]

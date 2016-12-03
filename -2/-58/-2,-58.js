@@ -1,0 +1,1 @@
+[{"id":301923,"name":"itapeacu","country":"br","lat":-2.967778,"lon":-58.058056},{"id":302036,"name":"itaporanga","country":"br","lat":-2.666667,"lon":-58.023889},{"id":291392,"name":"bras","country":"br","lat":-2.083333,"lon":-58.166667},{"id":317805,"name":"silves","country":"br","lat":-2.838056,"lon":-58.2125}]

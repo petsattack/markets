@@ -1,1 +1,0 @@
-[{"id":671361,"name":"kiniquiari","country":"co","lat":2.213974,"lon":-71.457076},{"id":680487,"name":"puerto macaco","country":"co","lat":2.0,"lon":-71.05},{"id":681056,"name":"recreo","country":"co","lat":1.516667,"lon":-70.533333},{"id":677704,"name":"morichal","country":"co","lat":2.166667,"lon":-70.566667}]

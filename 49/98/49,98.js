@@ -1,0 +1,1 @@
+[{"id":1846847,"name":"sharga","country":"mn","lat":49.4591667,"lon":98.6566667},{"id":1844021,"name":"dordogoy\u0027iin hurie","country":"mn","lat":49.85,"lon":98.6333333},{"id":1847384,"name":"tsagaan uula sumu","country":"mn","lat":49.8,"lon":98.8},{"id":1844067,"name":"dulain khure","country":"mn","lat":49.3,"lon":98.8}]

@@ -1,0 +1,1 @@
+[{"id":350993,"name":"shelter bay","country":"ca","lat":50.016667,"lon":-66.866667},{"id":349456,"name":"moisie","country":"ca","lat":50.183333,"lon":-66.1},{"id":350951,"name":"sept-iles","country":"ca","lat":50.2,"lon":-66.383333},{"id":347280,"name":"clarke city","country":"ca","lat":50.183333,"lon":-66.633333}]

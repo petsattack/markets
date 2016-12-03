@@ -1,0 +1,1 @@
+[{"id":1976854,"name":"seguedine","country":"ne","lat":20.1919444,"lon":12.9675},{"id":1972076,"name":"drigana","country":"ne","lat":20.8,"lon":12.4333333},{"id":1976799,"name":"sara","country":"ne","lat":20.7666667,"lon":12.4666667},{"id":1971127,"name":"chirfa","country":"ne","lat":20.9533333,"lon":12.3405556}]

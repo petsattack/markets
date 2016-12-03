@@ -1,0 +1,1 @@
+[{"id":2585779,"name":"bo river","country":"sd","lat":6.8,"lon":27.9166667},{"id":2591662,"name":"raffili mission","country":"sd","lat":6.8833333,"lon":27.9666667},{"id":2589313,"name":"khogali","country":"sd","lat":6.1333333,"lon":27.7833333},{"id":2591664,"name":"rafili","country":"sd","lat":6.85,"lon":27.9833333}]

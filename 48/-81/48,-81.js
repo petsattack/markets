@@ -1,0 +1,1 @@
+[{"id":351399,"name":"timmins","country":"ca","lat":48.466667,"lon":-81.333333},{"id":347665,"name":"dugwal","country":"ca","lat":48.583333,"lon":-81.016667},{"id":351124,"name":"south porcupine","country":"ca","lat":48.466667,"lon":-81.2},{"id":350912,"name":"schumacher","country":"ca","lat":48.466667,"lon":-81.283333}]

@@ -1,0 +1,1 @@
+[{"id":2822840,"name":"sarikum","country":"tr","lat":42.023611,"lon":34.921944},{"id":2790792,"name":"fidanlik","country":"tr","lat":42.006023,"lon":34.986842},{"id":2808703,"name":"kizilabali","country":"tr","lat":42.025659,"lon":34.97982}]

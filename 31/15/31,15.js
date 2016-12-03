@@ -1,0 +1,1 @@
+[{"id":1734306,"name":"bu gren","country":"ly","lat":31.45,"lon":15.25},{"id":1734300,"name":"buerat al-hsun","country":"ly","lat":31.4,"lon":15.7333333},{"id":1734681,"name":"gheddahia","country":"ly","lat":31.3666667,"lon":15.2333333},{"id":1734499,"name":"el hescia","country":"ly","lat":31.65,"lon":15.2833333}]

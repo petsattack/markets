@@ -1,0 +1,1 @@
+[{"id":816941,"name":"i-n-tifar","country":"dz","lat":23.5,"lon":6.3},{"id":813411,"name":"bloumet","country":"dz","lat":23.45,"lon":6.1},{"id":821513,"name":"tazrouk","country":"dz","lat":23.4163889,"lon":6.2641667},{"id":821719,"name":"tiokine","country":"dz","lat":23.4333333,"lon":6.1333333}]

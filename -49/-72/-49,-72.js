@@ -1,0 +1,1 @@
+[{"id":131562,"name":"lago san martin","country":"ar","lat":-49.15,"lon":-72.066667},{"id":133984,"name":"punta de lago","country":"ar","lat":-49.594142,"lon":-72.056629},{"id":131563,"name":"lago viedma","country":"ar","lat":-49.8,"lon":-72.116667}]

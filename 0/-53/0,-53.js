@@ -1,0 +1,1 @@
+[{"id":287958,"name":"arere","country":"br","lat":-0.266667,"lon":-53.866667},{"id":296698,"name":"descoberta","country":"br","lat":0.45,"lon":-53.283333},{"id":326533,"name":"terceiro acampamento","country":"br","lat":0.75,"lon":-53.1},{"id":286063,"name":"acampamento grande","country":"br","lat":0.3,"lon":-53.066667}]

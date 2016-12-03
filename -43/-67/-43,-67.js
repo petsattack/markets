@@ -1,0 +1,1 @@
+[{"id":129907,"name":"el mirasol","country":"ar","lat":-43.2665,"lon":-67.75935},{"id":135014,"name":"sierra rosada","country":"ar","lat":-43.116667,"lon":-67.333333},{"id":131983,"name":"las plumas","country":"ar","lat":-43.72058,"lon":-67.283192}]

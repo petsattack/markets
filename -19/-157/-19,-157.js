@@ -1,0 +1,1 @@
+[{"id":404905,"name":"mangarei village","country":"ck","lat":-19.6972222,"lon":-157.7166667},{"id":404914,"name":"nukatere","country":"ck","lat":-19.8166667,"lon":-157.7166667}]

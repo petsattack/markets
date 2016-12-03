@@ -1,1 +1,0 @@
-[{"id":307412,"name":"mundurucus","country":"br","lat":-4.783333,"lon":-58.266667},{"id":309858,"name":"pedra do barco","country":"br","lat":-4.916667,"lon":-58.033333},{"id":325881,"name":"taboleiro","country":"br","lat":-5.083333,"lon":-58.466667},{"id":310534,"name":"pindoral","country":"br","lat":-4.516667,"lon":-57.5}]

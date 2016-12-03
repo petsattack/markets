@@ -1,1 +1,0 @@
-[{"id":2437548,"name":"kuleyevo","country":"ru","lat":59.65,"lon":80.966667},{"id":2565639,"name":"yurty chiginy","country":"ru","lat":59.716667,"lon":81.233333},{"id":2565708,"name":"yurty nyuyegutskiye","country":"ru","lat":59.720278,"lon":80.647778},{"id":2565670,"name":"yurty kuleyskiye","country":"ru","lat":59.783333,"lon":80.983333}]

@@ -1,1 +1,0 @@
-[{"id":904010,"name":"koikkiniva","country":"fi","lat":69.35,"lon":25.75},{"id":2039605,"name":"karasjok","country":"no","lat":69.45,"lon":25.5},{"id":907136,"name":"niittyvuopio","country":"fi","lat":69.4,"lon":25.833333},{"id":907722,"name":"paadari","country":"fi","lat":68.75,"lon":26.45},{"id":899958,"name":"angeli","country":"fi","lat":68.916667,"lon":25.65}]

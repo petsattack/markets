@@ -1,0 +1,1 @@
+[{"id":2040889,"name":"litlehaan","country":"no","lat":57.983333,"lon":7.1},{"id":2036854,"name":"farestad","country":"no","lat":57.983333,"lon":7.533333},{"id":2046153,"name":"vaage","country":"no","lat":57.983333,"lon":7.05}]

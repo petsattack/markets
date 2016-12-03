@@ -1,1 +1,0 @@
-[{"id":1779616,"name":"andranomangatsiaka","country":"mg","lat":-19.6666667,"lon":49.7333333},{"id":1779983,"name":"andrefantsena","country":"mg","lat":-19.7166667,"lon":49.6333333}]

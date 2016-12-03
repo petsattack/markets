@@ -1,1 +1,0 @@
-[{"id":1796085,"name":"abeibara","country":"ml","lat":19.1166667,"lon":1.75}]

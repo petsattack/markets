@@ -1,1 +1,0 @@
-[{"id":1079315,"name":"black rock","country":"hn","lat":16.5166667,"lon":-85.8833333},{"id":1080909,"name":"east end","country":"hn","lat":16.5,"lon":-85.8666667},{"id":1088230,"name":"pocalis","country":"hn","lat":16.5,"lon":-85.9166667}]

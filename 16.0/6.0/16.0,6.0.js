@@ -1,1 +1,0 @@
-[{"id":1977426,"name":"tchin-tabaradene","country":"ne","lat":15.8869444,"lon":5.7766667}]

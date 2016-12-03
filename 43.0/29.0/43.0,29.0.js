@@ -1,1 +1,0 @@
-[{"id":260129,"name":"syurtyu k\u0027oy","country":"bg","lat":43.4166667,"lon":28.5166667},{"id":259789,"name":"stunka","country":"bg","lat":43.45,"lon":28.55},{"id":261173,"name":"tyulenovo","country":"bg","lat":43.4833333,"lon":28.5833333},{"id":254834,"name":"monastir stant nicolae","country":"bg","lat":43.4333333,"lon":28.5}]

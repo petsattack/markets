@@ -1,0 +1,1 @@
+[{"id":349880,"name":"pacquet","country":"ca","lat":50.0,"lon":-55.866667},{"id":347364,"name":"conche","country":"ca","lat":50.9,"lon":-55.9},{"id":348492,"name":"horse islands","country":"ca","lat":50.2,"lon":-55.733333},{"id":348266,"name":"grey islands harbour","country":"ca","lat":50.716667,"lon":-55.6}]

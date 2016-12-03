@@ -1,0 +1,1 @@
+[{"id":1007826,"name":"krasnyy mayak","country":"ge","lat":42.9841667,"lon":40.9719444}]

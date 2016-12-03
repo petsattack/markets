@@ -1,1 +1,0 @@
-[{"id":2493019,"name":"polikarpovskoye","country":"ru","lat":70.409722,"lon":82.669167},{"id":2447484,"name":"lukinskoye","country":"ru","lat":70.4,"lon":82.633333},{"id":2413821,"name":"karaui","country":"ru","lat":70.076667,"lon":83.191389},{"id":2537543,"name":"tolstyy nos","country":"ru","lat":70.116667,"lon":83.183333}]

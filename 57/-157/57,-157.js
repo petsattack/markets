@@ -1,0 +1,1 @@
+[{"id":2912609,"name":"ugashik","country":"us","lat":57.5130556,"lon":-157.3975},{"id":2912464,"name":"pilot point","country":"us","lat":57.5641667,"lon":-157.5791667}]

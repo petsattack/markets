@@ -1,1 +1,0 @@
-[{"id":2912553,"name":"standard","country":"us","lat":64.7808333,"lon":-148.5297222},{"id":2912438,"name":"old minto","country":"us","lat":64.8872222,"lon":-149.1747222},{"id":2912420,"name":"north nenana","country":"us","lat":64.5788889,"lon":-149.1138889},{"id":2912397,"name":"nenana","country":"us","lat":64.5638889,"lon":-149.0930556}]

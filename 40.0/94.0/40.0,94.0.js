@@ -1,1 +1,0 @@
-[{"id":645405,"name":"yumenkuan","country":"cn","lat":40.333333,"lon":93.816667},{"id":486479,"name":"houkeng","country":"cn","lat":40.366667,"lon":93.683333},{"id":575558,"name":"shatsaoyuan","country":"cn","lat":39.966667,"lon":94.366667},{"id":544751,"name":"nankhu","country":"cn","lat":39.883333,"lon":94.183333}]

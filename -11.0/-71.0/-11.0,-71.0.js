@@ -1,1 +1,0 @@
-[{"id":2079733,"name":"puerto ceticayo","country":"pe","lat":-11.3,"lon":-71.1},{"id":2079779,"name":"puerto esperanza","country":"pe","lat":-11.35,"lon":-70.9166667}]

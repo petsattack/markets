@@ -1,0 +1,1 @@
+[{"id":3015745,"name":"recio","country":"us","lat":17.9736111,"lon":-65.9586111},{"id":3015474,"name":"lamboglia","country":"us","lat":17.9833333,"lon":-65.9861111},{"id":3015336,"name":"hacienda san isidoro","country":"us","lat":17.9797222,"lon":-65.9727778},{"id":3015716,"name":"puerto maunabo","country":"us","lat":17.9941667,"lon":-65.8880556}]

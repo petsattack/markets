@@ -1,0 +1,1 @@
+[{"id":1968794,"name":"talismanis","country":"na","lat":-21.8333333,"lon":20.75},{"id":1967015,"name":"fort rietfontein","country":"na","lat":-21.9,"lon":20.9166667}]

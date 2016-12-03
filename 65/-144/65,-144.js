@@ -1,0 +1,1 @@
+[{"id":2912057,"name":"central","country":"us","lat":65.5725,"lon":-144.8030556},{"id":2912091,"name":"circle hot springs station","country":"us","lat":65.4702778,"lon":-144.6891667},{"id":2912089,"name":"circle","country":"us","lat":65.8255556,"lon":-144.0605556},{"id":2912090,"name":"circle hot springs","country":"us","lat":65.4833333,"lon":-144.6341667}]

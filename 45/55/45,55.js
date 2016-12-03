@@ -1,0 +1,1 @@
+[{"id":1651075,"name":"sam vtoroy","country":"kz","lat":45.233333,"lon":55.866667},{"id":1642861,"name":"beyneu 1","country":"kz","lat":45.316667,"lon":55.2},{"id":1641698,"name":"aqzhigit","country":"kz","lat":45.083333,"lon":55.616667},{"id":1642621,"name":"beineu","country":"kz","lat":45.183333,"lon":55.1}]

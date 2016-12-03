@@ -1,0 +1,1 @@
+[{"id":408479,"name":"puerto bertrand","country":"cl","lat":-47.033333,"lon":-72.816667},{"id":405865,"name":"cochrane","country":"cl","lat":-47.266667,"lon":-72.55},{"id":130111,"name":"el volcan","country":"ar","lat":-47.883333,"lon":-72.2}]

@@ -1,0 +1,1 @@
+[{"id":2518810,"name":"sitkovskiy stanok","country":"ru","lat":69.177778,"lon":85.921667},{"id":2444382,"name":"levinskiy","country":"ru","lat":69.473056,"lon":85.995},{"id":2537026,"name":"tochino","country":"ru","lat":69.759444,"lon":85.098889}]

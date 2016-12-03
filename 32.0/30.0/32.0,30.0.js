@@ -1,1 +1,0 @@
-[{"id":852520,"name":"sakn el-`aiyash el-gharbi","country":"eg","lat":31.5333333,"lon":30.1833333}]

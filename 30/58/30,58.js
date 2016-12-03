@@ -1,0 +1,1 @@
+[{"id":1464641,"name":"pashu\u0027iyeh","country":"ir","lat":30.037041,"lon":58.050978},{"id":1422892,"name":"gozargah-e emam","country":"ir","lat":30.290278,"lon":58.014722},{"id":1433014,"name":"kahnuj shah","country":"ir","lat":30.085278,"lon":58.044167},{"id":1460444,"name":"nejafabad","country":"ir","lat":30.383333,"lon":58.033333}]

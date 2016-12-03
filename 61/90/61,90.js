@@ -1,0 +1,1 @@
+[{"id":2491257,"name":"podkamennaya tunguska","country":"ru","lat":61.599167,"lon":90.123611}]

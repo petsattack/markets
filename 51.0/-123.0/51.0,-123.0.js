@@ -1,1 +1,0 @@
-[{"id":346891,"name":"bralorne","country":"ca","lat":50.783333,"lon":-122.816667},{"id":348166,"name":"gold bridge","country":"ca","lat":50.85,"lon":-122.85}]

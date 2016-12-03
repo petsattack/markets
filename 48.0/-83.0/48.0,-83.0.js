@@ -1,1 +1,0 @@
-[{"id":349627,"name":"nemegos","country":"ca","lat":47.716667,"lon":-83.2},{"id":351254,"name":"sultan","country":"ca","lat":47.583333,"lon":-82.766667},{"id":347195,"name":"chapleau","country":"ca","lat":47.833333,"lon":-83.4}]

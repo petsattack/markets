@@ -1,0 +1,1 @@
+[{"id":1848015,"name":"ultszeytu bulagiin khid","country":"mn","lat":45.4666667,"lon":98.2333333},{"id":1842948,"name":"bayantsagaan","country":"mn","lat":45.0,"lon":98.9166667},{"id":1847032,"name":"sumeyn khid","country":"mn","lat":45.1666667,"lon":98.9833333}]

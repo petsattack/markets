@@ -1,0 +1,1 @@
+[{"id":1847462,"name":"tsagan-ulyn-sume","country":"mn","lat":41.9833333,"lon":103.25},{"id":480285,"name":"har orbog","country":"cn","lat":41.755833,"lon":103.970556},{"id":463114,"name":"enkojihwusu","country":"cn","lat":41.183333,"lon":103.833333}]

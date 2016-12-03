@@ -1,1 +1,0 @@
-[{"id":1028463,"name":"sondre stromfjord","country":"gl","lat":67.0,"lon":-50.7},{"id":1028032,"name":"camp lloyd","country":"gl","lat":66.9833333,"lon":-50.9333333}]

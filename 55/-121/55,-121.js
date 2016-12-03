@@ -1,0 +1,1 @@
+[{"id":347715,"name":"east pine","country":"ca","lat":55.716667,"lon":-121.183333},{"id":349037,"name":"little prairie","country":"ca","lat":55.7,"lon":-121.616667},{"id":349451,"name":"moberly lake","country":"ca","lat":55.833333,"lon":-121.733333}]

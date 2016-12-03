@@ -1,0 +1,1 @@
+[{"id":1807315,"name":"ti-n-essako","country":"ml","lat":18.4491667,"lon":2.4933333}]

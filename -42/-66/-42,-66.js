@@ -1,0 +1,1 @@
+[{"id":135005,"name":"sierra chata","country":"ar","lat":-42.75,"lon":-66.0},{"id":128833,"name":"chasico","country":"ar","lat":-42.822404,"lon":-66.810349},{"id":129876,"name":"el hunco","country":"ar","lat":-42.35,"lon":-66.2},{"id":135244,"name":"telsen","country":"ar","lat":-42.435534,"lon":-66.940775}]

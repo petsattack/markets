@@ -1,0 +1,1 @@
+[{"id":508414,"name":"kaho","country":"cn","lat":38.8,"lon":97.633333},{"id":480293,"name":"hasafen","country":"cn","lat":38.8,"lon":97.733333},{"id":456613,"name":"diguojiadang","country":"cn","lat":38.8,"lon":97.866667},{"id":546697,"name":"naokocha","country":"cn","lat":38.633333,"lon":97.083333},{"id":508420,"name":"kaibamardang","country":"cn","lat":38.8,"lon":97.75}]

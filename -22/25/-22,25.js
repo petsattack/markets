@@ -1,0 +1,1 @@
+[{"id":330333,"name":"papascheem","country":"bw","lat":-22.3166667,"lon":25.9},{"id":330255,"name":"mokatani","country":"bw","lat":-22.15,"lon":25.8666667}]

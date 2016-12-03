@@ -1,0 +1,1 @@
+[{"id":2425856,"name":"koloma","country":"ru","lat":70.25,"lon":94.716667},{"id":2539802,"name":"tsapka-layda","country":"ru","lat":70.416667,"lon":94.983333},{"id":2546316,"name":"ust-namakan","country":"ru","lat":70.616667,"lon":94.983333},{"id":2555980,"name":"volosyanka","country":"ru","lat":70.966667,"lon":94.566667}]

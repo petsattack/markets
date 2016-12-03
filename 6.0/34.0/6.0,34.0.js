@@ -1,1 +1,0 @@
-[{"id":2593005,"name":"towot","country":"sd","lat":6.2,"lon":34.4166667},{"id":2586231,"name":"didi","country":"sd","lat":6.3,"lon":34.4833333}]

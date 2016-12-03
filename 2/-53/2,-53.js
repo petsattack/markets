@@ -1,0 +1,1 @@
+[{"id":1012257,"name":"degrad claude","country":"gf","lat":2.8833333,"lon":-53.0833333},{"id":1012302,"name":"degrad reinald","country":"gf","lat":2.9166667,"lon":-53.2833333},{"id":1012276,"name":"degrad haut camopi","country":"gf","lat":2.5,"lon":-53.0666667},{"id":1012644,"name":"roche chapeau","country":"gf","lat":2.9833333,"lon":-53.3166667}]

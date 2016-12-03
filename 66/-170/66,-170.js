@@ -1,0 +1,1 @@
+[{"id":2407717,"name":"inchoun","country":"ru","lat":66.3,"lon":-170.283333},{"id":2459992,"name":"mitkulino","country":"ru","lat":66.333333,"lon":-170.533333},{"id":2395682,"name":"enmytagyn","country":"ru","lat":66.35,"lon":-170.566667},{"id":2546988,"name":"uten","country":"ru","lat":66.383333,"lon":-170.6}]

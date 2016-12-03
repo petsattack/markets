@@ -1,0 +1,1 @@
+[{"id":308020,"name":"nova vida","country":"br","lat":-3.683333,"lon":-56.666667},{"id":305645,"name":"maracajatuba","country":"br","lat":-3.416667,"lon":-56.45},{"id":294295,"name":"catauara","country":"br","lat":-3.35,"lon":-56.383333},{"id":293071,"name":"camuti","country":"br","lat":-3.65,"lon":-56.55}]

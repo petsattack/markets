@@ -1,0 +1,1 @@
+[{"id":2080121,"name":"punta grande","country":"pe","lat":-14.3333333,"lon":-76.1166667},{"id":2081492,"name":"salinas de otuma","country":"pe","lat":-14.0166667,"lon":-76.2333333},{"id":2068120,"name":"el panteon","country":"pe","lat":-14.2833333,"lon":-76.1666667},{"id":2073290,"name":"laguna grande","country":"pe","lat":-14.1333333,"lon":-76.25}]

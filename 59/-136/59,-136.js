@@ -1,0 +1,1 @@
+[{"id":2912109,"name":"covenant life","country":"us","lat":59.4172222,"lon":-136.025},{"id":2912375,"name":"mosquito lake","country":"us","lat":59.5291667,"lon":-136.0911111}]

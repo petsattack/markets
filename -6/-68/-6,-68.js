@@ -1,0 +1,1 @@
+[{"id":308351,"name":"olinda","country":"br","lat":-6.433333,"lon":-68.483333},{"id":301852,"name":"itamarati","country":"br","lat":-6.4,"lon":-68.25},{"id":299966,"name":"gaviaosinho","country":"br","lat":-6.516667,"lon":-68.833333},{"id":288362,"name":"bacada","country":"br","lat":-6.316667,"lon":-68.166667}]

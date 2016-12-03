@@ -1,1 +1,0 @@
-[{"id":1966752,"name":"arandis","country":"na","lat":-22.4166667,"lon":14.9666667},{"id":1968856,"name":"uigaran","country":"na","lat":-21.5166667,"lon":15.45}]

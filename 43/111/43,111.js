@@ -1,0 +1,1 @@
+[{"id":1848198,"name":"wuteh","country":"mn","lat":43.75,"lon":111.9166667},{"id":463723,"name":"erlyan","country":"cn","lat":43.6475,"lon":111.976667},{"id":463350,"name":"eren nur","country":"cn","lat":43.333333,"lon":111.516667},{"id":419581,"name":"airgin sum","country":"cn","lat":43.2,"lon":111.433333}]

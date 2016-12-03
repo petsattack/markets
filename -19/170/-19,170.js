@@ -1,0 +1,1 @@
+[{"id":3110524,"name":"iasoa","country":"vu","lat":-19.5333333,"lon":170.2},{"id":3110949,"name":"matin\u0027gi","country":"vu","lat":-19.55,"lon":170.2166667},{"id":3110986,"name":"mohoun\u0027gha","country":"vu","lat":-19.5166667,"lon":170.2},{"id":3110556,"name":"ipao","country":"vu","lat":-19.5166667,"lon":170.2166667}]

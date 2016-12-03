@@ -1,0 +1,1 @@
+[{"id":1763742,"name":"zaouiet el khir","country":"ma","lat":28.53,"lon":-8.98},{"id":1760381,"name":"tanzida","country":"ma","lat":28.81,"lon":-8.91}]

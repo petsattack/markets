@@ -1,1 +1,0 @@
-[{"id":2966701,"name":"south truro","country":"us","lat":41.9686111,"lon":-69.0708333}]

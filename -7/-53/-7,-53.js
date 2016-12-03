@@ -1,0 +1,1 @@
+[{"id":303279,"name":"jojoca","country":"br","lat":-7.25,"lon":-53.683333},{"id":289489,"name":"barracao rio mar","country":"br","lat":-7.25,"lon":-53.7},{"id":290341,"name":"bella vista","country":"br","lat":-7.55,"lon":-53.3}]

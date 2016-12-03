@@ -1,1 +1,0 @@
-[{"id":1641629,"name":"aqbasty","country":"kz","lat":46.265278,"lon":60.087778},{"id":1647605,"name":"kulandy","country":"kz","lat":46.095,"lon":59.508333},{"id":1642022,"name":"avan","country":"kz","lat":46.266667,"lon":60.166667},{"id":1643905,"name":"daukara","country":"kz","lat":45.866667,"lon":59.5},{"id":1651811,"name":"shiganak","country":"kz","lat":46.283333,"lon":59.5}]

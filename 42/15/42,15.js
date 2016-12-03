@@ -1,0 +1,1 @@
+[{"id":1512212,"name":"isole san nicola","country":"it","lat":42.116667,"lon":15.516667},{"id":1522073,"name":"termoli","country":"it","lat":42.0,"lon":15.0}]

@@ -1,0 +1,1 @@
+[{"id":1847223,"name":"togol","country":"mn","lat":50.6833333,"lon":99.2333333},{"id":1845758,"name":"kurya bel\u0027tys","country":"mn","lat":50.2666667,"lon":99.35},{"id":1847022,"name":"sumber","country":"mn","lat":50.1580556,"lon":99.5161111},{"id":1843395,"name":"burgaltayn dugang","country":"mn","lat":50.7333333,"lon":99.0333333}]

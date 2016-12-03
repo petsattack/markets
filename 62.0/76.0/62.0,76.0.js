@@ -1,1 +1,0 @@
-[{"id":2549152,"name":"vat-yaun","country":"ru","lat":62.183333,"lon":75.8},{"id":2565077,"name":"yukon-yakon-pul","country":"ru","lat":61.783333,"lon":76.233333}]

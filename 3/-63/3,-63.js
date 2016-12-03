@@ -1,0 +1,1 @@
+[{"id":305330,"name":"maloca macu","country":"br","lat":3.683333,"lon":-63.716667}]

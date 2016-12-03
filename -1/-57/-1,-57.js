@@ -1,0 +1,1 @@
+[{"id":286062,"name":"acampamento","country":"br","lat":-1.0,"lon":-57.016667},{"id":311474,"name":"porteira","country":"br","lat":-1.083333,"lon":-57.066667}]

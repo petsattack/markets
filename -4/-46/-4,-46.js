@@ -1,0 +1,1 @@
+[{"id":327906,"name":"vargem limpa","country":"br","lat":-4.966667,"lon":-46.133333},{"id":323120,"name":"sitio novo","country":"br","lat":-4.983333,"lon":-46.583333},{"id":296556,"name":"cururu","country":"br","lat":-4.766667,"lon":-46.583333}]

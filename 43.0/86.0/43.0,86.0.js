@@ -1,1 +1,0 @@
-[{"id":432572,"name":"chahannoerh","country":"cn","lat":43.0,"lon":86.033333},{"id":429645,"name":"biqhan burgastai","country":"cn","lat":42.9,"lon":85.6},{"id":424835,"name":"bala�untay","country":"cn","lat":42.763611,"lon":86.320278},{"id":427787,"name":"bei har modon","country":"cn","lat":43.266667,"lon":86.033333}]

@@ -1,0 +1,1 @@
+[{"id":305311,"name":"maloca do barurema","country":"br","lat":-8.083333,"lon":-54.616667},{"id":286589,"name":"aldeia dos indios","country":"br","lat":-8.1,"lon":-54.616667},{"id":292012,"name":"cachimbo","country":"br","lat":-8.95,"lon":-54.9}]

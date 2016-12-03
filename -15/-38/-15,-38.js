@@ -1,0 +1,1 @@
+[{"id":293173,"name":"canavieiras","country":"br","lat":-15.65,"lon":-38.95},{"id":290361,"name":"belmonte","country":"br","lat":-15.85,"lon":-38.9}]

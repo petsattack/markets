@@ -1,0 +1,1 @@
+[{"id":1215198,"name":"langkoeba","country":"id","lat":-2.010398,"lon":124.368837},{"id":1285676,"name":"talo","country":"id","lat":-2.02153,"lon":124.450145},{"id":1301617,"name":"tuwaka","country":"id","lat":-2.002786,"lon":124.499508},{"id":1200322,"name":"kawalu","country":"id","lat":-2.0043,"lon":124.551013}]

@@ -1,0 +1,1 @@
+[{"id":1133290,"name":"ajer","country":"id","lat":-3.2,"lon":108.066667},{"id":1171726,"name":"djangkarasem","country":"id","lat":-3.016667,"lon":108.083333},{"id":1287567,"name":"tandjung batu bujung","country":"id","lat":-3.216667,"lon":108.083333},{"id":1288481,"name":"tanjung-batuhitam","country":"id","lat":-3.25,"lon":108.1}]

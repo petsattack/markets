@@ -1,0 +1,1 @@
+[{"id":2486387,"name":"perekratnyy","country":"ru","lat":58.48,"lon":124.359722},{"id":2538256,"name":"tovarishchestvo pobeda sotsializma","country":"ru","lat":58.466667,"lon":124.9},{"id":2407271,"name":"imeni chkalova","country":"ru","lat":58.45,"lon":124.966667},{"id":2432558,"name":"krasnaya zvezda","country":"ru","lat":58.166667,"lon":124.983333}]

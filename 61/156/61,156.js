@@ -1,0 +1,1 @@
+[{"id":2457689,"name":"merenga","country":"ru","lat":61.866667,"lon":156.166667},{"id":2554169,"name":"viliga","country":"ru","lat":61.6,"lon":156.9},{"id":2554168,"name":"viliga-kushka","country":"ru","lat":61.566667,"lon":156.933333},{"id":2488035,"name":"pestraya dresva","country":"ru","lat":61.566667,"lon":156.683333}]

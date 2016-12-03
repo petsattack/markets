@@ -1,0 +1,1 @@
+[{"id":1288976,"name":"tanjungselaka","country":"id","lat":-3.066667,"lon":110.966667},{"id":1156689,"name":"bundung","country":"id","lat":-3.0,"lon":110.883333}]

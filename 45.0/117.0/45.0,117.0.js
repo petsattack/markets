@@ -1,1 +1,0 @@
-[{"id":498525,"name":"huqid wanggin sum","country":"cn","lat":44.5,"lon":117.166667},{"id":620244,"name":"xiaopaozi","country":"cn","lat":45.1,"lon":116.6},{"id":427075,"name":"bayan huxu","country":"cn","lat":44.883333,"lon":117.483333}]

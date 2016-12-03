@@ -1,0 +1,1 @@
+[{"id":404909,"name":"natikitea","country":"ck","lat":-20.0166667,"lon":-158.1166667},{"id":404893,"name":"areora","country":"ck","lat":-20.0066667,"lon":-158.1122222}]

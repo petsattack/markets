@@ -1,0 +1,1 @@
+[{"id":347550,"name":"denare beach","country":"ca","lat":54.666667,"lon":-102.083333},{"id":350017,"name":"pinebluff","country":"ca","lat":54.1,"lon":-102.816667}]

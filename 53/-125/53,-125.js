@@ -1,0 +1,1 @@
+[{"id":349232,"name":"marilla","country":"ca","lat":53.683333,"lon":-125.833333},{"id":348237,"name":"grassy plains","country":"ca","lat":53.95,"lon":-125.883333}]

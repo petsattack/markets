@@ -1,0 +1,1 @@
+[{"id":132471,"name":"madryn","country":"ar","lat":-42.769201,"lon":-65.038513},{"id":133875,"name":"puerto lobos","country":"ar","lat":-42.001832,"lon":-65.072307},{"id":129822,"name":"el corcovado","country":"ar","lat":-42.7,"lon":-65.8}]

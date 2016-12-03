@@ -1,1 +1,0 @@
-[{"id":349298,"name":"mcintosh","country":"ca","lat":49.983333,"lon":-93.616667},{"id":348397,"name":"hawk lake","country":"ca","lat":49.8,"lon":-93.983333},{"id":348697,"name":"kenora","country":"ca","lat":49.766667,"lon":-94.466667}]

@@ -1,1 +1,0 @@
-[{"id":328490,"name":"vila do arari","country":"br","lat":-2.474722,"lon":-57.221944},{"id":297835,"name":"faro","country":"br","lat":-2.133333,"lon":-56.733056},{"id":301194,"name":"ilha das cotias","country":"br","lat":-2.233333,"lon":-56.716667}]

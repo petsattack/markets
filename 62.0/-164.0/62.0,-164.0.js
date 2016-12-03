@@ -1,1 +1,0 @@
-[{"id":2912058,"name":"chakaktolik","country":"us","lat":61.7683333,"lon":-163.6222222},{"id":2912379,"name":"mountain village","country":"us","lat":62.0855556,"lon":-163.7294444},{"id":2912010,"name":"arolokovik","country":"us","lat":62.3847222,"lon":-163.8005556}]

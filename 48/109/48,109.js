@@ -1,0 +1,1 @@
+[{"id":1847131,"name":"tarihin","country":"mn","lat":48.4833333,"lon":109.6666667},{"id":1844794,"name":"hentey sumu","country":"mn","lat":48.0833333,"lon":109.8166667},{"id":1842629,"name":"baraybung-khid","country":"mn","lat":48.2,"lon":109.4333333},{"id":1843852,"name":"dayantuin-khural","country":"mn","lat":48.0333333,"lon":109.05}]

@@ -1,0 +1,1 @@
+[{"id":2464813,"name":"nakhon","country":"ru","lat":71.85,"lon":101.95},{"id":2407542,"name":"imeni stakhanova","country":"ru","lat":71.733333,"lon":101.15},{"id":2396052,"name":"faktoriya novaya","country":"ru","lat":71.75,"lon":101.3},{"id":2406281,"name":"ignatyevskiy","country":"ru","lat":71.7,"lon":101.55}]

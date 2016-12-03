@@ -1,0 +1,1 @@
+[{"id":128603,"name":"carmensa","country":"ar","lat":-35.150126,"lon":-67.653703},{"id":131673,"name":"la marzolina","country":"ar","lat":-35.0,"lon":-67.616667},{"id":132300,"name":"los huarpes","country":"ar","lat":-35.050362,"lon":-67.059242},{"id":135046,"name":"soitue","country":"ar","lat":-35.008152,"lon":-67.853902}]

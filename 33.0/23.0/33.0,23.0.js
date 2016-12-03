@@ -1,1 +1,0 @@
-[{"id":1734362,"name":"darnis","country":"ly","lat":32.765,"lon":22.6391667},{"id":1735623,"name":"umm ar rizam","country":"ly","lat":32.5333333,"lon":23.0},{"id":1735692,"name":"zauiet umm hafein","country":"ly","lat":32.5666667,"lon":23.0833333},{"id":1734875,"name":"martubah","country":"ly","lat":32.5833333,"lon":22.7666667}]

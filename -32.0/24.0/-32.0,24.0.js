@@ -1,1 +1,0 @@
-[{"id":3131865,"name":"murraysburg","country":"za","lat":-31.960457,"lon":23.76204},{"id":3123900,"name":"aberdeen","country":"za","lat":-32.475881,"lon":24.065252}]

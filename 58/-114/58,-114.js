@@ -1,0 +1,1 @@
+[{"id":348006,"name":"fort vermilion chutes","country":"ca","lat":58.366667,"lon":-114.85},{"id":350311,"name":"red river post","country":"ca","lat":58.4,"lon":-114.75}]

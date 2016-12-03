@@ -1,0 +1,1 @@
+[{"id":1003510,"name":"whitehall","country":"gb","lat":59.15,"lon":-2.616667},{"id":998979,"name":"pierowall","country":"gb","lat":59.333333,"lon":-2.983333},{"id":994978,"name":"kettletott","country":"gb","lat":59.233333,"lon":-2.6}]

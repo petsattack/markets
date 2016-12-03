@@ -1,0 +1,1 @@
+[{"id":1535405,"name":"kita","country":"jp","lat":24.8,"lon":141.316667},{"id":1539280,"name":"nishi","country":"jp","lat":24.8,"lon":141.3},{"id":1537321,"name":"minami","country":"jp","lat":24.783333,"lon":141.316667},{"id":1537980,"name":"motoyama","country":"jp","lat":24.8,"lon":141.333333},{"id":1531729,"name":"higashi","country":"jp","lat":24.783333,"lon":141.333333}]

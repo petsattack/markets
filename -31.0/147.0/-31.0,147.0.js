@@ -1,1 +1,0 @@
-[{"id":154560,"name":"girilambone","country":"au","lat":-31.25,"lon":146.9},{"id":153150,"name":"coolabah","country":"au","lat":-31.033333,"lon":146.716667}]

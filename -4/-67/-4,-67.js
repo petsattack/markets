@@ -1,0 +1,1 @@
+[{"id":289842,"name":"barreira branca","country":"br","lat":-4.315556,"lon":-67.345}]

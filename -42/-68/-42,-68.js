@@ -1,0 +1,1 @@
+[{"id":130552,"name":"gan gan","country":"ar","lat":-42.522425,"lon":-68.285074},{"id":135167,"name":"talagapa","country":"ar","lat":-42.19472,"lon":-68.341497},{"id":134358,"name":"sacanana","country":"ar","lat":-42.50029,"lon":-68.532021}]

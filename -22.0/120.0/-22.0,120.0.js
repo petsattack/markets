@@ -1,1 +1,0 @@
-[{"id":151830,"name":"blue spec","country":"au","lat":-21.8,"lon":120.283333},{"id":157026,"name":"middle creek","country":"au","lat":-21.883333,"lon":120.266667},{"id":156426,"name":"lionel","country":"au","lat":-21.65,"lon":120.116667},{"id":158197,"name":"nullagine","country":"au","lat":-21.883333,"lon":120.1}]

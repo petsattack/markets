@@ -1,1 +1,0 @@
-[{"id":153444,"name":"cunnamulla","country":"au","lat":-28.067659,"lon":145.684387},{"id":153197,"name":"coongoola","country":"au","lat":-27.65,"lon":145.9}]

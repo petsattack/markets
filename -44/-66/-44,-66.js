@@ -1,0 +1,1 @@
+[{"id":132495,"name":"malaspina","country":"ar","lat":-44.939031,"lon":-66.924332},{"id":130558,"name":"garayalde","country":"ar","lat":-44.687094,"lon":-66.609257},{"id":135517,"name":"uzcudum","country":"ar","lat":-44.266746,"lon":-66.166802}]

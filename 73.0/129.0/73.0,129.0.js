@@ -1,1 +1,0 @@
-[{"id":2362706,"name":"antipinskiy","country":"ru","lat":73.166667,"lon":128.833333},{"id":2552972,"name":"verkhnyy arangastakh","country":"ru","lat":72.6,"lon":129.0},{"id":2362623,"name":"anoshkinsk","country":"ru","lat":72.879167,"lon":129.352222}]

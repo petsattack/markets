@@ -1,1 +1,0 @@
-[{"id":350967,"name":"shallop","country":"ca","lat":49.133333,"lon":-62.533333},{"id":348076,"name":"galiote","country":"ca","lat":49.266667,"lon":-63.216667},{"id":347243,"name":"chicotte","country":"ca","lat":49.216667,"lon":-63.05}]

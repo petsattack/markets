@@ -1,1 +1,0 @@
-[{"id":1734752,"name":"hun","country":"ly","lat":29.1166667,"lon":15.9333333},{"id":1735646,"name":"waddan","country":"ly","lat":29.1666667,"lon":16.1333333},{"id":1735224,"name":"qaryat sawwan","country":"ly","lat":29.1666667,"lon":16.15},{"id":1734911,"name":"miani","country":"ly","lat":29.0666667,"lon":15.7833333}]

@@ -1,0 +1,1 @@
+[{"id":1642524,"name":"baymyrza","country":"kz","lat":47.609167,"lon":68.521111},{"id":1655510,"name":"zimovka syurguta","country":"kz","lat":47.383333,"lon":68.0},{"id":1643206,"name":"borsengir","country":"kz","lat":47.933333,"lon":68.533333}]

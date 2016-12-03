@@ -1,0 +1,1 @@
+[{"id":455742,"name":"dengta","country":"cn","lat":48.05,"lon":88.683333},{"id":586538,"name":"sintas","country":"cn","lat":48.133333,"lon":88.083333},{"id":1847532,"name":"tsengel hayrhan suma","country":"mn","lat":48.75,"lon":88.9},{"id":1845008,"name":"hurmiin suma","country":"mn","lat":48.5,"lon":88.9666667}]

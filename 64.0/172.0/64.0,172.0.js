@@ -1,1 +1,0 @@
-[{"id":2383896,"name":"chaplin","country":"ru","lat":64.416667,"lon":172.25},{"id":2495913,"name":"povarnya alganskaya","country":"ru","lat":64.233333,"lon":172.016667}]

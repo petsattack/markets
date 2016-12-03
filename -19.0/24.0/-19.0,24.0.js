@@ -1,1 +1,0 @@
-[{"id":330032,"name":"kakoaka","country":"bw","lat":-18.6666667,"lon":24.3666667},{"id":330024,"name":"joverega","country":"bw","lat":-19.1333333,"lon":24.25},{"id":329966,"name":"chiro pan","country":"bw","lat":-19.4666667,"lon":23.9333333},{"id":330409,"name":"shaleshanto","country":"bw","lat":-19.15,"lon":23.9666667}]

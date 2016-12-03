@@ -1,0 +1,1 @@
+[{"id":2434851,"name":"krestovskoye","country":"ru","lat":59.7275,"lon":113.186944},{"id":2487875,"name":"peskovskaya","country":"ru","lat":59.913611,"lon":113.538889},{"id":2434848,"name":"krestovskiy lesouchastok","country":"ru","lat":59.783889,"lon":113.266944}]

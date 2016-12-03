@@ -1,0 +1,1 @@
+[{"id":348382,"name":"hauterive","country":"ca","lat":49.183333,"lon":-68.266667},{"id":350067,"name":"pointe-lebel","country":"ca","lat":49.15,"lon":-68.2},{"id":347269,"name":"chute-aux-outardes","country":"ca","lat":49.116667,"lon":-68.383333},{"id":346557,"name":"baie-comeau","country":"ca","lat":49.216667,"lon":-68.15}]

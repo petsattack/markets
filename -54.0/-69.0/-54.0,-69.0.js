@@ -1,1 +1,0 @@
-[{"id":405157,"name":"aserradero la paciencia","country":"cl","lat":-54.366667,"lon":-69.166667},{"id":134649,"name":"san justo","country":"ar","lat":-54.033333,"lon":-68.533333},{"id":130277,"name":"estancia la marina","country":"ar","lat":-54.316667,"lon":-68.55},{"id":407953,"name":"munizaga","country":"cl","lat":-53.75,"lon":-69.216667}]

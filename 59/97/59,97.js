@@ -1,0 +1,1 @@
+[{"id":2395965,"name":"factoriya tayga","country":"ru","lat":59.936111,"lon":97.901111}]

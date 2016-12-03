@@ -1,0 +1,1 @@
+[{"id":313746,"name":"rio branco","country":"br","lat":-10.15,"lon":-64.066667},{"id":302346,"name":"jacare","country":"br","lat":-10.216667,"lon":-64.183333},{"id":287796,"name":"araras","country":"br","lat":-10.45,"lon":-64.15}]

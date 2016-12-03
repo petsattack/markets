@@ -1,1 +1,0 @@
-[{"id":1844306,"name":"enger-shand","country":"mn","lat":48.8166667,"lon":115.2},{"id":1844563,"name":"gurban dzakhaliin somon","country":"mn","lat":49.1333333,"lon":114.8833333},{"id":1844579,"name":"gurvan bayan","country":"mn","lat":48.6166667,"lon":115.2333333},{"id":1842562,"name":"bain don","country":"mn","lat":48.7333333,"lon":114.55}]

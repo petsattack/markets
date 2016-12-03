@@ -1,0 +1,1 @@
+[{"id":2087021,"name":"omoa","country":"pf","lat":-10.5,"lon":-138.6833333},{"id":2087039,"name":"ouia","country":"pf","lat":-10.4666667,"lon":-138.6166667},{"id":2086949,"name":"hanavave","country":"pf","lat":-10.45,"lon":-138.65},{"id":2087118,"name":"taiokai","country":"pf","lat":-10.4166667,"lon":-138.6666667}]

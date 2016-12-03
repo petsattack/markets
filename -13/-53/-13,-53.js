@@ -1,0 +1,1 @@
+[{"id":301340,"name":"independencia","country":"br","lat":-13.566667,"lon":-53.95},{"id":311806,"name":"porto do sul","country":"br","lat":-13.283333,"lon":-53.533333}]

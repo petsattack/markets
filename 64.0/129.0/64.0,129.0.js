@@ -1,1 +1,0 @@
-[{"id":2545729,"name":"ust-aldan","country":"ru","lat":63.520833,"lon":129.412778},{"id":2541124,"name":"tuostumary","country":"ru","lat":63.6,"lon":128.516667}]

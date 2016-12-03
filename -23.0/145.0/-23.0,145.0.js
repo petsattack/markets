@@ -1,1 +1,0 @@
-[{"id":157724,"name":"muttaburra","country":"au","lat":-22.6,"lon":144.55},{"id":151081,"name":"aramac","country":"au","lat":-22.968281,"lon":145.244965}]

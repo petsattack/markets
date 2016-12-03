@@ -1,1 +1,0 @@
-[{"id":2560715,"name":"yamskaya","country":"ru","lat":64.233333,"lon":87.616667},{"id":2468511,"name":"nizhne-inbatskaya","country":"ru","lat":63.883333,"lon":87.566667},{"id":2366477,"name":"baklanikha","country":"ru","lat":64.433333,"lon":87.583333},{"id":2396218,"name":"fatyanovskoye","country":"ru","lat":64.033333,"lon":87.566667}]

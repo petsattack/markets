@@ -1,0 +1,1 @@
+[{"id":1845220,"name":"jinsete","country":"mn","lat":45.4,"lon":100.5666667},{"id":1843157,"name":"bogdo uula suma","country":"mn","lat":45.2,"lon":100.7666667}]

@@ -1,1 +1,0 @@
-[{"id":158434,"name":"palmervill","country":"au","lat":-15.983333,"lon":144.083333},{"id":156293,"name":"laura","country":"au","lat":-15.566667,"lon":144.466667},{"id":156879,"name":"maytown","country":"au","lat":-16.05,"lon":144.283333}]

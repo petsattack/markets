@@ -1,0 +1,1 @@
+[{"id":2564807,"name":"ystannakh khocho","country":"ru","lat":72.961389,"lon":121.719444},{"id":2543355,"name":"ulakhan-krest","country":"ru","lat":72.946667,"lon":121.403333},{"id":2532577,"name":"tajmylyr","country":"ru","lat":72.606111,"lon":121.9125},{"id":2504450,"name":"rudnik","country":"ru","lat":72.45,"lon":121.6}]

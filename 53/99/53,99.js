@@ -1,0 +1,1 @@
+[{"id":2543867,"name":"ulus zykova","country":"ru","lat":53.883333,"lon":99.4},{"id":2367542,"name":"barbitay","country":"ru","lat":53.75,"lon":99.433333},{"id":2390720,"name":"deyanova","country":"ru","lat":53.883333,"lon":99.666667},{"id":2565652,"name":"yurty karagozskiye","country":"ru","lat":53.333333,"lon":99.7}]

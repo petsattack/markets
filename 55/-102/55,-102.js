@@ -1,0 +1,1 @@
+[{"id":348582,"name":"island falls","country":"ca","lat":55.533333,"lon":-102.333333},{"id":349940,"name":"pelican narrows","country":"ca","lat":55.166667,"lon":-102.95}]

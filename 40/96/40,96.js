@@ -1,0 +1,1 @@
+[{"id":419897,"name":"anbei","country":"cn","lat":40.766667,"lon":96.2},{"id":440327,"name":"chiaowan","country":"cn","lat":40.6,"lon":96.7},{"id":430328,"name":"bulungir","country":"cn","lat":40.533333,"lon":96.566667},{"id":585152,"name":"shuleho","country":"cn","lat":40.45,"lon":96.783333},{"id":488617,"name":"hsiaowani","country":"cn","lat":40.516667,"lon":96.3}]

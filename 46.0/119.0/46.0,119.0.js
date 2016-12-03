@@ -1,1 +1,0 @@
-[{"id":549519,"name":"nungnain sum","country":"cn","lat":45.683333,"lon":118.933333},{"id":498890,"name":"huxun sum","country":"cn","lat":45.8,"lon":119.2}]

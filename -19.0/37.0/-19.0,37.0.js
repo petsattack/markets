@@ -1,1 +1,0 @@
-[{"id":1953753,"name":"inhamiara","country":"mz","lat":-18.5175,"lon":36.5247222}]

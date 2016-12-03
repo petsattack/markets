@@ -1,0 +1,1 @@
+[{"id":2967361,"name":"bete grise","country":"us","lat":47.3888889,"lon":-87.955},{"id":2967687,"name":"copper harbor","country":"us","lat":47.4688889,"lon":-87.8883333}]

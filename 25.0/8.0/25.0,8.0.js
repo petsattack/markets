@@ -1,1 +1,0 @@
-[{"id":816901,"name":"iherir","country":"dz","lat":25.4,"lon":8.4166667},{"id":816461,"name":"fort gardel","country":"dz","lat":24.8666667,"lon":8.4333333}]

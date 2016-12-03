@@ -1,0 +1,1 @@
+[{"id":2575810,"name":"al hadaqah","country":"sa","lat":28.464815,"lon":44.338204},{"id":2579773,"name":"umm rudhuma","country":"sa","lat":28.679262,"lon":44.693181},{"id":2577046,"name":"ash shu`bah","country":"sa","lat":28.882326,"lon":44.741137},{"id":2579668,"name":"u`aywij","country":"sa","lat":28.816856,"lon":44.06015}]

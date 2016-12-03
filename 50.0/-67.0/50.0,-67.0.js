@@ -1,1 +1,0 @@
-[{"id":350993,"name":"shelter bay","country":"ca","lat":50.016667,"lon":-66.866667},{"id":347280,"name":"clarke city","country":"ca","lat":50.183333,"lon":-66.633333},{"id":350054,"name":"pointe-aux-anglais","country":"ca","lat":49.666667,"lon":-67.166667},{"id":350413,"name":"riviere-pentecote","country":"ca","lat":49.783333,"lon":-67.166667}]

@@ -1,0 +1,1 @@
+[{"id":349039,"name":"little river","country":"ca","lat":61.016667,"lon":-135.783333},{"id":348798,"name":"kynocks","country":"ca","lat":61.25,"lon":-135.983333},{"id":346889,"name":"braeburn","country":"ca","lat":61.516667,"lon":-135.833333},{"id":349109,"name":"lower laberge","country":"ca","lat":61.4,"lon":-135.216667}]

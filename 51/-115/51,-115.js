@@ -1,0 +1,1 @@
+[{"id":347041,"name":"canmore","country":"ca","lat":51.1,"lon":-115.35},{"id":346581,"name":"banff","country":"ca","lat":51.166667,"lon":-115.566667},{"id":347750,"name":"eisenhower junction","country":"ca","lat":51.266667,"lon":-115.916667},{"id":350938,"name":"seebe","country":"ca","lat":51.1,"lon":-115.066667}]

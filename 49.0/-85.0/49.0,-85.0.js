@@ -1,1 +1,0 @@
-[{"id":351762,"name":"white river","country":"ca","lat":48.583333,"lon":-85.283333},{"id":348490,"name":"hornepayne","country":"ca","lat":49.216667,"lon":-84.783333}]

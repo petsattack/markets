@@ -1,0 +1,1 @@
+[{"id":302086,"name":"itaqui","country":"br","lat":-7.428333,"lon":-63.011389},{"id":300318,"name":"grato","country":"br","lat":-7.483333,"lon":-63.033333},{"id":300863,"name":"humayta","country":"br","lat":-7.516389,"lon":-63.022222}]

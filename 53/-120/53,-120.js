@@ -1,0 +1,1 @@
+[{"id":349284,"name":"mcbride","country":"ca","lat":53.3,"lon":-120.166667},{"id":348159,"name":"goat river","country":"ca","lat":53.533333,"lon":-120.583333},{"id":349087,"name":"loos","country":"ca","lat":53.6,"lon":-120.716667}]

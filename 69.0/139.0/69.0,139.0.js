@@ -1,1 +1,0 @@
-[{"id":2495915,"name":"povarnya at-yuryakh","country":"ru","lat":69.4,"lon":139.3},{"id":2482978,"name":"oyun-kyuyele","country":"ru","lat":68.5,"lon":139.2}]

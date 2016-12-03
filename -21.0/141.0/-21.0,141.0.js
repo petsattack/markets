@@ -1,1 +1,0 @@
-[{"id":152972,"name":"cloncurry","country":"au","lat":-20.70718,"lon":140.513031},{"id":156109,"name":"kuridala","country":"au","lat":-21.283333,"lon":140.5},{"id":158345,"name":"oorindi","country":"au","lat":-20.683333,"lon":141.066667},{"id":156895,"name":"mckinlay","country":"au","lat":-21.266667,"lon":141.3}]

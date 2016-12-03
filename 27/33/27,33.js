@@ -1,0 +1,1 @@
+[{"id":852097,"name":"qalt umm disi","country":"eg","lat":27.0,"lon":33.25},{"id":845638,"name":"gemsa","country":"eg","lat":27.6333333,"lon":33.5833333},{"id":840486,"name":"al ghardaqah","country":"eg","lat":27.2388889,"lon":33.8361111},{"id":840075,"name":"ad dahhar","country":"eg","lat":27.25,"lon":33.1497222}]

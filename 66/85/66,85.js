@@ -1,0 +1,1 @@
+[{"id":2396042,"name":"faktoriya makovskoye","country":"ru","lat":66.883333,"lon":85.5}]

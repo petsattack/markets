@@ -1,0 +1,1 @@
+[{"id":1807067,"name":"tesalit","country":"ml","lat":20.2013889,"lon":1.0088889},{"id":821685,"name":"timeiaouine","country":"dz","lat":20.4447222,"lon":1.7986111}]

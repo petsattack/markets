@@ -1,0 +1,1 @@
+[{"id":2971999,"name":"red rock","country":"us","lat":47.9208333,"lon":-89.7383333},{"id":2969792,"name":"windigo","country":"us","lat":47.9119444,"lon":-89.1566667},{"id":2971212,"name":"grand portage","country":"us","lat":47.9638889,"lon":-89.6847222},{"id":2971352,"name":"hovland","country":"us","lat":47.8388889,"lon":-89.9719444}]

@@ -1,0 +1,1 @@
+[{"id":349497,"name":"moor lake station","country":"ca","lat":46.133333,"lon":-77.7},{"id":351210,"name":"stonecliffe","country":"ca","lat":46.216667,"lon":-77.883333},{"id":347523,"name":"deep river","country":"ca","lat":46.166667,"lon":-77.566667},{"id":347173,"name":"chalk river","country":"ca","lat":46.016667,"lon":-77.45}]

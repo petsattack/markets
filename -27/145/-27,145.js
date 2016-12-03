@@ -1,0 +1,1 @@
+[{"id":161529,"name":"wyandra","country":"au","lat":-27.25,"lon":145.983333},{"id":152940,"name":"claverton","country":"au","lat":-27.366667,"lon":145.966667},{"id":153197,"name":"coongoola","country":"au","lat":-27.65,"lon":145.9}]

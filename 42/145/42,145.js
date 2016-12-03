@@ -1,0 +1,1 @@
+[{"id":1536231,"name":"kujirahama","country":"jp","lat":42.983333,"lon":145.0}]

@@ -1,0 +1,1 @@
+[{"id":2430941,"name":"kovinskiy","country":"ru","lat":56.9697,"lon":100.8505},{"id":2508710,"name":"savelskaya","country":"ru","lat":56.1294,"lon":100.044},{"id":2478918,"name":"ognevka","country":"ru","lat":56.2744,"lon":100.6182},{"id":2537955,"name":"toreya","country":"ru","lat":56.2474,"lon":100.4286},{"id":2541461,"name":"turma","country":"ru","lat":56.1911,"lon":100.8873}]

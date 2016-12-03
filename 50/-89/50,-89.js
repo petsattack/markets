@@ -1,0 +1,1 @@
+[{"id":347346,"name":"collins","country":"ca","lat":50.283333,"lon":-89.45},{"id":347862,"name":"fee spur","country":"ca","lat":50.25,"lon":-89.766667},{"id":346487,"name":"armstrong station","country":"ca","lat":50.3,"lon":-89.033333}]

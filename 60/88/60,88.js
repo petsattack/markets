@@ -1,0 +1,1 @@
+[{"id":2396061,"name":"faktoriya symskaya","country":"ru","lat":60.299444,"lon":88.456389}]

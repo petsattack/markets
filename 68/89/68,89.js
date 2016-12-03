@@ -1,0 +1,1 @@
+[{"id":2417568,"name":"khantayskoye ozero","country":"ru","lat":68.2175,"lon":89.995556}]

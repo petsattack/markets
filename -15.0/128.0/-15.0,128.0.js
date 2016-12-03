@@ -1,1 +1,0 @@
-[{"id":161552,"name":"wyndham","country":"au","lat":-15.4869,"lon":128.124283}]

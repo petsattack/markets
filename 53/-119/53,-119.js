@@ -1,0 +1,1 @@
+[{"id":347461,"name":"croydon station","country":"ca","lat":53.066667,"lon":-119.75},{"id":349544,"name":"mount robson","country":"ca","lat":53.016667,"lon":-119.233333},{"id":351002,"name":"shere","country":"ca","lat":53.016667,"lon":-119.583333},{"id":347678,"name":"dunster","country":"ca","lat":53.116667,"lon":-119.833333}]

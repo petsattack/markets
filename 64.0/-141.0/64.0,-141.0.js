@@ -1,1 +1,0 @@
-[{"id":348012,"name":"forty mile","country":"ca","lat":64.45,"lon":-140.55},{"id":348131,"name":"glacier creek","country":"ca","lat":64.016667,"lon":-140.833333},{"id":2912044,"name":"boundary","country":"us","lat":64.0833333,"lon":-141.0166667},{"id":2912248,"name":"jack wade","country":"us","lat":64.1541667,"lon":-141.4597222}]

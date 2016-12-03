@@ -1,0 +1,1 @@
+[{"id":2369681,"name":"belgechi","country":"ru","lat":59.185556,"lon":131.888889},{"id":2572169,"name":"zimovye bubyakina","country":"ru","lat":59.016667,"lon":131.85},{"id":2380928,"name":"bubyakin","country":"ru","lat":59.133333,"lon":131.866667},{"id":2439808,"name":"kutana","country":"ru","lat":59.018056,"lon":131.756944}]

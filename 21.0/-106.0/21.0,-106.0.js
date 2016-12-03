@@ -1,1 +1,0 @@
-[{"id":1892864,"name":"mita","country":"mx","lat":20.775,"lon":-105.520278},{"id":1883988,"name":"la jabonera","country":"mx","lat":21.183333,"lon":-106.2}]

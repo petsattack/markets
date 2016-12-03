@@ -1,1 +1,0 @@
-[{"id":153823,"name":"duchess","country":"au","lat":-21.366667,"lon":139.85},{"id":156683,"name":"malbom","country":"au","lat":-21.083333,"lon":140.3},{"id":156845,"name":"mary kathleen","country":"au","lat":-20.733333,"lon":139.5},{"id":155589,"name":"juenburra","country":"au","lat":-21.416667,"lon":139.833333}]

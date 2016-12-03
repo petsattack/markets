@@ -1,0 +1,1 @@
+[{"id":156180,"name":"lake camm","country":"au","lat":-32.983333,"lon":119.583333},{"id":156215,"name":"lake varley","country":"au","lat":-32.766667,"lon":119.45},{"id":155277,"name":"holt rock","country":"au","lat":-32.666667,"lon":119.416667},{"id":159606,"name":"south lake vasley","country":"au","lat":-32.833333,"lon":119.533333}]

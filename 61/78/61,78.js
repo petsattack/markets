@@ -1,0 +1,1 @@
+[{"id":2546154,"name":"ust-kolik-yeganskiye","country":"ru","lat":61.106111,"lon":78.255556}]

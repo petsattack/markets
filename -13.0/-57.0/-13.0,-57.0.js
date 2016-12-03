@@ -1,1 +1,0 @@
-[{"id":319806,"name":"sitio do desengano","country":"br","lat":-13.4,"lon":-57.483333}]

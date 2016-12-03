@@ -1,1 +1,0 @@
-[{"id":1643442,"name":"burlyu-tobe","country":"kz","lat":46.616667,"lon":79.133333},{"id":1645887,"name":"karatas","country":"kz","lat":46.666667,"lon":79.333333},{"id":1640942,"name":"akbalyk","country":"kz","lat":46.566111,"lon":79.209444}]

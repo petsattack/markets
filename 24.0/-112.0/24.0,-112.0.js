@@ -1,1 +1,0 @@
-[{"id":1899454,"name":"puerto charley","country":"mx","lat":24.4375,"lon":-111.554167},{"id":1899463,"name":"puerto cortes","country":"mx","lat":24.466667,"lon":-111.85}]

@@ -1,1 +1,0 @@
-[{"id":2957677,"name":"anekirea","country":"us","lat":6.9666667,"lon":171.75},{"id":1792579,"name":"ine","country":"mh","lat":6.9833333,"lon":171.7},{"id":2957681,"name":"ine","country":"us","lat":6.9858333,"lon":171.7047222}]

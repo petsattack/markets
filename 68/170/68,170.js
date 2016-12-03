@@ -1,0 +1,1 @@
+[{"id":2384174,"name":"chaunskaya kaltbaza","country":"ru","lat":68.784167,"lon":170.5175},{"id":2384173,"name":"chaunskaya","country":"ru","lat":68.883333,"lon":170.616667},{"id":2506006,"name":"rytkuchi","country":"ru","lat":68.897222,"lon":170.719444}]

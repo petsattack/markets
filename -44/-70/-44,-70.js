@@ -1,0 +1,1 @@
+[{"id":130761,"name":"gobernor costa","country":"ar","lat":-44.049917,"lon":-70.597977},{"id":134675,"name":"san martin","country":"ar","lat":-44.050319,"lon":-70.469666},{"id":133061,"name":"nueva lubecka","country":"ar","lat":-44.521213,"lon":-70.410577},{"id":127516,"name":"aldea apeleg","country":"ar","lat":-44.67957,"lon":-70.846847}]

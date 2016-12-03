@@ -1,1 +1,0 @@
-[{"id":687880,"name":"sirena","country":"cr","lat":8.480183,"lon":-83.592992},{"id":686952,"name":"madrigal","country":"cr","lat":8.448898,"lon":-83.508084}]

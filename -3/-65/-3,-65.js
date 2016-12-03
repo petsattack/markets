@@ -1,0 +1,1 @@
+[{"id":297342,"name":"ernesto guedes","country":"br","lat":-3.0,"lon":-65.95},{"id":292313,"name":"caiaue","country":"br","lat":-3.05,"lon":-65.966667},{"id":326581,"name":"terra firme de sao raimundo","country":"br","lat":-3.15,"lon":-65.95}]

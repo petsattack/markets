@@ -1,1 +1,0 @@
-[{"id":2480121,"name":"olyutorskiy rybnyy kombinat","country":"ru","lat":60.433333,"lon":169.666667},{"id":2545757,"name":"ust-apuka","country":"ru","lat":60.45,"lon":169.583333},{"id":2415664,"name":"kavacha","country":"ru","lat":60.266667,"lon":169.85}]

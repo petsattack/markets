@@ -1,0 +1,1 @@
+[{"id":347036,"name":"canal flats","country":"ca","lat":50.15,"lon":-115.833333},{"id":348865,"name":"lake windermere","country":"ca","lat":50.466667,"lon":-115.966667},{"id":347847,"name":"fairmont hot springs","country":"ca","lat":50.316667,"lon":-115.866667}]

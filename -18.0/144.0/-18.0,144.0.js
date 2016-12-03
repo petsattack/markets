@@ -1,1 +1,0 @@
-[{"id":156608,"name":"lyndbrook","country":"au","lat":-17.85,"lon":144.433333},{"id":154489,"name":"georgetown","country":"au","lat":-18.29199,"lon":143.545837}]

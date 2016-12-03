@@ -1,0 +1,1 @@
+[{"id":286043,"name":"abunai","country":"br","lat":-1.833333,"lon":-66.55},{"id":310668,"name":"piquia","country":"br","lat":-1.766667,"lon":-66.066667},{"id":305744,"name":"marcelino","country":"br","lat":-1.75,"lon":-66.35}]

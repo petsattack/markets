@@ -1,0 +1,1 @@
+[{"id":151921,"name":"boogardie","country":"au","lat":-28.033333,"lon":117.783333},{"id":161789,"name":"yoweragabbie","country":"au","lat":-28.216667,"lon":117.65},{"id":157517,"name":"mount magnet","country":"au","lat":-28.064791,"lon":117.849037}]

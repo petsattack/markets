@@ -1,0 +1,1 @@
+[{"id":346401,"name":"alexo","country":"ca","lat":52.466667,"lon":-115.783333},{"id":347874,"name":"ferrier","country":"ca","lat":52.366667,"lon":-115.066667},{"id":348489,"name":"horburg","country":"ca","lat":52.416667,"lon":-115.283333}]

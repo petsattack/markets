@@ -1,0 +1,1 @@
+[{"id":132873,"name":"monte quemado","country":"ar","lat":-25.805646,"lon":-62.830191},{"id":132397,"name":"los tigres","country":"ar","lat":-25.909418,"lon":-62.593195},{"id":132334,"name":"los morteros","country":"ar","lat":-25.95,"lon":-62.966667}]

@@ -1,0 +1,1 @@
+[{"id":2087142,"name":"te-fare-arii","country":"pf","lat":-16.45,"lon":-152.25},{"id":2087049,"name":"paiouma","country":"pf","lat":-16.4333333,"lon":-152.25},{"id":2087208,"name":"vaitia","country":"pf","lat":-16.4333333,"lon":-152.2666667},{"id":2086902,"name":"faanoa","country":"pf","lat":-16.45,"lon":-152.2666667}]

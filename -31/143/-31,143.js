@@ -1,0 +1,1 @@
+[{"id":161194,"name":"wilcannia","country":"au","lat":-31.56031,"lon":143.377045},{"id":151049,"name":"annalera","country":"au","lat":-31.283333,"lon":143.983333}]

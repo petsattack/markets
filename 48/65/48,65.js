@@ -1,0 +1,1 @@
+[{"id":1644105,"name":"dulygalinskaya mechet\u0027","country":"kz","lat":48.533333,"lon":65.75},{"id":1644822,"name":"imeni amangel\u0027dy","country":"kz","lat":48.166667,"lon":65.45}]

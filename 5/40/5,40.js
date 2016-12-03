@@ -1,0 +1,1 @@
+[{"id":891970,"name":"filtu","country":"et","lat":5.116667,"lon":40.65},{"id":888501,"name":"bacara","country":"et","lat":5.016667,"lon":40.066667},{"id":898706,"name":"uggo","country":"et","lat":5.616667,"lon":40.6},{"id":889288,"name":"boi","country":"et","lat":5.583333,"lon":40.383333}]

@@ -1,0 +1,1 @@
+[{"id":150960,"name":"alice springs","country":"au","lat":-23.697479,"lon":133.883621},{"id":151017,"name":"amoonguna","country":"au","lat":-23.770941,"lon":133.936523}]

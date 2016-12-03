@@ -1,0 +1,1 @@
+[{"id":2541077,"name":"tungus-khayata","country":"ru","lat":64.9,"lon":125.25},{"id":2571495,"name":"zhokhutskiy","country":"ru","lat":64.433333,"lon":125.566667},{"id":2439179,"name":"kuropatkalakh","country":"ru","lat":64.566667,"lon":125.333333},{"id":2395265,"name":"ebelyakh","country":"ru","lat":64.45,"lon":125.85}]

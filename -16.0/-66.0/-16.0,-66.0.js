@@ -1,1 +1,0 @@
-[{"id":281216,"name":"palca","country":"bo","lat":-16.4166667,"lon":-65.7833333},{"id":282271,"name":"puerto marquez","country":"bo","lat":-15.8,"lon":-66.1166667}]

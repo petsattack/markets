@@ -1,0 +1,1 @@
+[{"id":348780,"name":"kluane junction","country":"ca","lat":61.033333,"lon":-138.383333},{"id":347570,"name":"destruction bay","country":"ca","lat":61.25,"lon":-138.8}]

@@ -1,0 +1,1 @@
+[{"id":129137,"name":"colonia j. y echarren","country":"ar","lat":-39.035036,"lon":-64.027292},{"id":133749,"name":"pueblo buena parada","country":"ar","lat":-39.016667,"lon":-64.033333}]

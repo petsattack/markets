@@ -1,0 +1,1 @@
+[{"id":289305,"name":"bandeirantes","country":"br","lat":-13.683333,"lon":-50.8},{"id":316738,"name":"sao miguel do araguaia","country":"br","lat":-13.316667,"lon":-50.216667}]

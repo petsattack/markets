@@ -1,1 +1,0 @@
-[{"id":1900394,"name":"rancho boca de san jose","country":"mx","lat":31.433333,"lon":-116.516667},{"id":1862604,"name":"campo de enmedio","country":"mx","lat":31.45,"lon":-116.55}]

@@ -1,1 +1,0 @@
-[{"id":350492,"name":"ruby camp","country":"ca","lat":61.083333,"lon":-137.916667},{"id":348780,"name":"kluane junction","country":"ca","lat":61.033333,"lon":-138.383333},{"id":346645,"name":"bear creek","country":"ca","lat":60.816667,"lon":-137.683333},{"id":348302,"name":"haines junction","country":"ca","lat":60.75,"lon":-137.5}]

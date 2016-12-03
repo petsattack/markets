@@ -1,0 +1,1 @@
+[{"id":2409907,"name":"izba kurlomkiny","country":"ru","lat":59.114,"lon":74.4516},{"id":2409906,"name":"izba kolsymova i.","country":"ru","lat":59.1878,"lon":74.2463},{"id":2442154,"name":"larlomkiny","country":"ru","lat":59.203587,"lon":74.759179},{"id":2566123,"name":"yuzhnyy vtoroy","country":"ru","lat":59.0967,"lon":74.5125}]

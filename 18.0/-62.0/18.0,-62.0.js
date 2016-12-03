@@ -1,1 +1,0 @@
-[{"id":89330,"name":"codrington village","country":"ag","lat":17.6333333,"lon":-61.8333333},{"id":89339,"name":"dulcina","country":"ag","lat":17.5833333,"lon":-61.8166667},{"id":89450,"name":"the caves","country":"ag","lat":17.6833333,"lon":-61.7833333}]

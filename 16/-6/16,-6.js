@@ -1,0 +1,1 @@
+[{"id":1850612,"name":"puits des boradda","country":"mr","lat":16.2833333,"lon":-6.6833333},{"id":1850307,"name":"kataouane","country":"mr","lat":16.0666667,"lon":-6.7666667}]

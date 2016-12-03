@@ -1,0 +1,1 @@
+[{"id":2912649,"name":"wortmanns","country":"us","lat":61.1111111,"lon":-145.8163889},{"id":2912104,"name":"copper center","country":"us","lat":61.955,"lon":-145.3052778},{"id":2912499,"name":"ptarmigan","country":"us","lat":61.1886111,"lon":-145.6216667},{"id":2912597,"name":"tonsina","country":"us","lat":61.6558333,"lon":-145.1752778}]

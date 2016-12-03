@@ -1,0 +1,1 @@
+[{"id":1848732,"name":"pavillon","country":"mp","lat":-19.9897222,"lon":57.6088889},{"id":1848452,"name":"cap malheureux","country":"mp","lat":-19.9841667,"lon":57.6141667},{"id":1848349,"name":"beau manguier","country":"mp","lat":-19.9838889,"lon":57.6011111},{"id":1851958,"name":"pereybere","country":"mu","lat":-19.9905556,"lon":57.5855556}]

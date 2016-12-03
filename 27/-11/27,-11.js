@@ -1,0 +1,1 @@
+[{"id":1735806,"name":"abattekh","country":"ma","lat":27.83,"lon":-11.46},{"id":853769,"name":"piedra del kaisser","country":"eh","lat":27.2333333,"lon":-11.7833333}]

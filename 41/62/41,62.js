@@ -1,0 +1,1 @@
+[{"id":3055890,"name":"uchkuduk","country":"uz","lat":41.05,"lon":62.7833333},{"id":3051612,"name":"buzaubay","country":"uz","lat":41.7666667,"lon":62.5}]

@@ -1,0 +1,1 @@
+[{"id":129961,"name":"el parral","country":"ar","lat":-34.013092,"lon":-69.125498},{"id":132228,"name":"los alamitos","country":"ar","lat":-34.063443,"lon":-69.129448},{"id":127463,"name":"agua nueva","country":"ar","lat":-34.977238,"lon":-69.124678},{"id":131632,"name":"la jaula","country":"ar","lat":-34.666667,"lon":-69.316667}]

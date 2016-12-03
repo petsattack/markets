@@ -1,1 +1,0 @@
-[{"id":430279,"name":"bulag sum","country":"cn","lat":45.7,"lon":117.383333},{"id":595680,"name":"targan obo","country":"cn","lat":46.3,"lon":117.4},{"id":1845094,"name":"ikhe aila","country":"mn","lat":46.2833333,"lon":116.7833333},{"id":514370,"name":"lamakulienmiao","country":"cn","lat":45.55,"lon":116.833333}]

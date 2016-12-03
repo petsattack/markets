@@ -1,1 +1,0 @@
-[{"id":1972129,"name":"edjouma","country":"ne","lat":17.4666667,"lon":8.9833333},{"id":1969780,"name":"agessis","country":"ne","lat":17.0666667,"lon":8.7166667},{"id":1977135,"name":"tagadaba","country":"ne","lat":17.4333333,"lon":9.05}]

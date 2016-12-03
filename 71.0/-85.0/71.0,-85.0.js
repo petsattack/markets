@@ -1,1 +1,0 @@
-[{"id":350887,"name":"saputit","country":"ca","lat":70.95,"lon":-84.833333},{"id":351010,"name":"shimik","country":"ca","lat":71.333333,"lon":-84.95}]

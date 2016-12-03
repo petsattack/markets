@@ -1,0 +1,1 @@
+[{"id":3005748,"name":"millican","country":"us","lat":43.8791667,"lon":-120.9188889},{"id":3005494,"name":"hampton","country":"us","lat":43.6727778,"lon":-120.2327778},{"id":3005202,"name":"christmas valley","country":"us","lat":43.2363889,"lon":-120.6358333},{"id":3005119,"name":"brothers","country":"us","lat":43.8138889,"lon":-120.6022222}]

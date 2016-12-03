@@ -1,0 +1,1 @@
+[{"id":408148,"name":"pampa yolanda","country":"cl","lat":-24.966667,"lon":-70.15},{"id":409372,"name":"yolanda norte","country":"cl","lat":-24.916667,"lon":-70.116667},{"id":407941,"name":"morrales","country":"cl","lat":-24.933333,"lon":-70.366667}]

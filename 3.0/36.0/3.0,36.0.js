@@ -1,1 +1,0 @@
-[{"id":1548255,"name":"lodwar","country":"ke","lat":3.1166667,"lon":35.6},{"id":1548258,"name":"loichangamatak","country":"ke","lat":2.6333333,"lon":35.65}]

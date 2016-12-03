@@ -1,1 +1,0 @@
-[{"id":151872,"name":"bokhara","country":"au","lat":-29.113131,"lon":147.45253},{"id":161026,"name":"weilmoringle","country":"au","lat":-29.25,"lon":146.916667},{"id":160047,"name":"tego","country":"au","lat":-28.85,"lon":146.783333}]

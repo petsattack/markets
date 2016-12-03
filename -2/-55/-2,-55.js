@@ -1,0 +1,1 @@
+[{"id":296527,"name":"curuai","country":"br","lat":-2.283333,"lon":-55.483333},{"id":310616,"name":"pinhel","country":"br","lat":-2.916667,"lon":-55.233333},{"id":328522,"name":"vila franca","country":"br","lat":-2.333333,"lon":-55.033333},{"id":290089,"name":"base das canoas","country":"br","lat":-2.25,"lon":-55.95}]

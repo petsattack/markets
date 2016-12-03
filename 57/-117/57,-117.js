@@ -1,0 +1,1 @@
+[{"id":348673,"name":"keg river","country":"ca","lat":57.8,"lon":-117.866667},{"id":348497,"name":"hotchkiss","country":"ca","lat":57.066667,"lon":-117.55}]

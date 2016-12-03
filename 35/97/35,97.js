@@ -1,0 +1,1 @@
+[{"id":478279,"name":"gyaring","country":"cn","lat":35.083333,"lon":97.7},{"id":426796,"name":"barun","country":"cn","lat":35.9,"lon":97.4},{"id":614876,"name":"xar tolgoin belqir","country":"cn","lat":35.583333,"lon":97.433333},{"id":614843,"name":"xang","country":"cn","lat":35.966667,"lon":97.9}]

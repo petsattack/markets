@@ -1,0 +1,1 @@
+[{"id":2912224,"name":"holy cross","country":"us","lat":62.1994444,"lon":-159.7713889},{"id":2912199,"name":"gost creek","country":"us","lat":62.2105556,"lon":-159.7858333},{"id":2912531,"name":"shageluk","country":"us","lat":62.6822222,"lon":-159.5619444},{"id":2912222,"name":"holikachuk","country":"us","lat":62.9097222,"lon":-159.5175}]

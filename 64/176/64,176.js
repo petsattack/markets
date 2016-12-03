@@ -1,0 +1,1 @@
+[{"id":2569931,"name":"zemlyanka bisekera","country":"ru","lat":64.333333,"lon":176.366667},{"id":2518796,"name":"sitko","country":"ru","lat":64.266667,"lon":176.4},{"id":2549522,"name":"velikaya","country":"ru","lat":64.066667,"lon":176.2},{"id":2569934,"name":"zemlyanka sobolkova","country":"ru","lat":64.3,"lon":176.416667}]

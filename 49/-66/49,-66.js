@@ -1,0 +1,1 @@
+[{"id":350604,"name":"sainte-anne-des-monts","country":"ca","lat":49.116667,"lon":-66.483333},{"id":347060,"name":"cap-de-chate","country":"ca","lat":49.083333,"lon":-66.683333},{"id":350643,"name":"sainte marthe de gaspe","country":"ca","lat":49.2,"lon":-66.166667}]

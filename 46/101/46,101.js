@@ -1,0 +1,1 @@
+[{"id":1843405,"name":"burgasutuyn khid","country":"mn","lat":46.8,"lon":101.9166667},{"id":1842816,"name":"bayan dzurikhe sumu","country":"mn","lat":46.3,"lon":101.0},{"id":1847268,"name":"tomor bulag suma","country":"mn","lat":46.2666667,"lon":101.7166667}]

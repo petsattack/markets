@@ -1,0 +1,1 @@
+[{"id":879851,"name":"san carlos","country":"es","lat":39.035323,"lon":1.566367},{"id":880859,"name":"santa ines","country":"es","lat":39.038356,"lon":1.335513},{"id":880179,"name":"san juan","country":"es","lat":39.083333,"lon":1.5},{"id":880443,"name":"san miguel","country":"es","lat":39.055955,"lon":1.43798}]

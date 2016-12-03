@@ -1,0 +1,1 @@
+[{"id":408522,"name":"puerto sara","country":"cl","lat":-52.633333,"lon":-70.2},{"id":405352,"name":"caleta clarencia","country":"cl","lat":-52.9,"lon":-70.1},{"id":408530,"name":"puerto zenteno","country":"cl","lat":-52.8,"lon":-70.8},{"id":407915,"name":"monte alto","country":"cl","lat":-52.533333,"lon":-70.966667}]

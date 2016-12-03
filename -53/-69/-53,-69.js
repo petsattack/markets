@@ -1,0 +1,1 @@
+[{"id":406748,"name":"hotel baquedano","country":"cl","lat":-53.266667,"lon":-69.983333},{"id":408508,"name":"puerto nuevo","country":"cl","lat":-53.35,"lon":-69.433333},{"id":408825,"name":"rio nuevo","country":"cl","lat":-53.266667,"lon":-69.483333},{"id":407953,"name":"munizaga","country":"cl","lat":-53.75,"lon":-69.216667}]

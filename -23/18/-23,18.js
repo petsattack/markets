@@ -1,0 +1,1 @@
+[{"id":1966855,"name":"derm","country":"na","lat":-23.65,"lon":18.2},{"id":1967130,"name":"hoachanas","country":"na","lat":-23.9166667,"lon":18.05},{"id":1967402,"name":"leonardville","country":"na","lat":-23.5,"lon":18.8}]

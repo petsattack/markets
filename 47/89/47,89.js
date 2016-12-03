@@ -1,0 +1,1 @@
+[{"id":604460,"name":"turgun xiang","country":"cn","lat":47.033611,"lon":89.851111},{"id":424818,"name":"bala ertish","country":"cn","lat":47.5,"lon":89.0},{"id":513462,"name":"kurti","country":"cn","lat":47.233333,"lon":89.333333},{"id":596579,"name":"temeke","country":"cn","lat":47.233333,"lon":89.7},{"id":468963,"name":"fuyuncheng","country":"cn","lat":47.216667,"lon":89.65}]

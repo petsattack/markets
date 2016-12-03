@@ -1,1 +1,0 @@
-[{"id":349386,"name":"middle river village","country":"ca","lat":54.866667,"lon":-125.133333},{"id":346549,"name":"babine portage","country":"ca","lat":54.516667,"lon":-125.183333},{"id":351240,"name":"stuart portage","country":"ca","lat":54.6,"lon":-125.083333},{"id":351296,"name":"tachie","country":"ca","lat":54.65,"lon":-124.766667}]

@@ -1,0 +1,1 @@
+[{"id":1643079,"name":"bol\u0027shaya damba","country":"kz","lat":46.952778,"lon":51.749722},{"id":1648628,"name":"malyy peshnoy","country":"kz","lat":46.8,"lon":51.75},{"id":1650172,"name":"peshnoy","country":"kz","lat":46.9,"lon":51.666667},{"id":1648546,"name":"malaya damba","country":"kz","lat":46.916667,"lon":51.716667}]

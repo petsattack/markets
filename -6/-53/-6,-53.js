@@ -1,0 +1,1 @@
+[{"id":291156,"name":"bom sucesso","country":"br","lat":-6.833333,"lon":-53.833333},{"id":293210,"name":"candoca velha","country":"br","lat":-6.95,"lon":-53.533333}]

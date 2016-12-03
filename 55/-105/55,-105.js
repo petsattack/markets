@@ -1,0 +1,1 @@
+[{"id":348912,"name":"la ronge","country":"ca","lat":55.1,"lon":-105.3}]

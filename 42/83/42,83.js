@@ -1,0 +1,1 @@
+[{"id":568979,"name":"shahbulaq","country":"cn","lat":42.2,"lon":83.25},{"id":427060,"name":"bayan gol","country":"cn","lat":42.842778,"lon":83.760833},{"id":514178,"name":"laisu","country":"cn","lat":42.166667,"lon":83.8}]

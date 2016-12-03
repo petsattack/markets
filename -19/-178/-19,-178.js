@@ -1,0 +1,1 @@
+[{"id":913598,"name":"muneran","country":"fj","lat":-19.15,"lon":-178.5833333},{"id":914279,"name":"ongea","country":"fj","lat":-19.15,"lon":-178.4},{"id":914573,"name":"vatoa","country":"fj","lat":-19.8333333,"lon":-178.2333333},{"id":914066,"name":"navindamu","country":"fj","lat":-19.1166667,"lon":-178.6}]

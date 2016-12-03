@@ -1,0 +1,1 @@
+[{"id":307961,"name":"nova olioda","country":"br","lat":-7.1,"lon":-51.666667},{"id":308071,"name":"novo horizonte","country":"br","lat":-7.716667,"lon":-51.183333}]

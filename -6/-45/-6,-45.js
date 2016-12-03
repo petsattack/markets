@@ -1,0 +1,1 @@
+[{"id":308946,"name":"papagaio","country":"br","lat":-6.016667,"lon":-45.35},{"id":313180,"name":"resplendes","country":"br","lat":-6.283333,"lon":-45.216667}]

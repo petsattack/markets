@@ -1,0 +1,1 @@
+[{"id":2936285,"name":"honokohau","country":"us","lat":19.6736111,"lon":-156.0291667},{"id":2936425,"name":"kukio","country":"us","lat":19.8213889,"lon":-156.0019444},{"id":2936464,"name":"makalawena","country":"us","lat":19.7952778,"lon":-156.0294444},{"id":2936454,"name":"mahaiula","country":"us","lat":19.7861111,"lon":-156.0391667}]

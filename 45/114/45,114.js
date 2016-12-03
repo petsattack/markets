@@ -1,0 +1,1 @@
+[{"id":1844977,"name":"hulasatayn suma","country":"mn","lat":45.9833333,"lon":114.9166667},{"id":1843386,"name":"burgaasatayn dugang","country":"mn","lat":45.2166667,"lon":114.0833333},{"id":490955,"name":"hsiyalahuotochia","country":"cn","lat":45.1,"lon":114.45}]

@@ -1,1 +1,0 @@
-[{"id":2505678,"name":"rybnaya baza tumanskaya","country":"ru","lat":64.0,"lon":178.666667}]

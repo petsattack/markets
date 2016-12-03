@@ -1,1 +1,0 @@
-[{"id":469968,"name":"ganjur sum","country":"cn","lat":44.766667,"lon":114.65},{"id":565285,"name":"samuerhchi","country":"cn","lat":44.716667,"lon":115.166667},{"id":427096,"name":"bayan tug","country":"cn","lat":44.916667,"lon":114.65}]

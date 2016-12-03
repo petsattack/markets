@@ -1,1 +1,0 @@
-[{"id":151855,"name":"bogantungan","country":"au","lat":-23.65,"lon":147.3},{"id":150990,"name":"alpha","country":"au","lat":-23.649151,"lon":146.639847},{"id":158666,"name":"pine hill","country":"au","lat":-23.65,"lon":146.966667}]

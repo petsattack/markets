@@ -1,0 +1,1 @@
+[{"id":2658487,"name":"anapi","country":"sr","lat":2.35,"lon":-56.2833333},{"id":2658473,"name":"alalapadu","country":"sr","lat":2.5333333,"lon":-56.3333333},{"id":2658496,"name":"apikolo","country":"sr","lat":2.1166667,"lon":-56.25},{"id":2658806,"name":"kwamalasamutu","country":"sr","lat":2.3333333,"lon":-56.7833333}]

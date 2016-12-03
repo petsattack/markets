@@ -1,0 +1,1 @@
+[{"id":2537705,"name":"tongus-tas","country":"ru","lat":70.733333,"lon":131.4},{"id":2532195,"name":"sytygan-tala","country":"ru","lat":70.703056,"lon":131.123333}]

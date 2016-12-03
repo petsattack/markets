@@ -1,1 +1,0 @@
-[{"id":2413096,"name":"kapitanskaya zaseka","country":"ru","lat":60.9,"lon":139.55},{"id":2416740,"name":"kencha","country":"ru","lat":60.766667,"lon":139.833333}]

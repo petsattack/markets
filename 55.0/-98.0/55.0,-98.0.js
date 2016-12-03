@@ -1,1 +1,0 @@
-[{"id":350026,"name":"pipoon","country":"ca","lat":54.833333,"lon":-98.25},{"id":347459,"name":"cross lake","country":"ca","lat":54.616667,"lon":-97.783333},{"id":351367,"name":"thicket portage","country":"ca","lat":55.316667,"lon":-97.7}]

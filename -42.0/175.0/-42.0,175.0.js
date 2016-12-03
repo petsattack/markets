@@ -1,1 +1,0 @@
-[{"id":2048985,"name":"mangamate","country":"nz","lat":-41.614444,"lon":175.296944},{"id":2049770,"name":"rat hill","country":"nz","lat":-41.540556,"lon":175.410556}]

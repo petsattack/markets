@@ -1,1 +1,0 @@
-[{"id":350521,"name":"saint-anaclet","country":"ca","lat":48.483333,"lon":-68.433333},{"id":350608,"name":"sainte-blandine","country":"ca","lat":48.35,"lon":-68.45},{"id":348819,"name":"lac humqui","country":"ca","lat":48.3,"lon":-67.583333}]

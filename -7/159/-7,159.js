@@ -1,0 +1,1 @@
+[{"id":2580202,"name":"bolitei","country":"sb","lat":-7.85,"lon":159.0166667},{"id":2580196,"name":"boinio","country":"sb","lat":-7.8666667,"lon":159.0666667},{"id":2580152,"name":"banisokeo","country":"sb","lat":-7.9833333,"lon":159.3333333}]

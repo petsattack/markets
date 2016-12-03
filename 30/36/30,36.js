@@ -1,0 +1,1 @@
+[{"id":1527474,"name":"el jafr","country":"jo","lat":30.294562,"lon":36.212148},{"id":1528251,"name":"mashru` tawtin al badu","country":"jo","lat":30.850634,"lon":36.019737},{"id":1527265,"name":"bayir","country":"jo","lat":30.763606,"lon":36.678913}]

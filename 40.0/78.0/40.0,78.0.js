@@ -1,1 +1,0 @@
-[{"id":565064,"name":"saghanquduq","country":"cn","lat":40.166667,"lon":78.166667},{"id":569461,"name":"shamal","country":"cn","lat":39.593611,"lon":78.469722},{"id":565501,"name":"sanchakou","country":"cn","lat":39.937778,"lon":78.461667},{"id":419720,"name":"aksakmaral","country":"cn","lat":39.5,"lon":78.2}]

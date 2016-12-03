@@ -1,0 +1,1 @@
+[{"id":3172847,"name":"dete","country":"zw","lat":-18.6166667,"lon":26.8666667},{"id":3173750,"name":"sinamatila camp","country":"zw","lat":-18.5833333,"lon":26.3166667},{"id":3173900,"name":"wange","country":"zw","lat":-18.3666667,"lon":26.4833333}]

@@ -1,0 +1,1 @@
+[{"id":1606250,"name":"hwangdo","country":"kr","lat":36.2325,"lon":125.961389},{"id":1619324,"name":"oseitori","country":"kr","lat":36.122222,"lon":125.986667}]

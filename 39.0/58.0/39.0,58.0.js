@@ -1,1 +1,0 @@
-[{"id":2760862,"name":"mamed\u0027yar","country":"tm","lat":38.8666667,"lon":58.45},{"id":2760217,"name":"ilen","country":"tm","lat":38.75,"lon":58.25},{"id":2760489,"name":"kazy","country":"tm","lat":39.2166667,"lon":57.5},{"id":2760695,"name":"koshakak","country":"tm","lat":38.75,"lon":57.8}]

@@ -1,1 +1,0 @@
-[{"id":407785,"name":"marin balmaceda","country":"cl","lat":-43.757778,"lon":-72.932222},{"id":405196,"name":"bajo palena","country":"cl","lat":-43.766667,"lon":-72.966667},{"id":408516,"name":"puerto puyuguapi","country":"cl","lat":-44.316667,"lon":-72.566667}]

@@ -1,0 +1,1 @@
+[{"id":131560,"name":"lago posadas","country":"ar","lat":-47.56493,"lon":-71.740098},{"id":133348,"name":"paso del aguila","country":"ar","lat":-47.816667,"lon":-71.983333},{"id":129866,"name":"el glo","country":"ar","lat":-47.28802,"lon":-71.467374},{"id":133380,"name":"paso rodolfo roballos","country":"ar","lat":-47.133333,"lon":-71.85}]

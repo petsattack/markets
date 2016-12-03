@@ -1,0 +1,1 @@
+[{"id":1169235,"name":"dampulis","country":"id","lat":4.75,"lon":127.116667},{"id":1214034,"name":"laloehe","country":"id","lat":4.733333,"lon":127.116667},{"id":1199174,"name":"karatoeng","country":"id","lat":4.716667,"lon":127.083333}]

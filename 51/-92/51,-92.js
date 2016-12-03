@@ -1,0 +1,1 @@
+[{"id":349603,"name":"narrow lake","country":"ca","lat":51.216667,"lon":-92.783333},{"id":347145,"name":"casummit lake","country":"ca","lat":51.466667,"lon":-92.35},{"id":348603,"name":"jackson manion","country":"ca","lat":51.1,"lon":-92.75},{"id":351280,"name":"swain post","country":"ca","lat":51.266667,"lon":-92.683333}]

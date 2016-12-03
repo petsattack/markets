@@ -1,0 +1,1 @@
+[{"id":289622,"name":"barra do garcas","country":"br","lat":-15.883333,"lon":-52.25},{"id":287696,"name":"aragarcas","country":"br","lat":-15.916667,"lon":-52.25},{"id":299976,"name":"general carneiro","country":"br","lat":-15.7,"lon":-52.75}]

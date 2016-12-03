@@ -1,0 +1,1 @@
+[{"id":1258587,"name":"pua","country":"id","lat":-2.936191,"lon":127.896579},{"id":1233055,"name":"naiselan","country":"id","lat":-2.913029,"lon":127.921314},{"id":1260586,"name":"putia","country":"id","lat":-2.971716,"lon":127.971278},{"id":1135101,"name":"anuuni","country":"id","lat":-2.966574,"lon":127.878059}]

@@ -1,0 +1,1 @@
+[{"id":914857,"name":"new island settlement","country":"fk","lat":-51.7166667,"lon":-61.2833333},{"id":914810,"name":"beaver settlement","country":"fk","lat":-51.8583333,"lon":-61.25}]

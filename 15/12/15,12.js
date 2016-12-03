@@ -1,0 +1,1 @@
+[{"id":1976365,"name":"ouedda","country":"ne","lat":15.3333333,"lon":12.0},{"id":1971799,"name":"dilia tehfidinga","country":"ne","lat":15.2666667,"lon":12.1},{"id":1970661,"name":"bela yala","country":"ne","lat":15.55,"lon":12.2},{"id":1975714,"name":"mama kassa","country":"ne","lat":15.25,"lon":12.3}]

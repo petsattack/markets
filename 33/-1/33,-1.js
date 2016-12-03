@@ -1,0 +1,1 @@
+[{"id":1761288,"name":"tendrara","country":"ma","lat":33.051889,"lon":-1.999752},{"id":816027,"name":"el kasdir","country":"dz","lat":33.7,"lon":-1.3833333}]

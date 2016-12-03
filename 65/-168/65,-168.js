@@ -1,0 +1,1 @@
+[{"id":2912625,"name":"wales","country":"us","lat":65.6091667,"lon":-168.0875},{"id":2912128,"name":"diomede","country":"us","lat":65.7369444,"lon":-168.9416667}]

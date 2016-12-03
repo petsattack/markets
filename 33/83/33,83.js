@@ -1,0 +1,1 @@
+[{"id":565239,"name":"samaixung","country":"cn","lat":33.2,"lon":83.766667},{"id":618025,"name":"xianqian gongshe","country":"cn","lat":33.15,"lon":83.283333},{"id":618026,"name":"xianqian","country":"cn","lat":33.1,"lon":83.2},{"id":588931,"name":"sumxoi","country":"cn","lat":33.4,"lon":83.3},{"id":587841,"name":"songxue","country":"cn","lat":33.333333,"lon":83.316667}]

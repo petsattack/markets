@@ -1,1 +1,0 @@
-[{"id":406578,"name":"fachinal","country":"cl","lat":-46.55,"lon":-72.2},{"id":132242,"name":"los antiguos","country":"ar","lat":-46.549717,"lon":-71.630862},{"id":133380,"name":"paso rodolfo roballos","country":"ar","lat":-47.133333,"lon":-71.85},{"id":405747,"name":"chile chico","country":"cl","lat":-46.55,"lon":-71.733333}]

@@ -1,0 +1,1 @@
+[{"id":2982028,"name":"mellan","country":"us","lat":37.7125,"lon":-116.5938889},{"id":2981908,"name":"golden arrow","country":"us","lat":37.9977778,"lon":-116.6052778},{"id":2982194,"name":"silverbow","country":"us","lat":37.8880556,"lon":-116.4911111},{"id":2982205,"name":"springdale","country":"us","lat":37.03,"lon":-116.7541667}]

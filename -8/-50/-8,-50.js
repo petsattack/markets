@@ -1,0 +1,1 @@
+[{"id":286619,"name":"aldeia velha","country":"br","lat":-8.338056,"lon":-50.464444},{"id":314500,"name":"salles","country":"br","lat":-8.783333,"lon":-50.0},{"id":315706,"name":"sao antonio da salta","country":"br","lat":-8.066667,"lon":-50.183333}]

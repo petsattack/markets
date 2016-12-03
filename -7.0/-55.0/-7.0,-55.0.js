@@ -1,1 +1,0 @@
-[{"id":305607,"name":"manuelzinho","country":"br","lat":-7.35,"lon":-54.85}]

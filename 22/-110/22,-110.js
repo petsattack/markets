@@ -1,0 +1,1 @@
+[{"id":1875339,"name":"el suspiro","country":"mx","lat":22.95,"lon":-110.016667},{"id":1857692,"name":"agua escondida","country":"mx","lat":22.974167,"lon":-110.046667},{"id":1890562,"name":"los verdes","country":"mx","lat":22.966667,"lon":-110.016667}]

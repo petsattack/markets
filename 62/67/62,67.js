@@ -1,0 +1,1 @@
+[{"id":2376449,"name":"bolshiye leushi","country":"ru","lat":62.15,"lon":67.2},{"id":2565713,"name":"yurty pakhrinskiye","country":"ru","lat":62.583333,"lon":67.05},{"id":2476966,"name":"novyye karymkary","country":"ru","lat":62.016667,"lon":67.3},{"id":2531976,"name":"synvar","country":"ru","lat":62.283333,"lon":67.916667}]

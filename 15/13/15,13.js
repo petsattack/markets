@@ -1,0 +1,1 @@
+[{"id":1976256,"name":"n\u0027gourty","country":"ne","lat":15.3308333,"lon":13.2005556},{"id":1975119,"name":"koulleie","country":"ne","lat":15.2833333,"lon":13.4},{"id":1970649,"name":"belabiram","country":"ne","lat":15.9833333,"lon":13.2},{"id":1976128,"name":"moul","country":"ne","lat":15.05,"lon":13.3},{"id":1970636,"name":"bedouaram","country":"ne","lat":15.75,"lon":13.15}]

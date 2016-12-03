@@ -1,1 +1,0 @@
-[{"id":2087155,"name":"tereporepo","country":"pf","lat":-14.9666667,"lon":-144.55},{"id":2086909,"name":"fakatopatere","country":"pf","lat":-14.7,"lon":-145.25}]

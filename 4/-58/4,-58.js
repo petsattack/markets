@@ -1,0 +1,1 @@
+[{"id":1077149,"name":"makari","country":"gy","lat":4.55,"lon":-58.55},{"id":1076850,"name":"apoteri","country":"gy","lat":4.0333333,"lon":-58.5833333}]

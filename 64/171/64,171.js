@@ -1,0 +1,1 @@
+[{"id":2524776,"name":"stantsiya mayn","country":"ru","lat":64.516667,"lon":171.2},{"id":2477159,"name":"novyye vayegi","country":"ru","lat":64.166667,"lon":171.033333},{"id":2555264,"name":"vokarevo","country":"ru","lat":64.883333,"lon":171.616667}]

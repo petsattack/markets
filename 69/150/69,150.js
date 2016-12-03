@@ -1,0 +1,1 @@
+[{"id":2363500,"name":"arga-korsyulya","country":"ru","lat":69.0,"lon":150.5},{"id":2562804,"name":"yelikchan","country":"ru","lat":69.65,"lon":150.0},{"id":2535116,"name":"tenalr","country":"ru","lat":69.0,"lon":150.2},{"id":2383407,"name":"bytyktakh","country":"ru","lat":69.316667,"lon":150.9}]

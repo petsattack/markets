@@ -1,0 +1,1 @@
+[{"id":2405765,"name":"gyrynkina ili","country":"ru","lat":57.916667,"lon":118.3},{"id":2485426,"name":"pavlova","country":"ru","lat":57.766667,"lon":118.466667},{"id":2383921,"name":"chapo-olongo","country":"ru","lat":57.0775,"lon":118.834167},{"id":2556712,"name":"voroshilovskoye","country":"ru","lat":57.066667,"lon":118.816667}]

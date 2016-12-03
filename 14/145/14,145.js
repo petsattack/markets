@@ -1,0 +1,1 @@
+[{"id":2998312,"name":"sinapalo","country":"us","lat":14.165,"lon":145.2333333},{"id":2998313,"name":"songsong","country":"us","lat":14.1397222,"lon":145.1411111},{"id":2998304,"name":"puetto","country":"us","lat":14.9633333,"lon":145.6286111}]

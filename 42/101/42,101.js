@@ -1,0 +1,1 @@
+[{"id":587055,"name":"sogo nur","country":"cn","lat":42.2,"lon":101.033333},{"id":601511,"name":"tseko","country":"cn","lat":42.321111,"lon":101.104444},{"id":556947,"name":"qeh","country":"cn","lat":42.3,"lon":101.066667},{"id":1846358,"name":"obotuin-khure","country":"mn","lat":42.9666667,"lon":101.5}]

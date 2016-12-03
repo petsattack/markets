@@ -1,0 +1,1 @@
+[{"id":909508,"name":"riutula","country":"fi","lat":68.95,"lon":26.8},{"id":906092,"name":"madetkoski","country":"fi","lat":68.083333,"lon":26.55},{"id":909601,"name":"rovanen","country":"fi","lat":68.1,"lon":26.583333},{"id":907722,"name":"paadari","country":"fi","lat":68.75,"lon":26.45}]

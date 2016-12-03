@@ -1,0 +1,1 @@
+[{"id":1780594,"name":"ankaboka","country":"mg","lat":-16.7666667,"lon":50.0},{"id":1778382,"name":"analabe","country":"mg","lat":-16.7166667,"lon":50.0},{"id":1782441,"name":"antapakala","country":"mg","lat":-16.75,"lon":50.0}]

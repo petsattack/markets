@@ -1,1 +1,0 @@
-[{"id":2462984,"name":"muli-datta","country":"ru","lat":49.983333,"lon":139.916667},{"id":2541014,"name":"tumnin","country":"ru","lat":49.669607,"lon":140.093911},{"id":2448924,"name":"lyudyu","country":"ru","lat":49.764859,"lon":140.181499}]

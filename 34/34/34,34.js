@@ -1,0 +1,1 @@
+[{"id":697951,"name":"agia napa","country":"cy","lat":34.9916667,"lon":34.0}]

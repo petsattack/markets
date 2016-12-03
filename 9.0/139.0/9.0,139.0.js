@@ -1,1 +1,0 @@
-[{"id":915020,"name":"derikan","country":"fm","lat":9.4913889,"lon":138.7}]

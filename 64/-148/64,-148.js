@@ -1,0 +1,1 @@
+[{"id":2912159,"name":"ester","country":"us","lat":64.8472222,"lon":-148.0144444},{"id":2912553,"name":"standard","country":"us","lat":64.7808333,"lon":-148.5297222}]

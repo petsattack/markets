@@ -1,0 +1,1 @@
+[{"id":2552527,"name":"verkhnyaya lancha","country":"ru","lat":71.866667,"lon":147.066667}]

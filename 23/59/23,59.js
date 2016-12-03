@@ -1,0 +1,1 @@
+[{"id":2051429,"name":"bimah","country":"om","lat":23.0166667,"lon":59.1166667},{"id":2053026,"name":"shijah","country":"om","lat":23.0066667,"lon":59.0097222},{"id":2051494,"name":"daghmar","country":"om","lat":23.1833333,"lon":59.0},{"id":2051486,"name":"dabab","country":"om","lat":23.0797222,"lon":59.0547222}]

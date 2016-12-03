@@ -1,0 +1,1 @@
+[{"id":2912079,"name":"chignik lake","country":"us","lat":56.2555556,"lon":-158.7625},{"id":2912363,"name":"meshik","country":"us","lat":56.9125,"lon":-158.6819444},{"id":2912483,"name":"port heiden","country":"us","lat":56.9491667,"lon":-158.6269444},{"id":2912078,"name":"chignik","country":"us","lat":56.2952778,"lon":-158.4022222}]

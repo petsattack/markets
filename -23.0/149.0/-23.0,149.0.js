@@ -1,1 +1,0 @@
-[{"id":157030,"name":"middlemount","country":"au","lat":-22.81111,"lon":148.698593}]

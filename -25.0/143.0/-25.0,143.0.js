@@ -1,1 +1,0 @@
-[{"id":155601,"name":"jundah","country":"au","lat":-24.833333,"lon":143.066667},{"id":161273,"name":"windorah","country":"au","lat":-25.433333,"lon":142.65},{"id":158350,"name":"opalville","country":"au","lat":-24.783333,"lon":142.733333}]

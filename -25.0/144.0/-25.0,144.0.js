@@ -1,1 +1,0 @@
-[{"id":161037,"name":"welford lagoon","country":"au","lat":-25.05,"lon":143.666667},{"id":161038,"name":"welford","country":"au","lat":-25.116667,"lon":143.716667},{"id":161642,"name":"yaraka","country":"au","lat":-24.883333,"lon":144.083333},{"id":154073,"name":"emmet","country":"au","lat":-24.666667,"lon":144.483333}]

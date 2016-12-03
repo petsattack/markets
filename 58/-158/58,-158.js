@@ -1,0 +1,1 @@
+[{"id":2912434,"name":"nushagak","country":"us","lat":58.9480556,"lon":-158.4922222},{"id":2912241,"name":"igushik","country":"us","lat":58.7102778,"lon":-158.89},{"id":2912093,"name":"clarks point","country":"us","lat":58.8441667,"lon":-158.5508333}]

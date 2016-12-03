@@ -1,0 +1,1 @@
+[{"id":347779,"name":"embarras portage","country":"ca","lat":58.45,"lon":-111.5},{"id":347952,"name":"fort chipewyan","country":"ca","lat":58.716667,"lon":-111.15}]

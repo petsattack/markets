@@ -1,1 +1,0 @@
-[{"id":315167,"name":"santana","country":"br","lat":-0.5,"lon":-63.55}]

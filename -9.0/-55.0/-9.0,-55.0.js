@@ -1,1 +1,0 @@
-[{"id":292012,"name":"cachimbo","country":"br","lat":-8.95,"lon":-54.9}]

@@ -1,0 +1,1 @@
+[{"id":537152,"name":"maqu gongshe","country":"cn","lat":34.201,"lon":91.801},{"id":488998,"name":"hsichieh","country":"cn","lat":34.916667,"lon":91.833333},{"id":537154,"name":"maqu","country":"cn","lat":34.2,"lon":91.8}]

@@ -1,1 +1,0 @@
-[{"id":296759,"name":"diamantina","country":"br","lat":-0.466667,"lon":-49.1}]

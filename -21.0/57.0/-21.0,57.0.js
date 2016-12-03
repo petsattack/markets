@@ -1,1 +1,0 @@
-[{"id":1852135,"name":"union","country":"mu","lat":-20.5,"lon":57.4666667},{"id":1848363,"name":"belle ombre","country":"mp","lat":-20.5022222,"lon":57.4061111},{"id":1851998,"name":"pomponnette","country":"mu","lat":-20.5094444,"lon":57.4802778}]

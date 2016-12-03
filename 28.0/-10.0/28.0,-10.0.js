@@ -1,1 +1,0 @@
-[{"id":1739648,"name":"amot poste","country":"ma","lat":28.199257,"lon":-10.179876},{"id":1761582,"name":"tiglite","country":"ma","lat":28.484333,"lon":-10.31022},{"id":1740021,"name":"aouinet torkoz","country":"ma","lat":28.484203,"lon":-9.851041}]

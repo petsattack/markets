@@ -1,0 +1,1 @@
+[{"id":1028352,"name":"prins christians sund","country":"gl","lat":60.05,"lon":-43.1666667},{"id":1028275,"name":"narsaq","country":"gl","lat":60.5,"lon":-43.4166667}]

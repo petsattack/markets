@@ -1,1 +1,0 @@
-[{"id":568509,"name":"senduo gongshe","country":"cn","lat":32.7,"lon":85.6},{"id":433094,"name":"chamdong","country":"cn","lat":33.0,"lon":85.5},{"id":568511,"name":"senduo","country":"cn","lat":32.75,"lon":85.6},{"id":509134,"name":"kangruo","country":"cn","lat":33.1,"lon":85.6}]

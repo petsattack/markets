@@ -1,0 +1,1 @@
+[{"id":599336,"name":"tingma","country":"cn","lat":33.301,"lon":90.701},{"id":429975,"name":"bongza","country":"cn","lat":33.8,"lon":90.6},{"id":429043,"name":"bengza","country":"cn","lat":33.801,"lon":90.601},{"id":510584,"name":"ketian","country":"cn","lat":33.5,"lon":90.416667},{"id":469633,"name":"gangni","country":"cn","lat":33.3,"lon":90.7}]

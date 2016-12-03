@@ -1,1 +1,0 @@
-[{"id":327359,"name":"tupari","country":"br","lat":2.233333,"lon":-62.633333},{"id":311655,"name":"porto da maloca","country":"br","lat":2.033333,"lon":-63.166667}]

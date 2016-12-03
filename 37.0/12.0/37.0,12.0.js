@@ -1,1 +1,0 @@
-[{"id":1512254,"name":"kamma","country":"it","lat":36.783333,"lon":12.033333},{"id":1516125,"name":"pantelleria","country":"it","lat":36.833333,"lon":11.95}]

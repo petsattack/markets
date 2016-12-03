@@ -1,1 +1,0 @@
-[{"id":130193,"name":"esperanza","country":"ar","lat":-51.022115,"lon":-70.885796},{"id":129787,"name":"el cerrito","country":"ar","lat":-50.618904,"lon":-71.365963},{"id":130526,"name":"fuentes del coyle","country":"ar","lat":-51.033333,"lon":-71.483333}]

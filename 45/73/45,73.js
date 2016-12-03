@@ -1,0 +1,1 @@
+[{"id":1650649,"name":"qashqantengiz","country":"kz","lat":45.795278,"lon":73.383611},{"id":1650947,"name":"rybnyy promysel myk-aral","country":"kz","lat":45.416111,"lon":73.684444},{"id":1653692,"name":"ulken","country":"kz","lat":45.211944,"lon":73.978611},{"id":1650938,"name":"rybalka akerme","country":"kz","lat":45.333333,"lon":73.75}]

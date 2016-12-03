@@ -1,0 +1,1 @@
+[{"id":2922241,"name":"seabright","country":"us","lat":36.9661111,"lon":-122.0066667},{"id":2919754,"name":"gordola","country":"us","lat":36.9752778,"lon":-122.1333333},{"id":2920726,"name":"majors","country":"us","lat":36.9825,"lon":-122.1422222},{"id":2922174,"name":"santa cruz","country":"us","lat":36.9741667,"lon":-122.0297222}]

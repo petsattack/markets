@@ -1,0 +1,1 @@
+[{"id":652690,"name":"zhiqu","country":"cn","lat":34.333333,"lon":95.5},{"id":478271,"name":"gyaqensumdo","country":"cn","lat":34.65,"lon":95.45},{"id":559305,"name":"qidukou","country":"cn","lat":34.45,"lon":95.233333},{"id":644671,"name":"yuge","country":"cn","lat":34.516667,"lon":95.416667},{"id":559470,"name":"qigzhi","country":"cn","lat":34.5,"lon":95.9}]

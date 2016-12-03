@@ -1,0 +1,1 @@
+[{"id":2486621,"name":"perevalochnaya baza","country":"ru","lat":61.866667,"lon":93.333333},{"id":2549704,"name":"velmo","country":"ru","lat":61.020556,"lon":93.424722},{"id":2549702,"name":"velmo pervoye","country":"ru","lat":61.183333,"lon":93.083333}]

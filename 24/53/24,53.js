@@ -1,0 +1,1 @@
+[{"id":404,"name":"mirfa","country":"ae","lat":24.099107,"lon":53.490769},{"id":417,"name":"murawwah","country":"ae","lat":24.294566,"lon":53.330688},{"id":504,"name":"taraif","country":"ae","lat":24.053988,"lon":53.763468},{"id":410,"name":"mughairah","country":"ae","lat":24.07843,"lon":53.53842},{"id":124,"name":"al fuyay\u0027","country":"ae","lat":24.298014,"lon":53.211395}]

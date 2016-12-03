@@ -1,0 +1,1 @@
+[{"id":152472,"name":"burtville","country":"au","lat":-28.783333,"lon":122.65},{"id":153286,"name":"cosmo newberry","country":"au","lat":-28.0,"lon":122.9},{"id":156302,"name":"laverton","country":"au","lat":-28.625311,"lon":122.399399},{"id":157358,"name":"morgans","country":"au","lat":-28.766667,"lon":122.066667}]

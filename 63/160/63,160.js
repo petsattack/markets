@@ -1,0 +1,1 @@
+[{"id":2406391,"name":"ikato","country":"ru","lat":63.266667,"lon":160.466667},{"id":2572761,"name":"zolotogorskaya kitchen","country":"ru","lat":63.583333,"lon":160.716667},{"id":2463119,"name":"munugujak","country":"ru","lat":63.766667,"lon":160.0}]

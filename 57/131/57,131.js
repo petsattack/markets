@@ -1,0 +1,1 @@
+[{"id":2369031,"name":"baza soyuzzoloto","country":"ru","lat":57.816667,"lon":131.05},{"id":2486604,"name":"perevalka","country":"ru","lat":57.65,"lon":131.95},{"id":2401274,"name":"gonam","country":"ru","lat":57.35,"lon":131.2}]

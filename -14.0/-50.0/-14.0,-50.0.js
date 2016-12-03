@@ -1,1 +1,0 @@
-[{"id":296120,"name":"crichas","country":"br","lat":-14.45,"lon":-49.966667},{"id":326562,"name":"terezinha","country":"br","lat":-14.383333,"lon":-49.75}]

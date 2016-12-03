@@ -1,0 +1,1 @@
+[{"id":1818921,"name":"kywibyin","country":"mm","lat":19.95,"lon":92.9833333},{"id":1814428,"name":"kalade","country":"mm","lat":19.9833333,"lon":92.9833333},{"id":1829987,"name":"ponhka","country":"mm","lat":19.9666667,"lon":92.9666667}]

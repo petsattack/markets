@@ -1,0 +1,1 @@
+[{"id":1846025,"name":"mogoyn khure","country":"mn","lat":47.0833333,"lon":95.0833333},{"id":1843106,"name":"bichigt","country":"mn","lat":47.1,"lon":95.0666667},{"id":1847602,"name":"tsogtjargalan","country":"mn","lat":47.5833333,"lon":95.25},{"id":1843369,"name":"buren","country":"mn","lat":47.2666667,"lon":95.9333333}]

@@ -1,0 +1,1 @@
+[{"id":130958,"name":"hualjaina","country":"ar","lat":-42.719046,"lon":-70.550069},{"id":129900,"name":"el mayoco","country":"ar","lat":-42.733528,"lon":-70.966848}]

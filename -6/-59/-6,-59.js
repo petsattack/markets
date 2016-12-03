@@ -1,0 +1,1 @@
+[{"id":294684,"name":"champanha","country":"br","lat":-6.2,"lon":-59.033333},{"id":327284,"name":"tucuman","country":"br","lat":-6.783333,"lon":-59.083333},{"id":294179,"name":"casimiro","country":"br","lat":-6.733333,"lon":-59.083333},{"id":307731,"name":"niteroi","country":"br","lat":-6.7,"lon":-59.1}]

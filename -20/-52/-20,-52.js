@@ -1,0 +1,1 @@
+[{"id":286275,"name":"agua clara","country":"br","lat":-20.45,"lon":-52.866667},{"id":311591,"name":"porto caleano","country":"br","lat":-20.033333,"lon":-52.133333},{"id":317384,"name":"senador victorino","country":"br","lat":-20.566667,"lon":-52.216667}]

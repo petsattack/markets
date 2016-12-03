@@ -1,0 +1,1 @@
+[{"id":350342,"name":"revelstoke","country":"ca","lat":51.0,"lon":-118.183333},{"id":350962,"name":"seymour arm","country":"ca","lat":51.233333,"lon":-118.95}]

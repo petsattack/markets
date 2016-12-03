@@ -1,0 +1,1 @@
+[{"id":128406,"name":"campamento villegas","country":"ar","lat":-43.48954,"lon":-66.141876},{"id":131583,"name":"laguna grande","country":"ar","lat":-43.694638,"lon":-66.851207},{"id":129611,"name":"dique florentino ameghino","country":"ar","lat":-43.666667,"lon":-66.416667},{"id":131857,"name":"las chapas","country":"ar","lat":-43.628909,"lon":-66.612023}]

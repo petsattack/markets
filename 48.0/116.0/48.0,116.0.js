@@ -1,1 +1,0 @@
-[{"id":482889,"name":"herlen","country":"cn","lat":48.183333,"lon":115.866667},{"id":421511,"name":"atunchulu","country":"cn","lat":48.416667,"lon":116.183333},{"id":1843523,"name":"ch\u0027a-la","country":"mn","lat":48.4666667,"lon":115.75}]

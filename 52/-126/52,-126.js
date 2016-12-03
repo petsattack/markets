@@ -1,0 +1,1 @@
+[{"id":347893,"name":"firvale","country":"ca","lat":52.433333,"lon":-126.233333},{"id":348297,"name":"hagensborg","country":"ca","lat":52.383333,"lon":-126.566667},{"id":346699,"name":"bella coola","country":"ca","lat":52.366667,"lon":-126.75},{"id":351241,"name":"stuie","country":"ca","lat":52.366667,"lon":-126.1}]

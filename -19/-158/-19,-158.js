@@ -1,0 +1,1 @@
+[{"id":404938,"name":"tengatangi village","country":"ck","lat":-19.9991667,"lon":-158.1155556},{"id":404934,"name":"teenui","country":"ck","lat":-19.9869444,"lon":-158.1291667},{"id":404906,"name":"mapumai","country":"ck","lat":-19.9877778,"lon":-158.1188889},{"id":404911,"name":"ngatiarua","country":"ck","lat":-19.9986111,"lon":-158.1333333}]

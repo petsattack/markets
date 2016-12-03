@@ -1,1 +1,0 @@
-[{"id":347795,"name":"english brook","country":"ca","lat":51.133333,"lon":-96.2},{"id":350018,"name":"pine falls","country":"ca","lat":50.55,"lon":-96.233333},{"id":349195,"name":"manigotagan","country":"ca","lat":51.1,"lon":-96.3},{"id":346788,"name":"bissett","country":"ca","lat":51.016667,"lon":-95.666667}]

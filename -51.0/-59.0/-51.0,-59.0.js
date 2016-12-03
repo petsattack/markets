@@ -1,1 +1,0 @@
-[{"id":914828,"name":"douglas station","country":"fk","lat":-51.45,"lon":-58.5833333},{"id":914884,"name":"sand fountain","country":"fk","lat":-51.4833333,"lon":-58.75}]

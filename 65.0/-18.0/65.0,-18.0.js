@@ -1,1 +1,0 @@
-[{"id":1503074,"name":"holar","country":"is","lat":65.366667,"lon":-18.25},{"id":1503287,"name":"saurbaer","country":"is","lat":65.45,"lon":-18.216667},{"id":1503206,"name":"mo�ruvellir","country":"is","lat":65.45,"lon":-18.166667}]

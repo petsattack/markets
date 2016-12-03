@@ -1,0 +1,1 @@
+[{"id":350330,"name":"renews","country":"ca","lat":46.933333,"lon":-52.966667},{"id":347871,"name":"fermeuse","country":"ca","lat":46.966667,"lon":-52.966667}]

@@ -1,1 +1,0 @@
-[{"id":609256,"name":"washihshali","country":"cn","lat":38.7,"lon":87.316667},{"id":632331,"name":"yakatograk","country":"cn","lat":38.7,"lon":86.966667},{"id":550750,"name":"paishihtokolako","country":"cn","lat":38.516667,"lon":86.966667}]

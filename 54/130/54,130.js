@@ -1,0 +1,1 @@
+[{"id":2446310,"name":"lonshak","country":"ru","lat":54.733333,"lon":130.45}]

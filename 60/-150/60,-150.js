@@ -1,0 +1,1 @@
+[{"id":2912180,"name":"funny river","country":"us","lat":60.5019444,"lon":-150.7622222},{"id":2912556,"name":"sterling","country":"us","lat":60.5372222,"lon":-150.7647222},{"id":2912391,"name":"naptowne","country":"us","lat":60.5275,"lon":-150.725}]

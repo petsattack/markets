@@ -1,0 +1,1 @@
+[{"id":2052369,"name":"ma\u0027mul","country":"om","lat":18.1333333,"lon":55.2666667},{"id":2052428,"name":"mawaafag","country":"om","lat":18.35,"lon":55.1666667},{"id":2052987,"name":"shalim","country":"om","lat":18.1166667,"lon":55.6333333},{"id":2051848,"name":"hajlat al yahi","country":"om","lat":18.3,"lon":55.9666667}]

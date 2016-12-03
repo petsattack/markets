@@ -1,0 +1,1 @@
+[{"id":134202,"name":"rio bote","country":"ar","lat":-50.25907,"lon":-71.729073},{"id":133375,"name":"paso rio bote","country":"ar","lat":-50.297268,"lon":-71.716877},{"id":129787,"name":"el cerrito","country":"ar","lat":-50.618904,"lon":-71.365963},{"id":133343,"name":"paso charles fuhr","country":"ar","lat":-50.26863,"lon":-71.891834}]

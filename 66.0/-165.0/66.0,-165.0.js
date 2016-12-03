@@ -1,1 +1,0 @@
-[{"id":2912528,"name":"serpentine hot springs","country":"us","lat":65.8569444,"lon":-164.7141667},{"id":2912578,"name":"taylor","country":"us","lat":65.7272222,"lon":-164.8486111}]

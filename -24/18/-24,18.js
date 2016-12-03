@@ -1,0 +1,1 @@
+[{"id":1967730,"name":"oamsib","country":"na","lat":-24.0833333,"lon":18.55},{"id":1968772,"name":"stamprietfontein","country":"na","lat":-24.3333333,"lon":18.4},{"id":1967055,"name":"gochas","country":"na","lat":-24.7833333,"lon":18.8166667},{"id":1966919,"name":"eirup","country":"na","lat":-24.2166667,"lon":18.4}]

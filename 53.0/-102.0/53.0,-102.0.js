@@ -1,1 +1,0 @@
-[{"id":347811,"name":"erwood","country":"ca","lat":52.85,"lon":-102.2},{"id":346483,"name":"armit","country":"ca","lat":52.833333,"lon":-101.85},{"id":348504,"name":"hudson bay","country":"ca","lat":52.85,"lon":-102.383333},{"id":346426,"name":"alticane","country":"ca","lat":52.9,"lon":-102.483333}]

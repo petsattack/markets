@@ -1,0 +1,1 @@
+[{"id":2412386,"name":"kamen soldat","country":"ru","lat":65.383333,"lon":88.55},{"id":2459659,"name":"miroyedinskaya kurya","country":"ru","lat":65.5,"lon":88.033333},{"id":2524608,"name":"stanitsa miroyedikha","country":"ru","lat":65.633333,"lon":88.1}]

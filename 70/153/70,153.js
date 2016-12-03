@@ -1,0 +1,1 @@
+[{"id":2445883,"name":"logaskino","country":"ru","lat":70.85,"lon":153.9}]

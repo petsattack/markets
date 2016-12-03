@@ -1,1 +1,0 @@
-[{"id":130042,"name":"el romerillo","country":"ar","lat":-54.533333,"lon":-66.316667},{"id":133840,"name":"puerto espanol","country":"ar","lat":-54.9,"lon":-65.966667},{"id":129276,"name":"comandante portillo","country":"ar","lat":-54.9,"lon":-66.0}]

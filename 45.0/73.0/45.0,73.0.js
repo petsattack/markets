@@ -1,1 +1,0 @@
-[{"id":1640941,"name":"akbakay","country":"kz","lat":45.0,"lon":72.783333},{"id":1647952,"name":"kyrykkazyk","country":"kz","lat":44.583333,"lon":72.616667},{"id":1647694,"name":"kumuzek","country":"kz","lat":44.65,"lon":72.5}]

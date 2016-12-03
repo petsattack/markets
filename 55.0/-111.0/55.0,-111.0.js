@@ -1,1 +1,0 @@
-[{"id":351081,"name":"snug cove","country":"ca","lat":54.639444,"lon":-111.346389},{"id":348095,"name":"garth","country":"ca","lat":54.533333,"lon":-110.983333},{"id":348341,"name":"happy hollow","country":"ca","lat":54.501111,"lon":-110.558333}]

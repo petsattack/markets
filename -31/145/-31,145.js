@@ -1,0 +1,1 @@
+[{"id":153003,"name":"cobar","country":"au","lat":-31.49873,"lon":145.841827},{"id":157466,"name":"mount drysdale","country":"au","lat":-31.166667,"lon":145.866667},{"id":161502,"name":"wrightville","country":"au","lat":-31.533333,"lon":145.85},{"id":155392,"name":"illewong","country":"au","lat":-31.616667,"lon":145.95}]

@@ -1,1 +1,0 @@
-[{"id":1651391,"name":"sayakskaya pristan\u0027","country":"kz","lat":46.583333,"lon":77.583333},{"id":1648779,"name":"maykamys","country":"kz","lat":46.583333,"lon":77.633333}]

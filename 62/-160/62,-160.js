@@ -1,0 +1,1 @@
+[{"id":2912008,"name":"anvik","country":"us","lat":62.6561111,"lon":-160.2066667},{"id":2912450,"name":"paradise","country":"us","lat":62.4155556,"lon":-160.0491667},{"id":2912201,"name":"grayling","country":"us","lat":62.9036111,"lon":-160.0647222},{"id":2912560,"name":"stuyahok","country":"us","lat":62.0602778,"lon":-160.9508333}]

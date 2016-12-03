@@ -1,0 +1,1 @@
+[{"id":2572024,"name":"zimne-lumbovskiy","country":"ru","lat":67.234706,"lon":39.632819},{"id":2412911,"name":"kanevka","country":"ru","lat":67.127959,"lon":39.67449},{"id":2410546,"name":"kachalovka","country":"ru","lat":67.983333,"lon":39.8}]

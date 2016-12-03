@@ -1,0 +1,1 @@
+[{"id":1846222,"name":"narin teeli","country":"mn","lat":45.95,"lon":101.4833333},{"id":1842939,"name":"bayanteeg","country":"mn","lat":45.6666667,"lon":101.5},{"id":1843021,"name":"bayan uula sumu","country":"mn","lat":45.1666667,"lon":101.4}]

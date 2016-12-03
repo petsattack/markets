@@ -1,0 +1,1 @@
+[{"id":1734278,"name":"bi\u0027r ash shuwayrif","country":"ly","lat":29.9833333,"lon":14.2666667}]

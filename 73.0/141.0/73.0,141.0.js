@@ -1,1 +1,0 @@
-[{"id":2384261,"name":"chay-povarnya","country":"ru","lat":72.866667,"lon":140.833333},{"id":2495933,"name":"povarnya maloye zimovye","country":"ru","lat":73.333333,"lon":141.25}]

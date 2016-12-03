@@ -1,0 +1,1 @@
+[{"id":1645314,"name":"kak baydobek","country":"kz","lat":44.25,"lon":75.083333},{"id":1646855,"name":"kolshyengyel","country":"kz","lat":44.329167,"lon":75.556389}]

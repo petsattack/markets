@@ -1,0 +1,1 @@
+[{"id":2049532,"name":"paraparaumu beach","country":"nz","lat":-40.9,"lon":174.983333},{"id":2049473,"name":"paekakariki","country":"nz","lat":-40.983333,"lon":174.95},{"id":2049775,"name":"raumati south","country":"nz","lat":-40.95,"lon":174.983333},{"id":2049773,"name":"raumati beach","country":"nz","lat":-40.916667,"lon":174.983333}]

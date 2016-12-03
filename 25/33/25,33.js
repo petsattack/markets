@@ -1,0 +1,1 @@
+[{"id":843720,"name":"el-kanayis","country":"eg","lat":25.0,"lon":33.3166667},{"id":842291,"name":"barramiya","country":"eg","lat":25.0666667,"lon":33.7833333}]

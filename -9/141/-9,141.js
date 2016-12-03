@@ -1,0 +1,1 @@
+[{"id":2095069,"name":"mare","country":"pg","lat":-9.1833333,"lon":141.7},{"id":2091937,"name":"jara","country":"pg","lat":-9.1833333,"lon":141.5833333},{"id":2095903,"name":"murin","country":"pg","lat":-9.1166667,"lon":141.3333333},{"id":2098914,"name":"tais","country":"pg","lat":-9.15,"lon":141.9666667}]

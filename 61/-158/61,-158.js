@@ -1,0 +1,1 @@
+[{"id":2912111,"name":"crooked creek","country":"us","lat":61.87,"lon":-158.1108333},{"id":2912446,"name":"oskawalik","country":"us","lat":61.7438889,"lon":-158.1927778},{"id":2912388,"name":"napaimiut","country":"us","lat":61.54,"lon":-158.6741667}]

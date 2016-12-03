@@ -1,0 +1,1 @@
+[{"id":2523893,"name":"srednay itkana","country":"ru","lat":61.633333,"lon":162.6},{"id":2522982,"name":"southern itkana","country":"ru","lat":61.616667,"lon":162.366667},{"id":2450334,"name":"malaya itkana","country":"ru","lat":61.666667,"lon":162.383333}]

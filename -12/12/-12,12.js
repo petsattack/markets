@@ -1,0 +1,1 @@
+[{"id":126821,"name":"viande","country":"ao","lat":-12.890833,"lon":12.985},{"id":114266,"name":"cuio","country":"ao","lat":-12.982222,"lon":12.980278},{"id":115918,"name":"hieque","country":"ao","lat":-12.915278,"lon":12.985833}]

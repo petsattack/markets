@@ -1,0 +1,1 @@
+[{"id":1967621,"name":"namutoni gate","country":"na","lat":-18.8,"lon":17.0333333},{"id":1968350,"name":"oshawello","country":"na","lat":-18.6166667,"lon":17.1666667},{"id":1968842,"name":"tsintsabis","country":"na","lat":-18.7666667,"lon":17.9666667}]

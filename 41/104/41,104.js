@@ -1,0 +1,1 @@
+[{"id":463351,"name":"eren teg","country":"cn","lat":41.416667,"lon":104.994722},{"id":499379,"name":"inggen","country":"cn","lat":41.583333,"lon":104.783333},{"id":613130,"name":"wulanhuhai","country":"cn","lat":41.183333,"lon":104.183333}]

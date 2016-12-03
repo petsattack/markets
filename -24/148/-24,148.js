@@ -1,0 +1,1 @@
+[{"id":159158,"name":"rolleston","country":"au","lat":-24.466667,"lon":148.616667},{"id":159663,"name":"springsure","country":"au","lat":-24.11478,"lon":148.088486}]

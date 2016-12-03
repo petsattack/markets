@@ -1,1 +1,0 @@
-[{"id":128291,"name":"buen pasto","country":"ar","lat":-45.077796,"lon":-69.459111}]

@@ -1,0 +1,1 @@
+[{"id":2912161,"name":"eureka roadhouse","country":"us","lat":61.9386111,"lon":-147.1680556}]

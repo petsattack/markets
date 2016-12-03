@@ -1,0 +1,1 @@
+[{"id":2418039,"name":"kharstan","country":"ru","lat":72.183333,"lon":140.4},{"id":2358468,"name":"adzhirkhaydakh","country":"ru","lat":72.483333,"lon":140.8},{"id":2384261,"name":"chay-povarnya","country":"ru","lat":72.866667,"lon":140.833333}]

@@ -1,1 +1,0 @@
-[{"id":350798,"name":"saint-paul-du-nord","country":"ca","lat":48.566667,"lon":-69.233333},{"id":347941,"name":"forestville","country":"ca","lat":48.733333,"lon":-69.066667},{"id":346742,"name":"bersimis","country":"ca","lat":48.95,"lon":-68.65}]

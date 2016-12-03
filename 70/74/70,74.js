@@ -1,0 +1,1 @@
+[{"id":2546824,"name":"ustye-tadibeyaka","country":"ru","lat":70.374167,"lon":74.124722}]

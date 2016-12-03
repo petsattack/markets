@@ -1,1 +1,0 @@
-[{"id":2658487,"name":"anapi","country":"sr","lat":2.35,"lon":-56.2833333},{"id":2658496,"name":"apikolo","country":"sr","lat":2.1166667,"lon":-56.25},{"id":286463,"name":"akotipa","country":"br","lat":1.916667,"lon":-55.55},{"id":296610,"name":"dansia","country":"br","lat":1.85,"lon":-56.216667},{"id":288162,"name":"asoenangka","country":"br","lat":1.766667,"lon":-56.366667}]

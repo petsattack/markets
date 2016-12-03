@@ -1,0 +1,1 @@
+[{"id":499602,"name":"jangsib","country":"cn","lat":33.85,"lon":94.95},{"id":542198,"name":"mugxung","country":"cn","lat":33.233333,"lon":94.35},{"id":647022,"name":"zagarnagsumdo","country":"cn","lat":33.2,"lon":94.55},{"id":450872,"name":"damxung","country":"cn","lat":33.133333,"lon":94.3},{"id":651319,"name":"zhaxilhapugoin","country":"cn","lat":33.166667,"lon":94.766667}]

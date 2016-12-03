@@ -1,0 +1,1 @@
+[{"id":140,"name":"al-humaimah","country":"ae","lat":22.95805,"lon":54.297206},{"id":327,"name":"je`eisah","country":"ae","lat":22.9941,"lon":54.221835},{"id":329,"name":"jereirah","country":"ae","lat":22.94082,"lon":54.310162}]

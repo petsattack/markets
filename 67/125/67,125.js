@@ -1,0 +1,1 @@
+[{"id":2511812,"name":"severno-sakkyryrskaya","country":"ru","lat":67.2,"lon":125.5}]

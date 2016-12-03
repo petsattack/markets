@@ -1,1 +1,0 @@
-[{"id":114475,"name":"cuvelai","country":"ao","lat":-15.666667,"lon":15.8},{"id":109799,"name":"calemba","country":"ao","lat":-16.066667,"lon":15.733333},{"id":119638,"name":"mupa","country":"ao","lat":-16.166667,"lon":15.75},{"id":113794,"name":"chivemba","country":"ao","lat":-16.0,"lon":15.716667},{"id":108216,"name":"bambi","country":"ao","lat":-15.5,"lon":16.1}]

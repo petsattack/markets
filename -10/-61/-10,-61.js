@@ -1,0 +1,1 @@
+[{"id":312401,"name":"presidente penna","country":"br","lat":-10.866667,"lon":-61.95},{"id":303023,"name":"ji-parana","country":"br","lat":-10.833333,"lon":-61.966667},{"id":295475,"name":"conceicao","country":"br","lat":-10.316667,"lon":-61.85}]

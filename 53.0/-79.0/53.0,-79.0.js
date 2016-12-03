@@ -1,1 +1,0 @@
-[{"id":349811,"name":"old factory river","country":"ca","lat":52.6,"lon":-78.716667},{"id":349773,"name":"nouveau-comptoir","country":"ca","lat":53.0,"lon":-78.816667}]

@@ -1,1 +1,0 @@
-[{"id":840031,"name":"abu sumbul","country":"eg","lat":22.3666667,"lon":31.6333333},{"id":851421,"name":"naj` kibdi","country":"eg","lat":22.2166667,"lon":31.5166667},{"id":852277,"name":"qastal","country":"eg","lat":22.2333333,"lon":31.5666667}]

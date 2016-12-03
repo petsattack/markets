@@ -1,0 +1,1 @@
+[{"id":568328,"name":"sarkobu","country":"cn","lat":42.7925,"lon":81.144167},{"id":510093,"name":"kaxajar","country":"cn","lat":42.821111,"lon":81.038889},{"id":419684,"name":"akdala xiang","country":"cn","lat":42.988611,"lon":81.38},{"id":508660,"name":"ka�k tera�k","country":"cn","lat":42.979722,"lon":81.591944}]

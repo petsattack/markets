@@ -1,0 +1,1 @@
+[{"id":1847830,"name":"ubur urtoyn urto","country":"mn","lat":47.5833333,"lon":114.0833333},{"id":1846998,"name":"sudzhiyn-urto","country":"mn","lat":47.9,"lon":114.7333333},{"id":1846988,"name":"suchzhin yurt","country":"mn","lat":47.8333333,"lon":114.8},{"id":1844132,"name":"dzakhachi urto","country":"mn","lat":47.8333333,"lon":114.2833333}]

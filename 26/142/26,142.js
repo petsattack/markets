@@ -1,0 +1,1 @@
+[{"id":1540205,"name":"okimura","country":"jp","lat":26.65,"lon":142.15},{"id":1535429,"name":"kitamura","country":"jp","lat":26.716667,"lon":142.116667}]

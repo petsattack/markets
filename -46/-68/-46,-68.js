@@ -1,0 +1,1 @@
+[{"id":133503,"name":"piedra clavada","country":"ar","lat":-46.6,"lon":-68.533333},{"id":131362,"name":"kohi el kayke","country":"ar","lat":-46.715577,"lon":-68.222962},{"id":131901,"name":"las heras","country":"ar","lat":-46.541862,"lon":-68.935928}]

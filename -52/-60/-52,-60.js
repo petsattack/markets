@@ -1,0 +1,1 @@
+[{"id":914896,"name":"weddell settlement","country":"fk","lat":-52.8833333,"lon":-60.9},{"id":914872,"name":"port stephens settlement","country":"fk","lat":-52.0833333,"lon":-60.8166667}]

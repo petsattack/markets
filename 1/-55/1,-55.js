@@ -1,0 +1,1 @@
+[{"id":286463,"name":"akotipa","country":"br","lat":1.916667,"lon":-55.55},{"id":326029,"name":"talima","country":"br","lat":1.966667,"lon":-55.0},{"id":286506,"name":"alamoique","country":"br","lat":1.983056,"lon":-55.166667}]

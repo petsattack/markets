@@ -1,0 +1,1 @@
+[{"id":315903,"name":"sao domingoes","country":"br","lat":-8.116667,"lon":-69.483333},{"id":305604,"name":"manuel urbano","country":"br","lat":-8.883333,"lon":-69.3},{"id":306597,"name":"mira-flores","country":"br","lat":-8.45,"lon":-69.983333}]

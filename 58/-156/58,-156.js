@@ -1,0 +1,1 @@
+[{"id":2912284,"name":"king salmon","country":"us","lat":58.6883333,"lon":-156.6613889},{"id":2912311,"name":"kvichak","country":"us","lat":58.9694444,"lon":-156.9305556},{"id":2912520,"name":"savonoski","country":"us","lat":58.7172222,"lon":-156.8638889},{"id":2912550,"name":"south naknek","country":"us","lat":58.7155556,"lon":-156.9980556}]

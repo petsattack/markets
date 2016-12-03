@@ -1,0 +1,1 @@
+[{"id":2912334,"name":"long","country":"us","lat":64.4036111,"lon":-155.4972222},{"id":2912508,"name":"ruby","country":"us","lat":64.7394444,"lon":-155.4869444},{"id":2912561,"name":"sulatna crossing","country":"us","lat":64.1891667,"lon":-155.4636111},{"id":2912474,"name":"poorman","country":"us","lat":64.0994444,"lon":-155.5438889}]

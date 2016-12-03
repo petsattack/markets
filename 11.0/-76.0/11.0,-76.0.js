@@ -1,1 +1,0 @@
-[{"id":669981,"name":"hacienda manzanillo del mar","country":"co","lat":10.516667,"lon":-75.5},{"id":680738,"name":"punta de canoa","country":"co","lat":10.554425,"lon":-75.501611}]

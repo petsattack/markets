@@ -1,1 +1,0 @@
-[{"id":2957676,"name":"anejet","country":"us","lat":6.0333333,"lon":171.9333333},{"id":2957680,"name":"bioleen","country":"us","lat":6.0333333,"lon":172.0333333},{"id":2957678,"name":"aneloklab","country":"us","lat":5.9166667,"lon":172.1333333},{"id":2957679,"name":"bikoniing","country":"us","lat":6.2333333,"lon":171.8}]

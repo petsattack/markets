@@ -1,0 +1,1 @@
+[{"id":308044,"name":"novo apua","country":"br","lat":-8.383333,"lon":-65.75},{"id":290828,"name":"boca do curuquete","country":"br","lat":-8.316667,"lon":-65.683333}]

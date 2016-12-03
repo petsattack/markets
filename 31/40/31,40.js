@@ -1,0 +1,1 @@
+[{"id":1371585,"name":"makhfar umm al hashw","country":"iq","lat":31.8641667,"lon":40.6247222},{"id":2578085,"name":"ibn su`ayyid","country":"sa","lat":31.068416,"lon":40.785686},{"id":2577992,"name":"hazm al jalamid","country":"sa","lat":31.282691,"lon":40.103696},{"id":1371570,"name":"makhfar al abyad","country":"iq","lat":31.7894444,"lon":40.7288889}]

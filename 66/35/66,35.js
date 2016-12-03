@@ -1,0 +1,1 @@
+[{"id":2407726,"name":"indel","country":"ru","lat":66.962697,"lon":35.281839},{"id":2479659,"name":"olenitsa","country":"ru","lat":66.469754,"lon":35.321234},{"id":2552170,"name":"verkhniy vyalozerskiy","country":"ru","lat":66.749973,"lon":35.214561},{"id":2507117,"name":"salnitsa","country":"ru","lat":66.4,"lon":35.8}]

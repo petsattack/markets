@@ -1,0 +1,1 @@
+[{"id":330067,"name":"khomodimo village","country":"bw","lat":-22.7166667,"lon":23.8666667},{"id":329970,"name":"chukudu kraal","country":"bw","lat":-22.45,"lon":23.3833333}]

@@ -1,0 +1,1 @@
+[{"id":1846150,"name":"nalikhin dugang","country":"mn","lat":43.2,"lon":105.5833333},{"id":1842644,"name":"barun khural","country":"mn","lat":43.75,"lon":105.5666667},{"id":1842674,"name":"baruunsuu","country":"mn","lat":43.6972222,"lon":105.7363889},{"id":1842926,"name":"bayan ovoo","country":"mn","lat":43.0166667,"lon":105.5333333}]

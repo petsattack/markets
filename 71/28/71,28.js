@@ -1,0 +1,1 @@
+[{"id":2037488,"name":"gamvik","country":"no","lat":71.05,"lon":28.233333},{"id":2044913,"name":"steinvagen","country":"no","lat":71.083333,"lon":28.166667}]

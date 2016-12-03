@@ -1,1 +1,0 @@
-[{"id":2540520,"name":"tsynga","country":"ru","lat":59.768158,"lon":70.895092},{"id":2507262,"name":"salym","country":"ru","lat":60.0625,"lon":71.478889},{"id":2417035,"name":"keum","country":"ru","lat":59.6245,"lon":71.186},{"id":2437071,"name":"kuim","country":"ru","lat":59.520423,"lon":70.698157},{"id":2462754,"name":"mugen","country":"ru","lat":59.805278,"lon":70.793889}]

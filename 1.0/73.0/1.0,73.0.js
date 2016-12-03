@@ -1,1 +1,0 @@
-[{"id":1852187,"name":"viligili","country":"mv","lat":0.75,"lon":73.3833333},{"id":1852182,"name":"thinadhoo","country":"mv","lat":0.5333333,"lon":72.9333333}]

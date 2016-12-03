@@ -1,0 +1,1 @@
+[{"id":308878,"name":"pampeiro","country":"br","lat":-7.133333,"lon":-69.616667},{"id":299415,"name":"forrambamba","country":"br","lat":-7.083333,"lon":-69.683333}]

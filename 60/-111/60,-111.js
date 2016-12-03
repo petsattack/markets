@@ -1,0 +1,1 @@
+[{"id":347943,"name":"fork lake","country":"ca","lat":60.883333,"lon":-111.083333},{"id":348000,"name":"fort smith","country":"ca","lat":60.0,"lon":-111.883333}]

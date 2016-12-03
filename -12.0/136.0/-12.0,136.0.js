@@ -1,1 +1,0 @@
-[{"id":154413,"name":"galiwinku","country":"au","lat":-12.02811,"lon":135.564865}]

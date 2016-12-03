@@ -1,0 +1,1 @@
+[{"id":595688,"name":"tarian","country":"cn","lat":44.5,"lon":116.2},{"id":536730,"name":"maoteng","country":"cn","lat":44.2,"lon":116.5},{"id":436016,"name":"chaokowula","country":"cn","lat":44.8,"lon":116.4}]

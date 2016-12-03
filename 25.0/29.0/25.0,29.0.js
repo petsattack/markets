@@ -1,1 +1,0 @@
-[{"id":842001,"name":"`azbet tulaytlah","country":"eg","lat":25.4833333,"lon":29.2333333},{"id":850870,"name":"mut","country":"eg","lat":25.4833333,"lon":28.9833333}]

@@ -1,1 +1,0 @@
-[{"id":1792506,"name":"vorisy","country":"mg","lat":-21.2333333,"lon":43.4},{"id":1782116,"name":"antanambazaha","country":"mg","lat":-21.4166667,"lon":43.4666667}]

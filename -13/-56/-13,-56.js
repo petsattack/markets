@@ -1,0 +1,1 @@
+[{"id":317472,"name":"seringal tres lagoas","country":"br","lat":-13.783333,"lon":-56.533333},{"id":294489,"name":"cedro","country":"br","lat":-13.283333,"lon":-56.1},{"id":299907,"name":"garimpo rio claro","country":"br","lat":-13.75,"lon":-56.683333},{"id":310908,"name":"piuva","country":"br","lat":-13.483333,"lon":-56.1}]

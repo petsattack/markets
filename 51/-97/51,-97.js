@@ -1,0 +1,1 @@
+[{"id":348465,"name":"hodgson","country":"ca","lat":51.2,"lon":-97.566667},{"id":350392,"name":"riverton","country":"ca","lat":51.0,"lon":-97.0},{"id":347490,"name":"dallas","country":"ca","lat":51.383333,"lon":-97.483333}]

@@ -1,0 +1,1 @@
+[{"id":297126,"name":"emilio magno","country":"br","lat":-16.133333,"lon":-38.966667},{"id":299047,"name":"felicidade","country":"br","lat":-16.2,"lon":-38.983333},{"id":306801,"name":"mojiquicaba","country":"br","lat":-16.083333,"lon":-38.966667}]

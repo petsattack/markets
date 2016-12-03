@@ -1,0 +1,1 @@
+[{"id":2374943,"name":"bolshaya itkana","country":"ru","lat":61.7,"lon":163.283333},{"id":2478201,"name":"oana","country":"ru","lat":61.633333,"lon":163.166667},{"id":2408970,"name":"is-yen","country":"ru","lat":61.666667,"lon":163.033333}]

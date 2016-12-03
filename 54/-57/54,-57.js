@@ -1,0 +1,1 @@
+[{"id":348475,"name":"holton harbour","country":"ca","lat":54.566667,"lon":-57.266667},{"id":351710,"name":"west bay","country":"ca","lat":54.133333,"lon":-57.416667},{"id":351070,"name":"smokey","country":"ca","lat":54.466667,"lon":-57.25}]

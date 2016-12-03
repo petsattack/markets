@@ -1,0 +1,1 @@
+[{"id":2550762,"name":"verkhne vartovskaya","country":"ru","lat":60.043056,"lon":79.032222},{"id":2375938,"name":"bolshe-labaz-yeganovskiye","country":"ru","lat":60.981111,"lon":79.325278}]

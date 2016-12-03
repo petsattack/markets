@@ -1,0 +1,1 @@
+[{"id":2470830,"name":"nori","country":"ru","lat":66.1525,"lon":72.381667},{"id":2527205,"name":"staryye nori","country":"ru","lat":66.166667,"lon":72.366667},{"id":2478088,"name":"nyda","country":"ru","lat":66.624722,"lon":72.922778},{"id":2477904,"name":"numgi","country":"ru","lat":66.649444,"lon":72.983611}]

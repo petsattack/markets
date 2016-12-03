@@ -1,0 +1,1 @@
+[{"id":2097652,"name":"rambuso","country":"pg","lat":-11.4833333,"lon":153.55},{"id":2098891,"name":"tagula","country":"pg","lat":-11.3333333,"lon":153.2166667},{"id":2094598,"name":"madaua","country":"pg","lat":-11.4833333,"lon":153.3}]

@@ -1,0 +1,1 @@
+[{"id":351201,"name":"stewart river","country":"ca","lat":63.316667,"lon":-139.416667},{"id":349800,"name":"ogilvie","country":"ca","lat":63.566667,"lon":-139.733333},{"id":351368,"name":"thistle creek","country":"ca","lat":63.066667,"lon":-139.483333},{"id":350293,"name":"readford","country":"ca","lat":63.766667,"lon":-139.1}]

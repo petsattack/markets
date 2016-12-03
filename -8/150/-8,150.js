@@ -1,0 +1,1 @@
+[{"id":2093654,"name":"kudawaga","country":"pg","lat":-8.5,"lon":150.9333333},{"id":2093300,"name":"koma","country":"pg","lat":-8.5,"lon":150.9666667}]

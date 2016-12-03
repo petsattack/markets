@@ -1,1 +1,0 @@
-[{"id":2577559,"name":"dalqan","country":"sa","lat":24.25,"lon":42.616667},{"id":2575653,"name":"al bazazah","country":"sa","lat":23.966667,"lon":43.466667},{"id":2575539,"name":"al ash`ariyah","country":"sa","lat":24.358417,"lon":43.001342},{"id":2575432,"name":"`afif","country":"sa","lat":23.906503,"lon":42.91724}]

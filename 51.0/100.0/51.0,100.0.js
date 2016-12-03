@@ -1,1 +1,0 @@
-[{"id":1846590,"name":"rinchinlhumbe","country":"mn","lat":51.1125,"lon":99.6694444}]

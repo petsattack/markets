@@ -1,0 +1,1 @@
+[{"id":2572228,"name":"zimovye talasy","country":"ru","lat":63.416667,"lon":135.8},{"id":2490846,"name":"pochtovaya stantsiya khatyn-uryakh","country":"ru","lat":63.016667,"lon":135.2},{"id":2537656,"name":"tompo","country":"ru","lat":63.9,"lon":135.85},{"id":2490845,"name":"pochtovaya stantsiya byas","country":"ru","lat":63.15,"lon":135.433333}]

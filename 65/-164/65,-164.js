@@ -1,0 +1,1 @@
+[{"id":2912116,"name":"dahl","country":"us","lat":65.3647222,"lon":-164.7136111},{"id":2912528,"name":"serpentine hot springs","country":"us","lat":65.8569444,"lon":-164.7141667},{"id":2912578,"name":"taylor","country":"us","lat":65.7272222,"lon":-164.8486111},{"id":2912463,"name":"pilgrim springs","country":"us","lat":65.0936111,"lon":-164.9238889}]

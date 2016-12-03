@@ -1,0 +1,1 @@
+[{"id":1966884,"name":"drimiopsis","country":"na","lat":-22.0833333,"lon":19.05},{"id":1966812,"name":"buitepos","country":"na","lat":-22.2666667,"lon":19.9833333},{"id":1967377,"name":"kroonster","country":"na","lat":-22.0333333,"lon":19.5}]

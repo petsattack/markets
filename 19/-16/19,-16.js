@@ -1,0 +1,1 @@
+[{"id":1850620,"name":"regbet thila","country":"mr","lat":19.4166667,"lon":-16.4666667},{"id":1850286,"name":"iwik","country":"mr","lat":19.8666667,"lon":-16.3},{"id":1850757,"name":"tikattane","country":"mr","lat":19.0333333,"lon":-16.2333333},{"id":1850130,"name":"el memrhar","country":"mr","lat":19.3666667,"lon":-16.5166667}]

@@ -1,1 +1,0 @@
-[{"id":2537026,"name":"tochino","country":"ru","lat":69.759444,"lon":85.098889},{"id":2450402,"name":"malaya kheta","country":"ru","lat":69.565,"lon":84.549444},{"id":2396043,"name":"faktoriya malyshevka","country":"ru","lat":69.8,"lon":84.833333}]

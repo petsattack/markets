@@ -1,0 +1,1 @@
+[{"id":2551676,"name":"verkhniy gutar","country":"ru","lat":54.220833,"lon":96.969444}]

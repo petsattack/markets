@@ -1,1 +1,0 @@
-[{"id":638253,"name":"yawatonga�uz","country":"cn","lat":37.966667,"lon":83.266667},{"id":602824,"name":"tulkichikol","country":"cn","lat":37.566667,"lon":82.8}]

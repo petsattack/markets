@@ -1,1 +1,0 @@
-[{"id":1503315,"name":"skel�flotur","country":"is","lat":63.433333,"lon":-19.183333},{"id":1503265,"name":"reynir","country":"is","lat":63.416667,"lon":-19.05},{"id":1503423,"name":"vik","country":"is","lat":63.416667,"lon":-19.016667},{"id":1502951,"name":"dyrholahverfi","country":"is","lat":63.416667,"lon":-19.166667}]

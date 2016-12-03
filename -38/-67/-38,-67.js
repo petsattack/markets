@@ -1,0 +1,1 @@
+[{"id":128950,"name":"cipolletti","country":"ar","lat":-38.933918,"lon":-67.990322},{"id":130616,"name":"general fernandez oro","country":"ar","lat":-38.952967,"lon":-67.924888},{"id":127592,"name":"allen","country":"ar","lat":-38.977356,"lon":-67.827138}]

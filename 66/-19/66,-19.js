@@ -1,0 +1,1 @@
+[{"id":1502894,"name":"bar�","country":"is","lat":66.05,"lon":-19.133333},{"id":1502967,"name":"fell","country":"is","lat":66.033333,"lon":-19.383333},{"id":1503022,"name":"haganesvik","country":"is","lat":66.083333,"lon":-19.166667}]
